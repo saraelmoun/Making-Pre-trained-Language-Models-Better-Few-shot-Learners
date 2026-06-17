@@ -1,0 +1,25 @@
+Device : cuda | modele : t5-3b | beam : 100 (CR)
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/509 [00:00<?, ?it/s]Loading weights:  80%|███████▉  | 406/509 [00:00<00:00, 4054.92it/s]Loading weights: 100%|██████████| 509/509 [00:00<00:00, 4067.00it/s]
+Repo card metadata block was not found. Setting CardData to empty.
+Generation a partir de 32 exemples CR (seed 42)
+
+--- variante 'after' ---
+  81 nouveaux templates
+
+--- variante 'before' ---
+  5 nouveaux templates
+
+86 templates (CR) -> outputs_cr/08a_templates.json / .txt
+   [before] (score -1.342)  , {mask} , {sentence}
+   [before] (score -1.449)  , it is {mask} , {sentence}
+   [before] (score -1.474)  , the quality is {mask} , {sentence}
+   [before] (score -1.476)  , it's {mask} , {sentence}
+   [after ] (score -1.484)  {sentence} It's {mask} .
+   [before] (score -1.487)  , looks {mask} , {sentence}
+   [after ] (score -1.562)  {sentence} it's {mask} .
+   [after ] (score -1.562)  {sentence} Thanks for the {mask} review.
+   [after ] (score -1.618)  {sentence} The quality is {mask} .
+   [after ] (score -1.626)  {sentence} It is {mask} .
+   [after ] (score -1.633)  {sentence} It's {mask} !
+   [after ] (score -1.634)  {sentence} It’s {mask} .

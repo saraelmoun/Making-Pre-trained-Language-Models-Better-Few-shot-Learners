@@ -1,0 +1,432 @@
+[
+  {
+    "template": ", {mask} , {sentence}",
+    "score": -1.3422,
+    "variant": "before"
+  },
+  {
+    "template": ", it is {mask} , {sentence}",
+    "score": -1.4494,
+    "variant": "before"
+  },
+  {
+    "template": ", the quality is {mask} , {sentence}",
+    "score": -1.4742,
+    "variant": "before"
+  },
+  {
+    "template": ", it's {mask} , {sentence}",
+    "score": -1.4755,
+    "variant": "before"
+  },
+  {
+    "template": "{sentence} It's {mask} .",
+    "score": -1.4836,
+    "variant": "after"
+  },
+  {
+    "template": ", looks {mask} , {sentence}",
+    "score": -1.4868,
+    "variant": "before"
+  },
+  {
+    "template": "{sentence} it's {mask} .",
+    "score": -1.5615,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} Thanks for the {mask} review.",
+    "score": -1.5615,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} The quality is {mask} .",
+    "score": -1.618,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} It is {mask} .",
+    "score": -1.6257,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} It's {mask} !",
+    "score": -1.6334,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} It’s {mask} .",
+    "score": -1.6338,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} Its {mask} .",
+    "score": -1.6458,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} This is a {mask} .",
+    "score": -1.6546,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} This is {mask} .",
+    "score": -1.6563,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} Thanks for the {mask} review!",
+    "score": -1.6735,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} the quality is {mask} .",
+    "score": -1.6757,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} . . {mask} .",
+    "score": -1.6994,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} Thanks for your {mask} review.",
+    "score": -1.7018,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} Overall a {mask} experience.",
+    "score": -1.7087,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} it's {mask} !",
+    "score": -1.7094,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} it is {mask} .",
+    "score": -1.7103,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} Thanks for the {mask} service.",
+    "score": -1.7122,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} Overall a {mask} product.",
+    "score": -1.7177,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} The price is {mask} .",
+    "score": -1.7236,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} So far so {mask} .",
+    "score": -1.7262,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} What a {mask} product.",
+    "score": -1.738,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} It is a {mask} .",
+    "score": -1.7393,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} Thanks for your {mask} service.",
+    "score": -1.7527,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} This is a {mask} product.",
+    "score": -1.754,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} a {mask} product .",
+    "score": -1.7647,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} a {mask} experience .",
+    "score": -1.7701,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} It is really {mask} .",
+    "score": -1.7758,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} All in all {mask} .",
+    "score": -1.7775,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} I think its {mask} .",
+    "score": -1.7785,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} Looks {mask} .",
+    "score": -1.7844,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} Thanks for this {mask} review.",
+    "score": -1.7846,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} thanks for the {mask} review.",
+    "score": -1.7854,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} What a {mask} idea.",
+    "score": -1.7876,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} It’s {mask} !",
+    "score": -1.7889,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} Its a {mask} .",
+    "score": -1.8027,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} What a {mask} experience.",
+    "score": -1.804,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} this is {mask} .",
+    "score": -1.8073,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} It was {mask} .",
+    "score": -1.8114,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} this is a {mask} .",
+    "score": -1.8133,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} What a {mask} product!",
+    "score": -1.8161,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} Thanks for the {mask} review .",
+    "score": -1.8179,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} It looks {mask} .",
+    "score": -1.8249,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} . . {mask} !",
+    "score": -1.8259,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} Thanks for the {mask} reviews.",
+    "score": -1.8294,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} What a {mask} idea!",
+    "score": -1.8313,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} its a {mask} .",
+    "score": -1.8338,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} Thanks for your {mask} review!",
+    "score": -1.836,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} This is a {mask} !",
+    "score": -1.8381,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} what a {mask} product.",
+    "score": -1.8387,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} Its {mask} !",
+    "score": -1.8402,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} its a {mask} product.",
+    "score": -1.8428,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} It is {mask} !",
+    "score": -1.8443,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} This is {mask} !",
+    "score": -1.8465,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} Thanks for the {mask} product.",
+    "score": -1.847,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} Thanks for the {mask} service!",
+    "score": -1.8522,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} What a {mask} deal.",
+    "score": -1.8553,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} So far so {mask} !",
+    "score": -1.8607,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} what a {mask} idea.",
+    "score": -1.861,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} Overall a {mask} experience .",
+    "score": -1.8619,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} . {mask} .",
+    "score": -1.8642,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} What a {mask} experience!",
+    "score": -1.8692,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} The quality is {mask} !",
+    "score": -1.8734,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} What a {mask} deal!",
+    "score": -1.8794,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} It is a {mask} product.",
+    "score": -1.8817,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} Overall a {mask} product .",
+    "score": -1.8898,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} Thanks for the {mask} review !",
+    "score": -1.891,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} It's {mask} ! !",
+    "score": -1.8914,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} This is a {mask} idea.",
+    "score": -1.8938,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} a {mask} product.",
+    "score": -1.8962,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} It is just {mask} .",
+    "score": -1.897,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} this is a {mask} product.",
+    "score": -1.9018,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} which is {mask} .",
+    "score": -1.9032,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} it was {mask} .",
+    "score": -1.9046,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} This is really {mask} .",
+    "score": -1.9083,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} Thanks for this {mask} review!",
+    "score": -1.9127,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} Thanks for your {mask} service!",
+    "score": -1.9135,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} a {mask} experience.",
+    "score": -1.9137,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} That is {mask} .",
+    "score": -1.914,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} This is a {mask} deal.",
+    "score": -1.9182,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} Thanks for the {mask} service .",
+    "score": -1.9199,
+    "variant": "after"
+  }
+]

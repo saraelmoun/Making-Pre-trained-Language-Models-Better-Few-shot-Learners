@@ -1,0 +1,18 @@
+{
+  "step": "07_auto_labelwords",
+  "dataset": "CR (SetFit/SentEval-CR)",
+  "best_label_words": {
+    "0": "difficult",
+    "1": "impressive"
+  },
+  "test_scores": [
+    91.5,
+    89.8,
+    87.5,
+    89.9,
+    89.4
+  ],
+  "mean": 89.6,
+  "std": 1.3,
+  "note_manuel_nous": "great/terrible -> voir etape 04"
+}

@@ -1,0 +1,702 @@
+[
+  {
+    "class0_word": "ridiculous",
+    "class1_word": "magnificent",
+    "class0_id": 10861,
+    "class1_id": 19243,
+    "zeroshot_acc": 90.62
+  },
+  {
+    "class0_word": "bizarre",
+    "class1_word": "extraordinary",
+    "class0_id": 11676,
+    "class1_id": 7116,
+    "zeroshot_acc": 90.62
+  },
+  {
+    "class0_word": "worse",
+    "class1_word": "magnificent",
+    "class0_id": 3007,
+    "class1_id": 19243,
+    "zeroshot_acc": 87.5
+  },
+  {
+    "class0_word": "embarrassing",
+    "class1_word": "phenomenal",
+    "class0_id": 13394,
+    "class1_id": 16599,
+    "zeroshot_acc": 87.5
+  },
+  {
+    "class0_word": "expensive",
+    "class1_word": "important",
+    "class0_id": 3214,
+    "class1_id": 505,
+    "zeroshot_acc": 87.5
+  },
+  {
+    "class0_word": "frustrating",
+    "class1_word": "powerful",
+    "class0_id": 10314,
+    "class1_id": 2247,
+    "zeroshot_acc": 87.5
+  },
+  {
+    "class0_word": "terrible",
+    "class1_word": "amazing",
+    "class0_id": 6587,
+    "class1_id": 2770,
+    "zeroshot_acc": 84.38
+  },
+  {
+    "class0_word": "horrible",
+    "class1_word": "extraordinary",
+    "class0_id": 11385,
+    "class1_id": 7116,
+    "zeroshot_acc": 84.38
+  },
+  {
+    "class0_word": "worse",
+    "class1_word": "successful",
+    "class0_id": 3007,
+    "class1_id": 1800,
+    "zeroshot_acc": 84.38
+  },
+  {
+    "class0_word": "worse",
+    "class1_word": "born",
+    "class0_id": 3007,
+    "class1_id": 2421,
+    "zeroshot_acc": 84.38
+  },
+  {
+    "class0_word": "worse",
+    "class1_word": "extraordinary",
+    "class0_id": 3007,
+    "class1_id": 7116,
+    "zeroshot_acc": 84.38
+  },
+  {
+    "class0_word": "worse",
+    "class1_word": "important",
+    "class0_id": 3007,
+    "class1_id": 505,
+    "zeroshot_acc": 84.38
+  },
+  {
+    "class0_word": "worse",
+    "class1_word": "exciting",
+    "class0_id": 3007,
+    "class1_id": 3571,
+    "zeroshot_acc": 84.38
+  },
+  {
+    "class0_word": "weird",
+    "class1_word": "exciting",
+    "class0_id": 7735,
+    "class1_id": 3571,
+    "zeroshot_acc": 84.38
+  },
+  {
+    "class0_word": "raining",
+    "class1_word": "important",
+    "class0_id": 31832,
+    "class1_id": 505,
+    "zeroshot_acc": 84.38
+  },
+  {
+    "class0_word": "fine",
+    "class1_word": "refreshing",
+    "class0_id": 2051,
+    "class1_id": 17846,
+    "zeroshot_acc": 84.38
+  },
+  {
+    "class0_word": "embarrassing",
+    "class1_word": "necessary",
+    "class0_id": 13394,
+    "class1_id": 2139,
+    "zeroshot_acc": 84.38
+  },
+  {
+    "class0_word": "embarrassing",
+    "class1_word": "extraordinary",
+    "class0_id": 13394,
+    "class1_id": 7116,
+    "zeroshot_acc": 84.38
+  },
+  {
+    "class0_word": "embarrassing",
+    "class1_word": "important",
+    "class0_id": 13394,
+    "class1_id": 505,
+    "zeroshot_acc": 84.38
+  },
+  {
+    "class0_word": "embarrassing",
+    "class1_word": "exciting",
+    "class0_id": 13394,
+    "class1_id": 3571,
+    "zeroshot_acc": 84.38
+  },
+  {
+    "class0_word": "ridiculous",
+    "class1_word": "necessary",
+    "class0_id": 10861,
+    "class1_id": 2139,
+    "zeroshot_acc": 84.38
+  },
+  {
+    "class0_word": "ridiculous",
+    "class1_word": "successful",
+    "class0_id": 10861,
+    "class1_id": 1800,
+    "zeroshot_acc": 84.38
+  },
+  {
+    "class0_word": "ridiculous",
+    "class1_word": "extraordinary",
+    "class0_id": 10861,
+    "class1_id": 7116,
+    "zeroshot_acc": 84.38
+  },
+  {
+    "class0_word": "ridiculous",
+    "class1_word": "devastating",
+    "class0_id": 10861,
+    "class1_id": 7360,
+    "zeroshot_acc": 84.38
+  },
+  {
+    "class0_word": "ridiculous",
+    "class1_word": "exciting",
+    "class0_id": 10861,
+    "class1_id": 3571,
+    "zeroshot_acc": 84.38
+  },
+  {
+    "class0_word": "ridiculous",
+    "class1_word": "phenomenal",
+    "class0_id": 10861,
+    "class1_id": 16599,
+    "zeroshot_acc": 84.38
+  },
+  {
+    "class0_word": "boring",
+    "class1_word": "powerful",
+    "class0_id": 15305,
+    "class1_id": 2247,
+    "zeroshot_acc": 84.38
+  },
+  {
+    "class0_word": "disgusting",
+    "class1_word": "magnificent",
+    "class0_id": 21096,
+    "class1_id": 19243,
+    "zeroshot_acc": 84.38
+  },
+  {
+    "class0_word": "disgusting",
+    "class1_word": "exciting",
+    "class0_id": 21096,
+    "class1_id": 3571,
+    "zeroshot_acc": 84.38
+  },
+  {
+    "class0_word": "bizarre",
+    "class1_word": "refreshing",
+    "class0_id": 11676,
+    "class1_id": 17846,
+    "zeroshot_acc": 84.38
+  },
+  {
+    "class0_word": "obvious",
+    "class1_word": "powerful",
+    "class0_id": 4678,
+    "class1_id": 2247,
+    "zeroshot_acc": 84.38
+  },
+  {
+    "class0_word": "unfortunate",
+    "class1_word": "important",
+    "class0_id": 9327,
+    "class1_id": 505,
+    "zeroshot_acc": 84.38
+  },
+  {
+    "class0_word": "unfortunate",
+    "class1_word": "refreshing",
+    "class0_id": 9327,
+    "class1_id": 17846,
+    "zeroshot_acc": 84.38
+  },
+  {
+    "class0_word": "unfortunate",
+    "class1_word": "exciting",
+    "class0_id": 9327,
+    "class1_id": 3571,
+    "zeroshot_acc": 84.38
+  },
+  {
+    "class0_word": "impossible",
+    "class1_word": "powerful",
+    "class0_id": 4703,
+    "class1_id": 2247,
+    "zeroshot_acc": 84.38
+  },
+  {
+    "class0_word": "bad",
+    "class1_word": "wonderful",
+    "class0_id": 1099,
+    "class1_id": 4613,
+    "zeroshot_acc": 81.25
+  },
+  {
+    "class0_word": "easy",
+    "class1_word": "perfect",
+    "class0_id": 1365,
+    "class1_id": 1969,
+    "zeroshot_acc": 81.25
+  },
+  {
+    "class0_word": "disappointing",
+    "class1_word": "incredible",
+    "class0_id": 6770,
+    "class1_id": 3997,
+    "zeroshot_acc": 81.25
+  },
+  {
+    "class0_word": "disappointing",
+    "class1_word": "fantastic",
+    "class0_id": 6770,
+    "class1_id": 5500,
+    "zeroshot_acc": 81.25
+  },
+  {
+    "class0_word": "awful",
+    "class1_word": "beautiful",
+    "class0_id": 11522,
+    "class1_id": 2721,
+    "zeroshot_acc": 81.25
+  },
+  {
+    "class0_word": "awful",
+    "class1_word": "incredible",
+    "class0_id": 11522,
+    "class1_id": 3997,
+    "zeroshot_acc": 81.25
+  },
+  {
+    "class0_word": "awful",
+    "class1_word": "refreshing",
+    "class0_id": 11522,
+    "class1_id": 17846,
+    "zeroshot_acc": 81.25
+  },
+  {
+    "class0_word": "expected",
+    "class1_word": "born",
+    "class0_id": 421,
+    "class1_id": 2421,
+    "zeroshot_acc": 81.25
+  },
+  {
+    "class0_word": "horrible",
+    "class1_word": "incredible",
+    "class0_id": 11385,
+    "class1_id": 3997,
+    "zeroshot_acc": 81.25
+  },
+  {
+    "class0_word": "horrible",
+    "class1_word": "devastating",
+    "class0_id": 11385,
+    "class1_id": 7360,
+    "zeroshot_acc": 81.25
+  },
+  {
+    "class0_word": "complicated",
+    "class1_word": "remarkable",
+    "class0_id": 6336,
+    "class1_id": 7063,
+    "zeroshot_acc": 81.25
+  },
+  {
+    "class0_word": "complicated",
+    "class1_word": "extraordinary",
+    "class0_id": 6336,
+    "class1_id": 7116,
+    "zeroshot_acc": 81.25
+  },
+  {
+    "class0_word": "worse",
+    "class1_word": "necessary",
+    "class0_id": 3007,
+    "class1_id": 2139,
+    "zeroshot_acc": 81.25
+  },
+  {
+    "class0_word": "worse",
+    "class1_word": "there",
+    "class0_id": 3007,
+    "class1_id": 89,
+    "zeroshot_acc": 81.25
+  },
+  {
+    "class0_word": "weird",
+    "class1_word": "refreshing",
+    "class0_id": 7735,
+    "class1_id": 17846,
+    "zeroshot_acc": 81.25
+  },
+  {
+    "class0_word": "raining",
+    "class1_word": "magnificent",
+    "class0_id": 31832,
+    "class1_id": 19243,
+    "zeroshot_acc": 81.25
+  },
+  {
+    "class0_word": "shocking",
+    "class1_word": "phenomenal",
+    "class0_id": 8777,
+    "class1_id": 16599,
+    "zeroshot_acc": 81.25
+  },
+  {
+    "class0_word": "fine",
+    "class1_word": "intense",
+    "class0_id": 2051,
+    "class1_id": 5676,
+    "zeroshot_acc": 81.25
+  },
+  {
+    "class0_word": "embarrassing",
+    "class1_word": "successful",
+    "class0_id": 13394,
+    "class1_id": 1800,
+    "zeroshot_acc": 81.25
+  },
+  {
+    "class0_word": "embarrassing",
+    "class1_word": "magnificent",
+    "class0_id": 13394,
+    "class1_id": 19243,
+    "zeroshot_acc": 81.25
+  },
+  {
+    "class0_word": "embarrassing",
+    "class1_word": "superb",
+    "class0_id": 13394,
+    "class1_id": 11415,
+    "zeroshot_acc": 81.25
+  },
+  {
+    "class0_word": "ridiculous",
+    "class1_word": "remarkable",
+    "class0_id": 10861,
+    "class1_id": 7063,
+    "zeroshot_acc": 81.25
+  },
+  {
+    "class0_word": "ridiculous",
+    "class1_word": "important",
+    "class0_id": 10861,
+    "class1_id": 505,
+    "zeroshot_acc": 81.25
+  },
+  {
+    "class0_word": "ridiculous",
+    "class1_word": "refreshing",
+    "class0_id": 10861,
+    "class1_id": 17846,
+    "zeroshot_acc": 81.25
+  },
+  {
+    "class0_word": "ridiculous",
+    "class1_word": "powerful",
+    "class0_id": 10861,
+    "class1_id": 2247,
+    "zeroshot_acc": 81.25
+  },
+  {
+    "class0_word": "ridiculous",
+    "class1_word": "delicious",
+    "class0_id": 10861,
+    "class1_id": 10964,
+    "zeroshot_acc": 81.25
+  },
+  {
+    "class0_word": "scary",
+    "class1_word": "magnificent",
+    "class0_id": 10222,
+    "class1_id": 19243,
+    "zeroshot_acc": 81.25
+  },
+  {
+    "class0_word": "boring",
+    "class1_word": "remarkable",
+    "class0_id": 15305,
+    "class1_id": 7063,
+    "zeroshot_acc": 81.25
+  },
+  {
+    "class0_word": "boring",
+    "class1_word": "magnificent",
+    "class0_id": 15305,
+    "class1_id": 19243,
+    "zeroshot_acc": 81.25
+  },
+  {
+    "class0_word": "boring",
+    "class1_word": "phenomenal",
+    "class0_id": 15305,
+    "class1_id": 16599,
+    "zeroshot_acc": 81.25
+  },
+  {
+    "class0_word": "disgusting",
+    "class1_word": "important",
+    "class0_id": 21096,
+    "class1_id": 505,
+    "zeroshot_acc": 81.25
+  },
+  {
+    "class0_word": "disgusting",
+    "class1_word": "heartbreaking",
+    "class0_id": 21096,
+    "class1_id": 17052,
+    "zeroshot_acc": 81.25
+  },
+  {
+    "class0_word": "expensive",
+    "class1_word": "magnificent",
+    "class0_id": 3214,
+    "class1_id": 19243,
+    "zeroshot_acc": 81.25
+  },
+  {
+    "class0_word": "bizarre",
+    "class1_word": "unexpected",
+    "class0_id": 11676,
+    "class1_id": 7152,
+    "zeroshot_acc": 81.25
+  },
+  {
+    "class0_word": "bizarre",
+    "class1_word": "successful",
+    "class0_id": 11676,
+    "class1_id": 1800,
+    "zeroshot_acc": 81.25
+  },
+  {
+    "class0_word": "bizarre",
+    "class1_word": "magnificent",
+    "class0_id": 11676,
+    "class1_id": 19243,
+    "zeroshot_acc": 81.25
+  },
+  {
+    "class0_word": "bizarre",
+    "class1_word": "powerful",
+    "class0_id": 11676,
+    "class1_id": 2247,
+    "zeroshot_acc": 81.25
+  },
+  {
+    "class0_word": "frustrating",
+    "class1_word": "fascinating",
+    "class0_id": 10314,
+    "class1_id": 12509,
+    "zeroshot_acc": 81.25
+  },
+  {
+    "class0_word": "frustrating",
+    "class1_word": "timely",
+    "class0_id": 10314,
+    "class1_id": 10358,
+    "zeroshot_acc": 81.25
+  },
+  {
+    "class0_word": "confusing",
+    "class1_word": "important",
+    "class0_id": 15868,
+    "class1_id": 505,
+    "zeroshot_acc": 81.25
+  },
+  {
+    "class0_word": "painful",
+    "class1_word": "important",
+    "class0_id": 8661,
+    "class1_id": 505,
+    "zeroshot_acc": 81.25
+  },
+  {
+    "class0_word": "surprising",
+    "class1_word": "unexpected",
+    "class0_id": 6167,
+    "class1_id": 7152,
+    "zeroshot_acc": 81.25
+  },
+  {
+    "class0_word": "unfortunate",
+    "class1_word": "extraordinary",
+    "class0_id": 9327,
+    "class1_id": 7116,
+    "zeroshot_acc": 81.25
+  },
+  {
+    "class0_word": "unfortunate",
+    "class1_word": "phenomenal",
+    "class0_id": 9327,
+    "class1_id": 16599,
+    "zeroshot_acc": 81.25
+  },
+  {
+    "class0_word": "bad",
+    "class1_word": "amazing",
+    "class0_id": 1099,
+    "class1_id": 2770,
+    "zeroshot_acc": 78.12
+  },
+  {
+    "class0_word": "bad",
+    "class1_word": "beautiful",
+    "class0_id": 1099,
+    "class1_id": 2721,
+    "zeroshot_acc": 78.12
+  },
+  {
+    "class0_word": "bad",
+    "class1_word": "incredible",
+    "class0_id": 1099,
+    "class1_id": 3997,
+    "zeroshot_acc": 78.12
+  },
+  {
+    "class0_word": "bad",
+    "class1_word": "remarkable",
+    "class0_id": 1099,
+    "class1_id": 7063,
+    "zeroshot_acc": 78.12
+  },
+  {
+    "class0_word": "bad",
+    "class1_word": "exciting",
+    "class0_id": 1099,
+    "class1_id": 3571,
+    "zeroshot_acc": 78.12
+  },
+  {
+    "class0_word": "terrible",
+    "class1_word": "brilliant",
+    "class0_id": 6587,
+    "class1_id": 6967,
+    "zeroshot_acc": 78.12
+  },
+  {
+    "class0_word": "terrible",
+    "class1_word": "wonderful",
+    "class0_id": 6587,
+    "class1_id": 4613,
+    "zeroshot_acc": 78.12
+  },
+  {
+    "class0_word": "terrible",
+    "class1_word": "incredible",
+    "class0_id": 6587,
+    "class1_id": 3997,
+    "zeroshot_acc": 78.12
+  },
+  {
+    "class0_word": "terrible",
+    "class1_word": "fantastic",
+    "class0_id": 6587,
+    "class1_id": 5500,
+    "zeroshot_acc": 78.12
+  },
+  {
+    "class0_word": "funny",
+    "class1_word": "wonderful",
+    "class0_id": 6269,
+    "class1_id": 4613,
+    "zeroshot_acc": 78.12
+  },
+  {
+    "class0_word": "funny",
+    "class1_word": "fantastic",
+    "class0_id": 6269,
+    "class1_id": 5500,
+    "zeroshot_acc": 78.12
+  },
+  {
+    "class0_word": "easy",
+    "class1_word": "incredible",
+    "class0_id": 1365,
+    "class1_id": 3997,
+    "zeroshot_acc": 78.12
+  },
+  {
+    "class0_word": "disappointing",
+    "class1_word": "remarkable",
+    "class0_id": 6770,
+    "class1_id": 7063,
+    "zeroshot_acc": 78.12
+  },
+  {
+    "class0_word": "awful",
+    "class1_word": "wonderful",
+    "class0_id": 11522,
+    "class1_id": 4613,
+    "zeroshot_acc": 78.12
+  },
+  {
+    "class0_word": "awful",
+    "class1_word": "perfect",
+    "class0_id": 11522,
+    "class1_id": 1969,
+    "zeroshot_acc": 78.12
+  },
+  {
+    "class0_word": "awful",
+    "class1_word": "magnificent",
+    "class0_id": 11522,
+    "class1_id": 19243,
+    "zeroshot_acc": 78.12
+  },
+  {
+    "class0_word": "expected",
+    "class1_word": "on",
+    "class0_id": 421,
+    "class1_id": 15,
+    "zeroshot_acc": 78.12
+  },
+  {
+    "class0_word": "expected",
+    "class1_word": "unexpected",
+    "class0_id": 421,
+    "class1_id": 7152,
+    "zeroshot_acc": 78.12
+  },
+  {
+    "class0_word": "wrong",
+    "class1_word": "extraordinary",
+    "class0_id": 1593,
+    "class1_id": 7116,
+    "zeroshot_acc": 78.12
+  },
+  {
+    "class0_word": "wrong",
+    "class1_word": "superb",
+    "class0_id": 1593,
+    "class1_id": 11415,
+    "zeroshot_acc": 78.12
+  },
+  {
+    "class0_word": "pretty",
+    "class1_word": "brilliant",
+    "class0_id": 1256,
+    "class1_id": 6967,
+    "zeroshot_acc": 78.12
+  }
+]

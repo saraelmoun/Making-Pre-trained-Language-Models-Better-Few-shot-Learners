@@ -1,0 +1,26 @@
+{
+  "step": "01_dataset_inspection",
+  "dataset": "CR (Customer Reviews)",
+  "hf_name": "SetFit/SentEval-CR",
+  "task": "sentiment binaire (positif/negatif)",
+  "splits": {
+    "train": { "n": 3012, "columns": ["text", "label", "label_text"] },
+    "test": { "n": 753, "columns": ["text", "label", "label_text"] }
+  },
+  "label_mapping": { "0": "negatif", "1": "positif" },
+  "label_examples": [
+    { "label": 1, "text": "4 megapixels is enough for anybody and the photo quality is ..." },
+    { "label": 0, "text": "canon 's g3 does it consistently ." }
+  ],
+  "manual_prompt_paper_table1": {
+    "template": "{sentence} It was {mask} .",
+    "label_words": { "0": "terrible", "1": "great" }
+  },
+  "paper_table3_targets": {
+    "prompt_based_zero_shot": 79.5,
+    "fine_tuning_standard": 75.8,
+    "prompt_based_ft_manual": 90.3,
+    "prompt_based_ft_auto_template": 85.5
+  },
+  "note": "Pas de split validation officiel -> on tirera val depuis le train, test = split test (753)."
+}

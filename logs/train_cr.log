@@ -1,0 +1,77 @@
+Device : cuda | CR prompt-based FT manuel | 5 seeds
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/394 [00:00<?, ?it/s]Loading weights:  38%|███▊      | 151/394 [00:00<00:00, 1463.54it/s]Loading weights: 100%|██████████| 394/394 [00:00<00:00, 2161.84it/s]
+Repo card metadata block was not found. Setting CardData to empty.
+  seed 13 | lr=1e-05 bs=2 -> val 93.8% | test 88.6%
+Loading weights:   0%|          | 0/394 [00:00<?, ?it/s]Loading weights:  36%|███▌      | 140/394 [00:00<00:00, 1397.60it/s]Loading weights:  71%|███████   | 280/394 [00:00<00:00, 1292.30it/s]Loading weights: 100%|██████████| 394/394 [00:00<00:00, 1377.49it/s]
+Repo card metadata block was not found. Setting CardData to empty.
+  seed 13 | lr=1e-05 bs=4 -> val 93.8% | test 90.2%
+Loading weights:   0%|          | 0/394 [00:00<?, ?it/s]Loading weights:  30%|██▉       | 118/394 [00:00<00:00, 1174.03it/s]Loading weights:  60%|█████▉    | 236/394 [00:00<00:00, 1088.25it/s]Loading weights: 100%|██████████| 394/394 [00:00<00:00, 1331.23it/s]
+Repo card metadata block was not found. Setting CardData to empty.
+  seed 13 | lr=2e-05 bs=4 -> val 96.9% | test 89.6%
+Loading weights:   0%|          | 0/394 [00:00<?, ?it/s]Loading weights:  29%|██▉       | 114/394 [00:00<00:00, 1125.64it/s]Loading weights:  58%|█████▊    | 227/394 [00:00<00:00, 871.54it/s] Loading weights: 100%|██████████| 394/394 [00:00<00:00, 1179.38it/s]
+Repo card metadata block was not found. Setting CardData to empty.
+  seed 13 | lr=2e-05 bs=8 -> val 93.8% | test 89.0%
+==> seed 13 : config (2e-05, 4) -> TEST 89.6%
+
+Loading weights:   0%|          | 0/394 [00:00<?, ?it/s]Loading weights:  89%|████████▉ | 351/394 [00:00<00:00, 3425.46it/s]Loading weights: 100%|██████████| 394/394 [00:00<00:00, 3150.37it/s]
+Repo card metadata block was not found. Setting CardData to empty.
+  seed 21 | lr=1e-05 bs=2 -> val 90.6% | test 88.4%
+Loading weights:   0%|          | 0/394 [00:00<?, ?it/s]Loading weights:  18%|█▊        | 72/394 [00:00<00:00, 686.15it/s]Loading weights:  44%|████▍     | 173/394 [00:00<00:00, 872.77it/s]Loading weights:  66%|██████▌   | 261/394 [00:00<00:00, 861.43it/s]Loading weights: 100%|██████████| 394/394 [00:00<00:00, 1118.19it/s]
+Repo card metadata block was not found. Setting CardData to empty.
+  seed 21 | lr=1e-05 bs=4 -> val 90.6% | test 88.6%
+Loading weights:   0%|          | 0/394 [00:00<?, ?it/s]Loading weights:  28%|██▊       | 109/394 [00:00<00:00, 1050.03it/s]Loading weights:  55%|█████▍    | 215/394 [00:00<00:00, 991.94it/s] Loading weights: 100%|██████████| 394/394 [00:00<00:00, 1400.97it/s]
+Repo card metadata block was not found. Setting CardData to empty.
+  seed 21 | lr=2e-05 bs=4 -> val 90.6% | test 81.4%
+Loading weights:   0%|          | 0/394 [00:00<?, ?it/s]Loading weights:  76%|███████▋  | 301/394 [00:00<00:00, 2965.41it/s]Loading weights: 100%|██████████| 394/394 [00:00<00:00, 2746.18it/s]
+Repo card metadata block was not found. Setting CardData to empty.
+  seed 21 | lr=2e-05 bs=8 -> val 90.6% | test 89.8%
+==> seed 21 : config (2e-05, 4) -> TEST 81.4%
+
+Loading weights:   0%|          | 0/394 [00:00<?, ?it/s]Loading weights:  98%|█████████▊| 388/394 [00:00<00:00, 3877.03it/s]Loading weights: 100%|██████████| 394/394 [00:00<00:00, 3913.44it/s]
+Repo card metadata block was not found. Setting CardData to empty.
+  seed 42 | lr=1e-05 bs=2 -> val 93.8% | test 85.5%
+Loading weights:   0%|          | 0/394 [00:00<?, ?it/s]Loading weights:  19%|█▉        | 75/394 [00:00<00:00, 749.96it/s]Loading weights:  58%|█████▊    | 230/394 [00:00<00:00, 1101.25it/s]Loading weights: 100%|██████████| 394/394 [00:00<00:00, 1430.56it/s]
+Repo card metadata block was not found. Setting CardData to empty.
+  seed 42 | lr=1e-05 bs=4 -> val 90.6% | test 91.8%
+Loading weights:   0%|          | 0/394 [00:00<?, ?it/s]Loading weights:  77%|███████▋  | 303/394 [00:00<00:00, 3028.13it/s]Loading weights: 100%|██████████| 394/394 [00:00<00:00, 3167.71it/s]
+Repo card metadata block was not found. Setting CardData to empty.
+  seed 42 | lr=2e-05 bs=4 -> val 90.6% | test 89.9%
+Loading weights:   0%|          | 0/394 [00:00<?, ?it/s]Loading weights:  92%|█████████▏| 364/394 [00:00<00:00, 3639.15it/s]Loading weights: 100%|██████████| 394/394 [00:00<00:00, 3776.18it/s]
+Repo card metadata block was not found. Setting CardData to empty.
+  seed 42 | lr=2e-05 bs=8 -> val 93.8% | test 90.4%
+==> seed 42 : config (1e-05, 2) -> TEST 85.5%
+
+Loading weights:   0%|          | 0/394 [00:00<?, ?it/s]Loading weights:  16%|█▌        | 62/394 [00:00<00:00, 616.27it/s]Loading weights:  43%|████▎     | 171/394 [00:00<00:00, 869.47it/s]Loading weights:  70%|██████▉   | 275/394 [00:00<00:00, 928.26it/s]Loading weights: 100%|██████████| 394/394 [00:00<00:00, 1054.53it/s]
+Repo card metadata block was not found. Setting CardData to empty.
+  seed 87 | lr=1e-05 bs=2 -> val 96.9% | test 90.8%
+Loading weights:   0%|          | 0/394 [00:00<?, ?it/s]Loading weights:  94%|█████████▎| 369/394 [00:00<00:00, 3682.99it/s]Loading weights: 100%|██████████| 394/394 [00:00<00:00, 3557.70it/s]
+Repo card metadata block was not found. Setting CardData to empty.
+  seed 87 | lr=1e-05 bs=4 -> val 93.8% | test 90.6%
+Loading weights:   0%|          | 0/394 [00:00<?, ?it/s]Loading weights:  22%|██▏       | 85/394 [00:00<00:00, 847.71it/s]Loading weights:  49%|████▉     | 193/394 [00:00<00:00, 982.19it/s]Loading weights: 100%|██████████| 394/394 [00:00<00:00, 1499.32it/s]
+Repo card metadata block was not found. Setting CardData to empty.
+  seed 87 | lr=2e-05 bs=4 -> val 93.8% | test 81.9%
+Loading weights:   0%|          | 0/394 [00:00<?, ?it/s]Loading weights:  68%|██████▊   | 268/394 [00:00<00:00, 2679.29it/s]Loading weights: 100%|██████████| 394/394 [00:00<00:00, 2710.10it/s]
+Repo card metadata block was not found. Setting CardData to empty.
+  seed 87 | lr=2e-05 bs=8 -> val 93.8% | test 90.3%
+==> seed 87 : config (1e-05, 2) -> TEST 90.8%
+
+Loading weights:   0%|          | 0/394 [00:00<?, ?it/s]Loading weights: 100%|██████████| 394/394 [00:00<00:00, 3981.67it/s]
+Repo card metadata block was not found. Setting CardData to empty.
+  seed 100 | lr=1e-05 bs=2 -> val 93.8% | test 88.6%
+Loading weights:   0%|          | 0/394 [00:00<?, ?it/s]Loading weights:  97%|█████████▋| 384/394 [00:00<00:00, 3839.47it/s]Loading weights: 100%|██████████| 394/394 [00:00<00:00, 3886.68it/s]
+Repo card metadata block was not found. Setting CardData to empty.
+  seed 100 | lr=1e-05 bs=4 -> val 90.6% | test 89.9%
+Loading weights:   0%|          | 0/394 [00:00<?, ?it/s]Loading weights:  64%|██████▎   | 251/394 [00:00<00:00, 2509.52it/s]Loading weights: 100%|██████████| 394/394 [00:00<00:00, 2552.12it/s]
+Repo card metadata block was not found. Setting CardData to empty.
+  seed 100 | lr=2e-05 bs=4 -> val 96.9% | test 91.2%
+Loading weights:   0%|          | 0/394 [00:00<?, ?it/s]Loading weights:  33%|███▎      | 131/394 [00:00<00:00, 1254.02it/s]Loading weights:  65%|██████▌   | 257/394 [00:00<00:00, 1250.00it/s]Loading weights: 100%|██████████| 394/394 [00:00<00:00, 1314.89it/s]
+Repo card metadata block was not found. Setting CardData to empty.
+  seed 100 | lr=2e-05 bs=8 -> val 100.0% | test 91.2%
+==> seed 100 : config (2e-05, 8) -> TEST 91.2%
+
+==================================================
+Scores test par seed : [89.6, 81.4, 85.5, 90.8, 91.2]
+Prompt-based FT (manuel) CR : 87.7 +/- 3.8
+Cible papier : 90.3
+Rapport -> outputs_cr/04_prompt_ft_manual.json et .txt

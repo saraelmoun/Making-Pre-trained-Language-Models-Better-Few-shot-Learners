@@ -1,0 +1,26 @@
+{
+  "step": "01_dataset_inspection",
+  "dataset": "MR (Movie Reviews)",
+  "hf_name": "cornell-movie-review-data/rotten_tomatoes",
+  "task": "sentiment binaire (positif/negatif)",
+  "splits": {
+    "train": { "n": 8530, "columns": ["text", "label"] },
+    "validation": { "n": 1066, "columns": ["text", "label"] },
+    "test": { "n": 1066, "columns": ["text", "label"] }
+  },
+  "label_mapping": { "0": "negatif", "1": "positif" },
+  "label_balance_train": { "0": 4265, "1": 4265 },
+  "label_examples": [
+    { "label": 1, "text": "the rock is destined to be the 21st century's new \" conan \" ..." },
+    { "label": 1, "text": "the gorgeously elaborate continuation of \" the lord of the rings \" ..." },
+    { "label": 0, "text": "things really get weird , though not particularly scary ..." }
+  ],
+  "manual_prompt_paper_table1": {
+    "template": "{sentence} It was {mask} .",
+    "label_words": { "0": "terrible", "1": "great" }
+  },
+  "paper_table3_targets": {
+    "prompt_based_ft_manual": 87.0,
+    "fine_tuning_standard": 76.9
+  }
+}

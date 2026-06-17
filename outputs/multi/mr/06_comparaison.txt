@@ -1,0 +1,18 @@
+ETAPE 6 — SYNTHESE MR (Movie Reviews) vs PAPIER (LM-BFF, Table 3)
+==================================================================
+Methode                        Nous             Papier  
+------------------------------------------------------------------
+Prompt-based zero-shot         78.6             80.8    
+Fine-tuning classique          72.5 +/- 9.4     76.9    
+Prompt-based FT (manuel)       85.4 +/- 2.7     87.0    
+Auto-template (5.2)            86.4 +/- 3.8     88.5    
+Auto-mots-labels (5.1)         85.5 +/- 4.0     -       
+------------------------------------------------------------------
+
+Template auto choisi   : {sentence} it was a {mask} movie .
+Mots-labels auto       : {'0': 'bad', '1': 'here'}
+
+Conclusion : le pipeline complet generalise de SST-2 a MR.
+  - prompt-based FT (85.4) >> fine-tuning classique (72.5), et bcp plus stable
+  - auto-template (86.4) et auto-mots-labels (85.5) egalent/depassent le manuel (85.4)
+  - meme tendance que le papier, a ~2 points pres (ecart systematique constant)

@@ -1,0 +1,7 @@
+ETAPE 8 — AUTO TEMPLATE (§5.2) sur CR
+=============================================
+Template auto choisi : {sentence} What a {mask} experience!
+Scores test : [90.3, 89.4, 92.0, 90.7, 86.5]
+Prompt-based FT (AUTO template) : 89.8 +/- 1.9
+Cible papier (Table 3, CR auto) : 85.5
+(rappel) manuel It was [MASK], nous : voir etape 04

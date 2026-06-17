@@ -1,0 +1,1115 @@
+[
+  {
+    "template": "{sentence} a {mask} film.",
+    "variant": "after",
+    "gen_score": -2.1475,
+    "val_acc": 100.0,
+    "val_loss": 0.001
+  },
+  {
+    "template": "{sentence} it is {mask} .",
+    "variant": "after",
+    "gen_score": -2.0097,
+    "val_acc": 100.0,
+    "val_loss": 0.0015
+  },
+  {
+    "template": "{sentence} . A {mask} read.",
+    "variant": "after",
+    "gen_score": -2.1479,
+    "val_acc": 100.0,
+    "val_loss": 0.0023
+  },
+  {
+    "template": "{sentence} ... {mask} !",
+    "variant": "after",
+    "gen_score": -2.2221,
+    "val_acc": 100.0,
+    "val_loss": 0.0027
+  },
+  {
+    "template": "for a {mask} movie {sentence}",
+    "variant": "before",
+    "gen_score": -1.9985,
+    "val_acc": 100.0,
+    "val_loss": 0.0045
+  },
+  {
+    "template": "{sentence} and a {mask} film.",
+    "variant": "after",
+    "gen_score": -2.2462,
+    "val_acc": 100.0,
+    "val_loss": 0.0047
+  },
+  {
+    "template": "{sentence} . So {mask} .",
+    "variant": "after",
+    "gen_score": -2.1578,
+    "val_acc": 100.0,
+    "val_loss": 0.0049
+  },
+  {
+    "template": "{sentence} a {mask} !",
+    "variant": "after",
+    "gen_score": -2.2344,
+    "val_acc": 100.0,
+    "val_loss": 0.005
+  },
+  {
+    "template": "{sentence} a {mask} movie.",
+    "variant": "after",
+    "gen_score": -2.0894,
+    "val_acc": 100.0,
+    "val_loss": 0.0061
+  },
+  {
+    "template": "but not {mask} , {sentence}",
+    "variant": "before",
+    "gen_score": -1.931,
+    "val_acc": 100.0,
+    "val_loss": 0.0063
+  },
+  {
+    "template": "{sentence} with {mask} results.",
+    "variant": "after",
+    "gen_score": -2.0335,
+    "val_acc": 100.0,
+    "val_loss": 0.0067
+  },
+  {
+    "template": ", {mask} film, {sentence}",
+    "variant": "before",
+    "gen_score": -1.9998,
+    "val_acc": 100.0,
+    "val_loss": 0.0072
+  },
+  {
+    "template": ", a {mask} film {sentence}",
+    "variant": "before",
+    "gen_score": -2.0095,
+    "val_acc": 100.0,
+    "val_loss": 0.0074
+  },
+  {
+    "template": "and {mask} but {sentence}",
+    "variant": "before",
+    "gen_score": -1.9969,
+    "val_acc": 100.0,
+    "val_loss": 0.0077
+  },
+  {
+    "template": "{sentence} a {mask} experience.",
+    "variant": "after",
+    "gen_score": -2.0999,
+    "val_acc": 100.0,
+    "val_loss": 0.0084
+  },
+  {
+    "template": ", a {mask} and {sentence}",
+    "variant": "before",
+    "gen_score": -1.8877,
+    "val_acc": 100.0,
+    "val_loss": 0.0086
+  },
+  {
+    "template": "{sentence} and a {mask} experience.",
+    "variant": "after",
+    "gen_score": -2.3222,
+    "val_acc": 100.0,
+    "val_loss": 0.0104
+  },
+  {
+    "template": "{sentence} a {mask} thing.",
+    "variant": "after",
+    "gen_score": -2.1943,
+    "val_acc": 100.0,
+    "val_loss": 0.0107
+  },
+  {
+    "template": "in a {mask} way. {sentence}",
+    "variant": "before",
+    "gen_score": -1.9672,
+    "val_acc": 100.0,
+    "val_loss": 0.011
+  },
+  {
+    "template": ", the {mask} , {sentence}",
+    "variant": "before",
+    "gen_score": -1.957,
+    "val_acc": 100.0,
+    "val_loss": 0.0112
+  },
+  {
+    "template": "{sentence} . So {mask} !",
+    "variant": "after",
+    "gen_score": -2.269,
+    "val_acc": 100.0,
+    "val_loss": 0.0121
+  },
+  {
+    "template": "{sentence} and a {mask} !",
+    "variant": "after",
+    "gen_score": -2.2725,
+    "val_acc": 100.0,
+    "val_loss": 0.0125
+  },
+  {
+    "template": "and a {mask} movie {sentence}",
+    "variant": "before",
+    "gen_score": -1.9943,
+    "val_acc": 100.0,
+    "val_loss": 0.0135
+  },
+  {
+    "template": "{sentence} . A {mask} movie.",
+    "variant": "after",
+    "gen_score": -2.0802,
+    "val_acc": 100.0,
+    "val_loss": 0.0135
+  },
+  {
+    "template": "{sentence} . A {mask} experience.",
+    "variant": "after",
+    "gen_score": -2.1568,
+    "val_acc": 100.0,
+    "val_loss": 0.0135
+  },
+  {
+    "template": "{sentence} a {mask} read.",
+    "variant": "after",
+    "gen_score": -2.1997,
+    "val_acc": 100.0,
+    "val_loss": 0.0148
+  },
+  {
+    "template": ", and {mask} , {sentence}",
+    "variant": "before",
+    "gen_score": -1.8549,
+    "val_acc": 100.0,
+    "val_loss": 0.0167
+  },
+  {
+    "template": ", a {mask} movie {sentence}",
+    "variant": "before",
+    "gen_score": -1.9786,
+    "val_acc": 100.0,
+    "val_loss": 0.0205
+  },
+  {
+    "template": "{sentence} . A {mask} film.",
+    "variant": "after",
+    "gen_score": -2.0971,
+    "val_acc": 100.0,
+    "val_loss": 0.0224
+  },
+  {
+    "template": "{sentence} and a {mask} movie.",
+    "variant": "after",
+    "gen_score": -2.2241,
+    "val_acc": 100.0,
+    "val_loss": 0.0306
+  },
+  {
+    "template": "{sentence} is {mask} .",
+    "variant": "after",
+    "gen_score": -1.8859,
+    "val_acc": 100.0,
+    "val_loss": 0.0307
+  },
+  {
+    "template": "{sentence} . {mask} !",
+    "variant": "after",
+    "gen_score": -2.3193,
+    "val_acc": 100.0,
+    "val_loss": 0.033
+  },
+  {
+    "template": "{sentence} . It is {mask} .",
+    "variant": "after",
+    "gen_score": -1.9428,
+    "val_acc": 100.0,
+    "val_loss": 0.0334
+  },
+  {
+    "template": "is a {mask} movie {sentence}",
+    "variant": "before",
+    "gen_score": -2.0154,
+    "val_acc": 100.0,
+    "val_loss": 0.0393
+  },
+  {
+    "template": ", {mask} movie, {sentence}",
+    "variant": "before",
+    "gen_score": -1.9697,
+    "val_acc": 100.0,
+    "val_loss": 0.0401
+  },
+  {
+    "template": "{sentence} is a {mask} !",
+    "variant": "after",
+    "gen_score": -2.2464,
+    "val_acc": 100.0,
+    "val_loss": 0.0454
+  },
+  {
+    "template": ", {mask} - {sentence}",
+    "variant": "before",
+    "gen_score": -1.9561,
+    "val_acc": 100.0,
+    "val_loss": 0.0457
+  },
+  {
+    "template": "a {mask} movie {sentence}",
+    "variant": "before",
+    "gen_score": -1.9442,
+    "val_acc": 100.0,
+    "val_loss": 0.0537
+  },
+  {
+    "template": "and {mask} . {sentence}",
+    "variant": "before",
+    "gen_score": -2.0215,
+    "val_acc": 100.0,
+    "val_loss": 0.0608
+  },
+  {
+    "template": "{sentence} and a {mask} story.",
+    "variant": "after",
+    "gen_score": -2.2799,
+    "val_acc": 100.0,
+    "val_loss": 0.078
+  },
+  {
+    "template": "{sentence} - {mask} !",
+    "variant": "after",
+    "gen_score": -2.0417,
+    "val_acc": 96.875,
+    "val_loss": 0.0295
+  },
+  {
+    "template": "{sentence} a {mask} watch.",
+    "variant": "after",
+    "gen_score": -2.2337,
+    "val_acc": 96.875,
+    "val_loss": 0.0303
+  },
+  {
+    "template": "a {mask} film {sentence}",
+    "variant": "before",
+    "gen_score": -2.0002,
+    "val_acc": 96.875,
+    "val_loss": 0.037
+  },
+  {
+    "template": "{sentence} and is {mask} .",
+    "variant": "after",
+    "gen_score": -2.2324,
+    "val_acc": 96.875,
+    "val_loss": 0.0383
+  },
+  {
+    "template": "{sentence} has been {mask} .",
+    "variant": "after",
+    "gen_score": -2.123,
+    "val_acc": 96.875,
+    "val_loss": 0.0415
+  },
+  {
+    "template": "if not {mask} , {sentence}",
+    "variant": "before",
+    "gen_score": -1.8084,
+    "val_acc": 96.875,
+    "val_loss": 0.0487
+  },
+  {
+    "template": "in a {mask} way {sentence}",
+    "variant": "before",
+    "gen_score": -1.7454,
+    "val_acc": 96.875,
+    "val_loss": 0.0503
+  },
+  {
+    "template": "{sentence} and a {mask} show.",
+    "variant": "after",
+    "gen_score": -2.3153,
+    "val_acc": 96.875,
+    "val_loss": 0.0546
+  },
+  {
+    "template": "{sentence} that is {mask} .",
+    "variant": "after",
+    "gen_score": -1.9235,
+    "val_acc": 96.875,
+    "val_loss": 0.0558
+  },
+  {
+    "template": "{sentence} to the {mask} .",
+    "variant": "after",
+    "gen_score": -2.1889,
+    "val_acc": 96.875,
+    "val_loss": 0.0592
+  },
+  {
+    "template": "- {mask} - {sentence}",
+    "variant": "before",
+    "gen_score": -1.8398,
+    "val_acc": 96.875,
+    "val_loss": 0.06
+  },
+  {
+    "template": "and a {mask} , {sentence}",
+    "variant": "before",
+    "gen_score": -1.8795,
+    "val_acc": 96.875,
+    "val_loss": 0.061
+  },
+  {
+    "template": "{sentence} a {mask} deal.",
+    "variant": "after",
+    "gen_score": -2.2367,
+    "val_acc": 96.875,
+    "val_loss": 0.0636
+  },
+  {
+    "template": ", just {mask} , {sentence}",
+    "variant": "before",
+    "gen_score": -1.9758,
+    "val_acc": 96.875,
+    "val_loss": 0.0683
+  },
+  {
+    "template": ", {mask} , and {sentence}",
+    "variant": "before",
+    "gen_score": -1.6803,
+    "val_acc": 96.875,
+    "val_loss": 0.0706
+  },
+  {
+    "template": "- {mask} , {sentence}",
+    "variant": "before",
+    "gen_score": -2.0276,
+    "val_acc": 96.875,
+    "val_loss": 0.0721
+  },
+  {
+    "template": "{sentence} . It was {mask} !",
+    "variant": "after",
+    "gen_score": -2.1578,
+    "val_acc": 96.875,
+    "val_loss": 0.074
+  },
+  {
+    "template": ". {mask} . {sentence}",
+    "variant": "before",
+    "gen_score": -2.0441,
+    "val_acc": 96.875,
+    "val_loss": 0.0759
+  },
+  {
+    "template": "{sentence} this is {mask} .",
+    "variant": "after",
+    "gen_score": -2.1556,
+    "val_acc": 96.875,
+    "val_loss": 0.077
+  },
+  {
+    "template": ", a {mask} , {sentence}",
+    "variant": "before",
+    "gen_score": -1.7297,
+    "val_acc": 96.875,
+    "val_loss": 0.081
+  },
+  {
+    "template": "{sentence} a {mask} one.",
+    "variant": "after",
+    "gen_score": -2.1483,
+    "val_acc": 96.875,
+    "val_loss": 0.0907
+  },
+  {
+    "template": "as it is {mask} , {sentence}",
+    "variant": "before",
+    "gen_score": -1.8829,
+    "val_acc": 96.875,
+    "val_loss": 0.092
+  },
+  {
+    "template": "{sentence} a {mask} show.",
+    "variant": "after",
+    "gen_score": -2.2076,
+    "val_acc": 96.875,
+    "val_loss": 0.096
+  },
+  {
+    "template": "a {mask} time {sentence}",
+    "variant": "before",
+    "gen_score": -2.0374,
+    "val_acc": 96.875,
+    "val_loss": 0.0993
+  },
+  {
+    "template": "and {mask} , and {sentence}",
+    "variant": "before",
+    "gen_score": -1.738,
+    "val_acc": 96.875,
+    "val_loss": 0.1026
+  },
+  {
+    "template": ", and {mask} and {sentence}",
+    "variant": "before",
+    "gen_score": -1.9566,
+    "val_acc": 96.875,
+    "val_loss": 0.1044
+  },
+  {
+    "template": "is {mask} and {sentence}",
+    "variant": "before",
+    "gen_score": -2.0205,
+    "val_acc": 96.875,
+    "val_loss": 0.1082
+  },
+  {
+    "template": ", it is {mask} , {sentence}",
+    "variant": "before",
+    "gen_score": -1.875,
+    "val_acc": 96.875,
+    "val_loss": 0.1167
+  },
+  {
+    "template": "a {mask} idea {sentence}",
+    "variant": "before",
+    "gen_score": -2.0219,
+    "val_acc": 96.875,
+    "val_loss": 0.1168
+  },
+  {
+    "template": "and {mask} – {sentence}",
+    "variant": "before",
+    "gen_score": -1.9726,
+    "val_acc": 96.875,
+    "val_loss": 0.1178
+  },
+  {
+    "template": "and {mask} - {sentence}",
+    "variant": "before",
+    "gen_score": -1.8486,
+    "val_acc": 96.875,
+    "val_loss": 0.1189
+  },
+  {
+    "template": "{sentence} will be {mask} .",
+    "variant": "after",
+    "gen_score": -1.9534,
+    "val_acc": 96.875,
+    "val_loss": 0.1209
+  },
+  {
+    "template": "and a {mask} time {sentence}",
+    "variant": "before",
+    "gen_score": -2.0094,
+    "val_acc": 96.875,
+    "val_loss": 0.1221
+  },
+  {
+    "template": "{sentence} a {mask} story.",
+    "variant": "after",
+    "gen_score": -2.206,
+    "val_acc": 96.875,
+    "val_loss": 0.1252
+  },
+  {
+    "template": "{sentence} , {mask} .",
+    "variant": "after",
+    "gen_score": -2.0667,
+    "val_acc": 96.875,
+    "val_loss": 0.1282
+  },
+  {
+    "template": "a {mask} , {sentence}",
+    "variant": "before",
+    "gen_score": -1.9688,
+    "val_acc": 96.875,
+    "val_loss": 0.1338
+  },
+  {
+    "template": "a {mask} story {sentence}",
+    "variant": "before",
+    "gen_score": -2.0371,
+    "val_acc": 96.875,
+    "val_loss": 0.1362
+  },
+  {
+    "template": "{sentence} that was {mask} .",
+    "variant": "after",
+    "gen_score": -2.1141,
+    "val_acc": 96.875,
+    "val_loss": 0.1402
+  },
+  {
+    "template": "ly {mask} and {sentence}",
+    "variant": "before",
+    "gen_score": -2.0134,
+    "val_acc": 96.875,
+    "val_loss": 0.1427
+  },
+  {
+    "template": ", and {mask} , and {sentence}",
+    "variant": "before",
+    "gen_score": -1.7904,
+    "val_acc": 96.875,
+    "val_loss": 0.1457
+  },
+  {
+    "template": "{sentence} – {mask} !",
+    "variant": "after",
+    "gen_score": -2.1673,
+    "val_acc": 96.875,
+    "val_loss": 0.1477
+  },
+  {
+    "template": ", {mask} and {sentence}",
+    "variant": "before",
+    "gen_score": -1.7556,
+    "val_acc": 96.875,
+    "val_loss": 0.1487
+  },
+  {
+    "template": "{sentence} would be {mask} .",
+    "variant": "after",
+    "gen_score": -1.9359,
+    "val_acc": 96.875,
+    "val_loss": 0.1507
+  },
+  {
+    "template": "is a {mask} and {sentence}",
+    "variant": "before",
+    "gen_score": -1.9465,
+    "val_acc": 96.875,
+    "val_loss": 0.1668
+  },
+  {
+    "template": "{sentence} . Just {mask} .",
+    "variant": "after",
+    "gen_score": -2.086,
+    "val_acc": 96.875,
+    "val_loss": 0.1717
+  },
+  {
+    "template": "and the {mask} , {sentence}",
+    "variant": "before",
+    "gen_score": -2.0257,
+    "val_acc": 96.875,
+    "val_loss": 0.1726
+  },
+  {
+    "template": "{sentence} is a {mask} .",
+    "variant": "after",
+    "gen_score": -1.8465,
+    "val_acc": 96.875,
+    "val_loss": 0.1896
+  },
+  {
+    "template": "{sentence} is just {mask} .",
+    "variant": "after",
+    "gen_score": -2.0862,
+    "val_acc": 96.875,
+    "val_loss": 0.1917
+  },
+  {
+    "template": "{sentence} - {mask} .",
+    "variant": "after",
+    "gen_score": -1.8993,
+    "val_acc": 96.875,
+    "val_loss": 0.1937
+  },
+  {
+    "template": "{sentence} and the {mask} .",
+    "variant": "after",
+    "gen_score": -2.1787,
+    "val_acc": 96.875,
+    "val_loss": 0.1973
+  },
+  {
+    "template": "and {mask} , {sentence}",
+    "variant": "before",
+    "gen_score": -1.7101,
+    "val_acc": 96.875,
+    "val_loss": 0.2018
+  },
+  {
+    "template": "and {mask} and {sentence}",
+    "variant": "before",
+    "gen_score": -1.6527,
+    "val_acc": 96.875,
+    "val_loss": 0.2028
+  },
+  {
+    "template": "and a {mask} way {sentence}",
+    "variant": "before",
+    "gen_score": -2.0399,
+    "val_acc": 96.875,
+    "val_loss": 0.2082
+  },
+  {
+    "template": "{sentence} and its {mask} .",
+    "variant": "after",
+    "gen_score": -2.2334,
+    "val_acc": 96.875,
+    "val_loss": 0.2119
+  },
+  {
+    "template": "{sentence} — {mask} .",
+    "variant": "after",
+    "gen_score": -2.1556,
+    "val_acc": 96.875,
+    "val_loss": 0.2121
+  },
+  {
+    "template": "{sentence} should be {mask} .",
+    "variant": "after",
+    "gen_score": -2.1353,
+    "val_acc": 96.875,
+    "val_loss": 0.2292
+  },
+  {
+    "template": "{sentence} will be {mask} !",
+    "variant": "after",
+    "gen_score": -2.3151,
+    "val_acc": 96.875,
+    "val_loss": 0.2461
+  },
+  {
+    "template": "in a {mask} way, {sentence}",
+    "variant": "before",
+    "gen_score": -1.8516,
+    "val_acc": 96.875,
+    "val_loss": 0.2467
+  },
+  {
+    "template": "{sentence} is {mask} !",
+    "variant": "after",
+    "gen_score": -2.307,
+    "val_acc": 96.875,
+    "val_loss": 0.2521
+  },
+  {
+    "template": "{sentence} . {mask} .",
+    "variant": "after",
+    "gen_score": -2.0743,
+    "val_acc": 96.875,
+    "val_loss": 0.3004
+  },
+  {
+    "template": "{sentence} , a {mask} .",
+    "variant": "after",
+    "gen_score": -1.9799,
+    "val_acc": 93.75,
+    "val_loss": 0.1035
+  },
+  {
+    "template": "is a {mask} , {sentence}",
+    "variant": "before",
+    "gen_score": -1.9928,
+    "val_acc": 93.75,
+    "val_loss": 0.1139
+  },
+  {
+    "template": "{sentence} . It is {mask} !",
+    "variant": "after",
+    "gen_score": -2.2048,
+    "val_acc": 93.75,
+    "val_loss": 0.1226
+  },
+  {
+    "template": "{sentence} which is {mask} .",
+    "variant": "after",
+    "gen_score": -1.9491,
+    "val_acc": 93.75,
+    "val_loss": 0.1298
+  },
+  {
+    "template": "{sentence} that is {mask} !",
+    "variant": "after",
+    "gen_score": -2.2978,
+    "val_acc": 93.75,
+    "val_loss": 0.1368
+  },
+  {
+    "template": "{sentence} it was {mask} .",
+    "variant": "after",
+    "gen_score": -2.0506,
+    "val_acc": 93.75,
+    "val_loss": 0.1417
+  },
+  {
+    "template": "a {mask} and {sentence}",
+    "variant": "before",
+    "gen_score": -1.9605,
+    "val_acc": 93.75,
+    "val_loss": 0.143
+  },
+  {
+    "template": ", but {mask} , {sentence}",
+    "variant": "before",
+    "gen_score": -2.0179,
+    "val_acc": 93.75,
+    "val_loss": 0.1484
+  },
+  {
+    "template": ". This is {mask} . {sentence}",
+    "variant": "before",
+    "gen_score": -1.9422,
+    "val_acc": 93.75,
+    "val_loss": 0.1506
+  },
+  {
+    "template": "{sentence} ... {mask} .",
+    "variant": "after",
+    "gen_score": -2.0764,
+    "val_acc": 93.75,
+    "val_loss": 0.1524
+  },
+  {
+    "template": "and {mask} , but {sentence}",
+    "variant": "before",
+    "gen_score": -1.8608,
+    "val_acc": 93.75,
+    "val_loss": 0.166
+  },
+  {
+    "template": ", not {mask} , {sentence}",
+    "variant": "before",
+    "gen_score": -1.991,
+    "val_acc": 93.75,
+    "val_loss": 0.1811
+  },
+  {
+    "template": ", {mask} , {sentence}",
+    "variant": "before",
+    "gen_score": -1.6383,
+    "val_acc": 93.75,
+    "val_loss": 0.1895
+  },
+  {
+    "template": "{sentence} . A {mask} show.",
+    "variant": "after",
+    "gen_score": -2.2342,
+    "val_acc": 93.75,
+    "val_loss": 0.192
+  },
+  {
+    "template": "{sentence} was {mask} .",
+    "variant": "after",
+    "gen_score": -2.2157,
+    "val_acc": 93.75,
+    "val_loss": 0.1934
+  },
+  {
+    "template": "{sentence} in a {mask} movie.",
+    "variant": "after",
+    "gen_score": -2.24,
+    "val_acc": 93.75,
+    "val_loss": 0.1953
+  },
+  {
+    "template": "{sentence} a {mask} .",
+    "variant": "after",
+    "gen_score": -1.8113,
+    "val_acc": 93.75,
+    "val_loss": 0.1999
+  },
+  {
+    "template": ". It is {mask} , {sentence}",
+    "variant": "before",
+    "gen_score": -1.9351,
+    "val_acc": 93.75,
+    "val_loss": 0.2003
+  },
+  {
+    "template": "and {mask} ... {sentence}",
+    "variant": "before",
+    "gen_score": -2.0455,
+    "val_acc": 93.75,
+    "val_loss": 0.2044
+  },
+  {
+    "template": "{sentence} – {mask} .",
+    "variant": "after",
+    "gen_score": -2.0246,
+    "val_acc": 93.75,
+    "val_loss": 0.2106
+  },
+  {
+    "template": "{sentence} . It was {mask} .",
+    "variant": "after",
+    "gen_score": -1.893,
+    "val_acc": 93.75,
+    "val_loss": 0.2134
+  },
+  {
+    "template": "{sentence} . A {mask} .",
+    "variant": "after",
+    "gen_score": -2.1961,
+    "val_acc": 93.75,
+    "val_loss": 0.2159
+  },
+  {
+    "template": "as it is {mask} and {sentence}",
+    "variant": "before",
+    "gen_score": -1.8512,
+    "val_acc": 93.75,
+    "val_loss": 0.2331
+  },
+  {
+    "template": "and a {mask} and {sentence}",
+    "variant": "before",
+    "gen_score": -1.8176,
+    "val_acc": 93.75,
+    "val_loss": 0.2406
+  },
+  {
+    "template": "{sentence} in this {mask} .",
+    "variant": "after",
+    "gen_score": -2.3118,
+    "val_acc": 93.75,
+    "val_loss": 0.2406
+  },
+  {
+    "template": "in a {mask} way and {sentence}",
+    "variant": "before",
+    "gen_score": -1.8758,
+    "val_acc": 93.75,
+    "val_loss": 0.2526
+  },
+  {
+    "template": "{sentence} , {mask} !",
+    "variant": "after",
+    "gen_score": -2.2941,
+    "val_acc": 93.75,
+    "val_loss": 0.2998
+  },
+  {
+    "template": "{sentence} and {mask} .",
+    "variant": "after",
+    "gen_score": -2.1305,
+    "val_acc": 93.75,
+    "val_loss": 0.3034
+  },
+  {
+    "template": "{sentence} a {mask} time.",
+    "variant": "after",
+    "gen_score": -2.1636,
+    "val_acc": 93.75,
+    "val_loss": 0.3415
+  },
+  {
+    "template": "{sentence} . A {mask} watch.",
+    "variant": "after",
+    "gen_score": -2.205,
+    "val_acc": 93.75,
+    "val_loss": 0.3914
+  },
+  {
+    "template": "{sentence} . a {mask} .",
+    "variant": "after",
+    "gen_score": -2.1919,
+    "val_acc": 93.75,
+    "val_loss": 0.7155
+  },
+  {
+    "template": "{sentence} can be {mask} .",
+    "variant": "after",
+    "gen_score": -2.0506,
+    "val_acc": 90.625,
+    "val_loss": 0.1991
+  },
+  {
+    "template": "{sentence} a {mask} idea.",
+    "variant": "after",
+    "gen_score": -2.2031,
+    "val_acc": 90.625,
+    "val_loss": 0.2273
+  },
+  {
+    "template": "{sentence} in a {mask} year.",
+    "variant": "after",
+    "gen_score": -2.3086,
+    "val_acc": 90.625,
+    "val_loss": 0.2373
+  },
+  {
+    "template": ", {mask} , but {sentence}",
+    "variant": "before",
+    "gen_score": -1.9867,
+    "val_acc": 90.625,
+    "val_loss": 0.2461
+  },
+  {
+    "template": "{sentence} a {mask} day.",
+    "variant": "after",
+    "gen_score": -2.2782,
+    "val_acc": 90.625,
+    "val_loss": 0.2497
+  },
+  {
+    "template": "{sentence} in a {mask} .",
+    "variant": "after",
+    "gen_score": -1.8505,
+    "val_acc": 90.625,
+    "val_loss": 0.3357
+  },
+  {
+    "template": "{sentence} and a {mask} .",
+    "variant": "after",
+    "gen_score": -1.8648,
+    "val_acc": 90.625,
+    "val_loss": 0.3441
+  },
+  {
+    "template": "{sentence} in the {mask} .",
+    "variant": "after",
+    "gen_score": -2.0866,
+    "val_acc": 90.625,
+    "val_loss": 0.3661
+  },
+  {
+    "template": "{sentence} . A {mask} one.",
+    "variant": "after",
+    "gen_score": -2.2392,
+    "val_acc": 90.625,
+    "val_loss": 0.3677
+  },
+  {
+    "template": "{sentence} in a {mask} !",
+    "variant": "after",
+    "gen_score": -2.2461,
+    "val_acc": 90.625,
+    "val_loss": 0.3874
+  },
+  {
+    "template": "{sentence} of {mask} ness.",
+    "variant": "after",
+    "gen_score": -2.2298,
+    "val_acc": 90.625,
+    "val_loss": 0.3961
+  },
+  {
+    "template": "{sentence} in a {mask} film.",
+    "variant": "after",
+    "gen_score": -2.2485,
+    "val_acc": 90.625,
+    "val_loss": 0.4008
+  },
+  {
+    "template": "{sentence} on the {mask} .",
+    "variant": "after",
+    "gen_score": -2.2085,
+    "val_acc": 90.625,
+    "val_loss": 0.4246
+  },
+  {
+    "template": "{sentence} , and {mask} .",
+    "variant": "after",
+    "gen_score": -2.1869,
+    "val_acc": 90.625,
+    "val_loss": 0.4729
+  },
+  {
+    "template": "{sentence} in {mask} fashion.",
+    "variant": "after",
+    "gen_score": -2.2046,
+    "val_acc": 90.625,
+    "val_loss": 0.4761
+  },
+  {
+    "template": "{sentence} of the {mask} .",
+    "variant": "after",
+    "gen_score": -2.1466,
+    "val_acc": 87.5,
+    "val_loss": 0.2984
+  },
+  {
+    "template": "{sentence} for the {mask} .",
+    "variant": "after",
+    "gen_score": -2.1248,
+    "val_acc": 87.5,
+    "val_loss": 0.3123
+  },
+  {
+    "template": ". It is {mask} . {sentence}",
+    "variant": "before",
+    "gen_score": -1.9905,
+    "val_acc": 87.5,
+    "val_loss": 0.3502
+  },
+  {
+    "template": "{sentence} to be {mask} .",
+    "variant": "after",
+    "gen_score": -2.0748,
+    "val_acc": 87.5,
+    "val_loss": 0.3948
+  },
+  {
+    "template": ". This is {mask} , {sentence}",
+    "variant": "before",
+    "gen_score": -1.8728,
+    "val_acc": 87.5,
+    "val_loss": 0.4354
+  },
+  {
+    "template": "{sentence} from the {mask} .",
+    "variant": "after",
+    "gen_score": -2.2452,
+    "val_acc": 87.5,
+    "val_loss": 0.5566
+  },
+  {
+    "template": "{sentence} in a {mask} way!",
+    "variant": "after",
+    "gen_score": -2.2228,
+    "val_acc": 87.5,
+    "val_loss": 0.6239
+  },
+  {
+    "template": "{sentence} a {mask} way.",
+    "variant": "after",
+    "gen_score": -2.2454,
+    "val_acc": 87.5,
+    "val_loss": 0.7987
+  },
+  {
+    "template": "{sentence} in a {mask} way.",
+    "variant": "after",
+    "gen_score": -1.8432,
+    "val_acc": 87.5,
+    "val_loss": 0.868
+  },
+  {
+    "template": "{sentence} in a {mask} way.\"",
+    "variant": "after",
+    "gen_score": -2.284,
+    "val_acc": 84.375,
+    "val_loss": 0.7749
+  },
+  {
+    "template": "{sentence} at the {mask} .",
+    "variant": "after",
+    "gen_score": -2.2902,
+    "val_acc": 84.375,
+    "val_loss": 0.7994
+  },
+  {
+    "template": "{sentence} in a {mask} fashion.",
+    "variant": "after",
+    "gen_score": -2.3066,
+    "val_acc": 84.375,
+    "val_loss": 0.8444
+  },
+  {
+    "template": "{sentence} in a {mask} manner.",
+    "variant": "after",
+    "gen_score": -2.2298,
+    "val_acc": 84.375,
+    "val_loss": 0.9998
+  }
+]

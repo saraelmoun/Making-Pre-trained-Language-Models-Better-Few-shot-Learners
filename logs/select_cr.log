@@ -1,0 +1,210 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/394 [00:00<?, ?it/s]Loading weights:  26%|██▌       | 102/394 [00:00<00:00, 1011.26it/s]Loading weights:  54%|█████▍    | 213/394 [00:00<00:00, 1065.39it/s]Loading weights: 100%|██████████| 394/394 [00:00<00:00, 1569.02it/s]
+86 templates CR a classer (seed 42, 60 epochs)
+Repo card metadata block was not found. Setting CardData to empty.
+  [  1/86] val  93.8% (loss 0.372)  , {mask} , {sentence}
+Repo card metadata block was not found. Setting CardData to empty.
+  [  2/86] val  93.8% (loss 0.223)  , it is {mask} , {sentence}
+Repo card metadata block was not found. Setting CardData to empty.
+  [  3/86] val  93.8% (loss 0.295)  , the quality is {mask} , {sentence}
+Repo card metadata block was not found. Setting CardData to empty.
+  [  4/86] val  93.8% (loss 0.229)  , it's {mask} , {sentence}
+Repo card metadata block was not found. Setting CardData to empty.
+  [  5/86] val  90.6% (loss 0.579)  {sentence} It's {mask} .
+Repo card metadata block was not found. Setting CardData to empty.
+  [  6/86] val  93.8% (loss 0.241)  , looks {mask} , {sentence}
+Repo card metadata block was not found. Setting CardData to empty.
+  [  7/86] val  93.8% (loss 0.654)  {sentence} it's {mask} .
+Repo card metadata block was not found. Setting CardData to empty.
+  [  8/86] val  93.8% (loss 0.367)  {sentence} Thanks for the {mask} review.
+Repo card metadata block was not found. Setting CardData to empty.
+  [  9/86] val  93.8% (loss 0.202)  {sentence} The quality is {mask} .
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 10/86] val  93.8% (loss 0.328)  {sentence} It is {mask} .
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 11/86] val  93.8% (loss 0.267)  {sentence} It's {mask} !
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 12/86] val  93.8% (loss 0.413)  {sentence} It’s {mask} .
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 13/86] val  87.5% (loss 0.504)  {sentence} Its {mask} .
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 14/86] val  93.8% (loss 0.268)  {sentence} This is a {mask} .
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 15/86] val  93.8% (loss 0.333)  {sentence} This is {mask} .
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 16/86] val  93.8% (loss 0.290)  {sentence} Thanks for the {mask} review!
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 17/86] val  93.8% (loss 0.281)  {sentence} the quality is {mask} .
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 18/86] val  90.6% (loss 0.369)  {sentence} . . {mask} .
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 19/86] val  93.8% (loss 0.198)  {sentence} Thanks for your {mask} review.
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 20/86] val  93.8% (loss 0.236)  {sentence} Overall a {mask} experience.
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 21/86] val  90.6% (loss 0.309)  {sentence} it's {mask} !
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 22/86] val  90.6% (loss 0.562)  {sentence} it is {mask} .
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 23/86] val  93.8% (loss 0.368)  {sentence} Thanks for the {mask} service.
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 24/86] val  96.9% (loss 0.219)  {sentence} Overall a {mask} product.
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 25/86] val  90.6% (loss 0.407)  {sentence} The price is {mask} .
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 26/86] val  93.8% (loss 0.278)  {sentence} So far so {mask} .
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 27/86] val  90.6% (loss 0.217)  {sentence} What a {mask} product.
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 28/86] val  96.9% (loss 0.261)  {sentence} It is a {mask} .
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 29/86] val  93.8% (loss 0.317)  {sentence} Thanks for your {mask} service.
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 30/86] val  93.8% (loss 0.435)  {sentence} This is a {mask} product.
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 31/86] val  90.6% (loss 0.550)  {sentence} a {mask} product .
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 32/86] val  93.8% (loss 0.185)  {sentence} a {mask} experience .
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 33/86] val  96.9% (loss 0.235)  {sentence} It is really {mask} .
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 34/86] val  90.6% (loss 0.331)  {sentence} All in all {mask} .
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 35/86] val  93.8% (loss 0.314)  {sentence} I think its {mask} .
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 36/86] val  87.5% (loss 0.435)  {sentence} Looks {mask} .
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 37/86] val  93.8% (loss 0.248)  {sentence} Thanks for this {mask} review.
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 38/86] val  93.8% (loss 0.369)  {sentence} thanks for the {mask} review.
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 39/86] val  93.8% (loss 0.324)  {sentence} What a {mask} idea.
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 40/86] val  93.8% (loss 0.241)  {sentence} It’s {mask} !
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 41/86] val  90.6% (loss 0.346)  {sentence} Its a {mask} .
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 42/86] val  93.8% (loss 0.222)  {sentence} What a {mask} experience.
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 43/86] val  93.8% (loss 0.571)  {sentence} this is {mask} .
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 44/86] val  90.6% (loss 0.510)  {sentence} It was {mask} .
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 45/86] val  90.6% (loss 0.345)  {sentence} this is a {mask} .
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 46/86] val  90.6% (loss 0.503)  {sentence} What a {mask} product!
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 47/86] val  93.8% (loss 0.365)  {sentence} Thanks for the {mask} review .
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 48/86] val  93.8% (loss 0.157)  {sentence} It looks {mask} .
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 49/86] val  93.8% (loss 0.378)  {sentence} . . {mask} !
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 50/86] val  93.8% (loss 0.207)  {sentence} Thanks for the {mask} reviews.
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 51/86] val  93.8% (loss 0.312)  {sentence} What a {mask} idea!
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 52/86] val  93.8% (loss 0.505)  {sentence} its a {mask} .
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 53/86] val  93.8% (loss 0.178)  {sentence} Thanks for your {mask} review!
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 54/86] val  90.6% (loss 0.259)  {sentence} This is a {mask} !
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 55/86] val  93.8% (loss 0.243)  {sentence} what a {mask} product.
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 56/86] val  93.8% (loss 0.416)  {sentence} Its {mask} !
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 57/86] val  93.8% (loss 0.307)  {sentence} its a {mask} product.
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 58/86] val  96.9% (loss 0.356)  {sentence} It is {mask} !
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 59/86] val  93.8% (loss 0.425)  {sentence} This is {mask} !
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 60/86] val  93.8% (loss 0.258)  {sentence} Thanks for the {mask} product.
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 61/86] val  93.8% (loss 0.361)  {sentence} Thanks for the {mask} service!
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 62/86] val  93.8% (loss 0.199)  {sentence} What a {mask} deal.
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 63/86] val  93.8% (loss 0.278)  {sentence} So far so {mask} !
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 64/86] val  90.6% (loss 0.344)  {sentence} what a {mask} idea.
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 65/86] val  96.9% (loss 0.264)  {sentence} Overall a {mask} experience .
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 66/86] val  90.6% (loss 0.585)  {sentence} . {mask} .
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 67/86] val  96.9% (loss 0.198)  {sentence} What a {mask} experience!
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 68/86] val  93.8% (loss 0.283)  {sentence} The quality is {mask} !
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 69/86] val  93.8% (loss 0.309)  {sentence} What a {mask} deal!
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 70/86] val  93.8% (loss 0.262)  {sentence} It is a {mask} product.
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 71/86] val  93.8% (loss 0.165)  {sentence} Overall a {mask} product .
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 72/86] val  93.8% (loss 0.339)  {sentence} Thanks for the {mask} review !
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 73/86] val  90.6% (loss 0.398)  {sentence} It's {mask} ! !
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 74/86] val  90.6% (loss 0.291)  {sentence} This is a {mask} idea.
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 75/86] val  90.6% (loss 0.398)  {sentence} a {mask} product.
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 76/86] val  93.8% (loss 0.248)  {sentence} It is just {mask} .
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 77/86] val  93.8% (loss 0.272)  {sentence} this is a {mask} product.
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 78/86] val  87.5% (loss 0.902)  {sentence} which is {mask} .
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 79/86] val  90.6% (loss 0.485)  {sentence} it was {mask} .
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 80/86] val  90.6% (loss 0.372)  {sentence} This is really {mask} .
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 81/86] val  93.8% (loss 0.230)  {sentence} Thanks for this {mask} review!
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 82/86] val  93.8% (loss 0.235)  {sentence} Thanks for your {mask} service!
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 83/86] val  90.6% (loss 0.202)  {sentence} a {mask} experience.
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 84/86] val  93.8% (loss 0.377)  {sentence} That is {mask} .
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 85/86] val  93.8% (loss 0.606)  {sentence} This is a {mask} deal.
+Repo card metadata block was not found. Setting CardData to empty.
+  [ 86/86] val  93.8% (loss 0.394)  {sentence} Thanks for the {mask} service .
+
+>>> MEILLEUR template CR : {sentence} What a {mask} experience!
+
+Evaluation finale (5 seeds x grille)...
+Repo card metadata block was not found. Setting CardData to empty.
+Repo card metadata block was not found. Setting CardData to empty.
+Repo card metadata block was not found. Setting CardData to empty.
+Repo card metadata block was not found. Setting CardData to empty.
+  seed 13 -> TEST 90.3%
+Repo card metadata block was not found. Setting CardData to empty.
+Repo card metadata block was not found. Setting CardData to empty.
+Repo card metadata block was not found. Setting CardData to empty.
+Repo card metadata block was not found. Setting CardData to empty.
+  seed 21 -> TEST 89.4%
+Repo card metadata block was not found. Setting CardData to empty.
+Repo card metadata block was not found. Setting CardData to empty.
+Repo card metadata block was not found. Setting CardData to empty.
+Repo card metadata block was not found. Setting CardData to empty.
+  seed 42 -> TEST 92.0%
+Repo card metadata block was not found. Setting CardData to empty.
+Repo card metadata block was not found. Setting CardData to empty.
+Repo card metadata block was not found. Setting CardData to empty.
+Repo card metadata block was not found. Setting CardData to empty.
+  seed 87 -> TEST 90.7%
+Repo card metadata block was not found. Setting CardData to empty.
+Repo card metadata block was not found. Setting CardData to empty.
+Repo card metadata block was not found. Setting CardData to empty.
+Repo card metadata block was not found. Setting CardData to empty.
+  seed 100 -> TEST 86.5%
+
+==================================================
+Template auto CR : {sentence} What a {mask} experience!
+Prompt-based FT (AUTO template) : 89.8 +/- 1.9
+Cible papier : 85.5 | manuel nous : voir etape 04
+==================================================

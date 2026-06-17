@@ -1,0 +1,23 @@
+{
+  "step": "02_data_loading",
+  "dataset": "MR (rotten_tomatoes)",
+  "k_per_class": 16,
+  "seed": 42,
+  "sizes": {
+    "train": 32,
+    "val": 32,
+    "test": 1066
+  },
+  "train_balance": {
+    "positif": 16,
+    "negatif": 16
+  },
+  "example_train": {
+    "sentence": "arteta paints a picture of lives lived in a state of quiet desperation .",
+    "label": 1
+  },
+  "example_test": {
+    "sentence": "lovingly photographed in the manner of a golden book sprung to life , stuart little 2 manages sweetness largely without stickiness .",
+    "label": 1
+  }
+}

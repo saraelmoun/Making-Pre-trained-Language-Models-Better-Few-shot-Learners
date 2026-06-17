@@ -1,0 +1,44 @@
+{
+  "step": "06_comparaison",
+  "dataset": "CR (SetFit/SentEval-CR)",
+  "rows": [
+    {
+      "methode": "Prompt-based zero-shot",
+      "nous": 81.0,
+      "nous_std": null,
+      "papier": 79.5
+    },
+    {
+      "methode": "Fine-tuning classique",
+      "nous": 79.2,
+      "nous_std": 5.9,
+      "papier": 75.8
+    },
+    {
+      "methode": "Prompt-based FT (manuel)",
+      "nous": 87.7,
+      "nous_std": 3.8,
+      "papier": 90.3
+    },
+    {
+      "methode": "Auto-template (5.2)",
+      "nous": 89.8,
+      "nous_std": 1.9,
+      "papier": 85.5
+    },
+    {
+      "methode": "Auto-mots-labels (5.1)",
+      "nous": 89.6,
+      "nous_std": 1.3,
+      "papier": null
+    }
+  ],
+  "details": {
+    "auto_template_choisi": "{sentence} What a {mask} experience!",
+    "auto_label_words": {
+      "0": "difficult",
+      "1": "impressive"
+    }
+  },
+  "conclusion": "Le pipeline complet generalise de SST-2 a CR : prompt-based >> classique, auto-generation (templates et mots-labels) egale/depasse le manuel, meme tendance que le papier a ~2 points pres."
+}

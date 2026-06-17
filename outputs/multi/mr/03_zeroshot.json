@@ -1,0 +1,14 @@
+{
+  "step": "03_zeroshot",
+  "dataset": "MR (rotten_tomatoes)",
+  "method": "prompt-based zero-shot (manuel)",
+  "template": "{sentence} It was {mask} .",
+  "label_words": {
+    "1": "great",
+    "0": "terrible"
+  },
+  "n_test": 1066,
+  "accuracy": 78.6,
+  "correct": 838,
+  "note": "aucun entrainement ; on lit la tete MLM pre-entrainee"
+}

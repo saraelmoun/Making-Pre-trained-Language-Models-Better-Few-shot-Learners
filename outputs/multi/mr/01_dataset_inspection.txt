@@ -1,0 +1,31 @@
+ETAPE 1 — INSPECTION DU DATASET MR (Movie Reviews)
+====================================================
+
+Nom HuggingFace : cornell-movie-review-data/rotten_tomatoes
+Tache           : sentiment binaire (positif / negatif)
+
+Splits :
+  train       : 8530 exemples  (colonnes : text, label)
+  validation  : 1066 exemples
+  test        : 1066 exemples
+
+Mapping des labels :
+  0 = negatif
+  1 = positif
+Equilibre du train : 4265 negatifs / 4265 positifs  (parfaitement equilibre)
+
+Exemples :
+  [1] the rock is destined to be the 21st century's new "conan" ...
+  [1] the gorgeously elaborate continuation of "the lord of the rings" ...
+  [0] things really get weird , though not particularly scary ...
+
+Prompt manuel du papier (Table 1, identique a SST-2) :
+  template     : {sentence} It was [MASK] .
+  mots-labels  : 0 -> terrible , 1 -> great
+
+Chiffres cibles du papier (Table 3, MR) :
+  Prompt-based FT (manuel) : 87.0
+  Fine-tuning classique    : 76.9
+
+Conclusion : MR a la MEME structure que SST-2 (binaire, 0=neg/1=pos, meme prompt).
+-> le pipeline SST-2 se transpose directement.

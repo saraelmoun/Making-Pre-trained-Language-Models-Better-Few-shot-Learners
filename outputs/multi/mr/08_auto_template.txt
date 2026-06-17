@@ -1,0 +1,7 @@
+ETAPE 8 — AUTO TEMPLATE (§5.2) sur MR
+=============================================
+Template auto choisi : {sentence} it was a {mask} movie .
+Scores test : [79.5, 89.0, 90.5, 87.2, 85.8]
+Prompt-based FT (AUTO template) : 86.4 +/- 3.8
+Cible papier (Table 3, MR auto) : 88.5
+(rappel) manuel It was [MASK], nous : 85.4 +/- 2.7

@@ -1,0 +1,14 @@
+{
+  "step": "03_zeroshot",
+  "dataset": "CR (SetFit/SentEval-CR)",
+  "method": "prompt-based zero-shot (manuel)",
+  "template": "{sentence} It was {mask} .",
+  "label_words": {
+    "1": "great",
+    "0": "terrible"
+  },
+  "n_test": 753,
+  "accuracy": 81.0,
+  "correct": 610,
+  "note": "aucun entrainement ; on lit la tete MLM pre-entrainee"
+}

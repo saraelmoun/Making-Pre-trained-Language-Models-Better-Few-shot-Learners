@@ -1,0 +1,44 @@
+nohup: ignoring input
+Device : cuda | template fixe : {sentence} It was {mask} .
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/394 [00:00<?, ?it/s]Loading weights:  24%|██▍       | 95/394 [00:00<00:00, 935.78it/s]Loading weights:  48%|████▊     | 189/394 [00:00<00:00, 923.80it/s]Loading weights: 100%|██████████| 394/394 [00:00<00:00, 1520.52it/s]
+
+[1] Top-100 mots par classe (seed 42)...
+  classe 0: not, the, fun, bad, terrible, good, true, great, like, simple, inevitable, just ...
+  classe 1: the, not, great, amazing, fun, good, brilliant, beautiful, an, also, wonderful, just ...
+
+[3] Filtre zero-shot sur 100x100 = 10000 combinaisons...
+  Top 5 combinaisons (zero-shot) :
+    {0:ridiculous, 1:magnificent} -> 90.6%
+    {0:bizarre, 1:extraordinary} -> 90.6%
+    {0:worse, 1:magnificent} -> 87.5%
+    {0:embarrassing, 1:phenomenal} -> 87.5%
+    {0:expensive, 1:important} -> 87.5%
+
+[4] Fine-tuning des 10 finalistes (seed 42)...
+    {0:ridiculous, 1:magnificent} -> val 96.9% (loss 0.081)
+    {0:bizarre, 1:extraordinary} -> val 96.9% (loss 0.090)
+    {0:worse, 1:magnificent} -> val 100.0% (loss 0.006)
+    {0:embarrassing, 1:phenomenal} -> val 100.0% (loss 0.004)
+    {0:expensive, 1:important} -> val 87.5% (loss 0.253)
+    {0:frustrating, 1:powerful} -> val 100.0% (loss 0.067)
+    {0:terrible, 1:amazing} -> val 96.9% (loss 0.031)
+    {0:horrible, 1:extraordinary} -> val 96.9% (loss 0.057)
+    {0:worse, 1:successful} -> val 100.0% (loss 0.018)
+    {0:worse, 1:born} -> val 96.9% (loss 0.074)
+
+>>> MEILLEURS mots-labels : {0:embarrassing, 1:phenomenal}
+
+[5] Evaluation finale (5 seeds x grille)...
+    seed 13 -> TEST 89.8%
+    seed 21 -> TEST 88.1%
+    seed 42 -> TEST 90.8%
+    seed 87 -> TEST 90.1%
+    seed 100 -> TEST 88.4%
+
+==================================================
+Mots-labels auto : {0:embarrassing, 1:phenomenal}
+Scores test par seed : [89.8, 88.1, 90.8, 90.1, 88.4]
+Prompt-based FT (AUTO label words) : 89.4 +/- 1.0
+(rappel) manuel great/terrible, nous : 89.2 +/- 1.0 | papier auto-L (Table 5) : 91.5
+==================================================

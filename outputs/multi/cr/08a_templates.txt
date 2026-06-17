@@ -1,0 +1,86 @@
+  1. [before] (score -1.342)  , {mask} , {sentence}
+  2. [before] (score -1.449)  , it is {mask} , {sentence}
+  3. [before] (score -1.474)  , the quality is {mask} , {sentence}
+  4. [before] (score -1.476)  , it's {mask} , {sentence}
+  5. [after ] (score -1.484)  {sentence} It's {mask} .
+  6. [before] (score -1.487)  , looks {mask} , {sentence}
+  7. [after ] (score -1.562)  {sentence} it's {mask} .
+  8. [after ] (score -1.562)  {sentence} Thanks for the {mask} review.
+  9. [after ] (score -1.618)  {sentence} The quality is {mask} .
+ 10. [after ] (score -1.626)  {sentence} It is {mask} .
+ 11. [after ] (score -1.633)  {sentence} It's {mask} !
+ 12. [after ] (score -1.634)  {sentence} It’s {mask} .
+ 13. [after ] (score -1.646)  {sentence} Its {mask} .
+ 14. [after ] (score -1.655)  {sentence} This is a {mask} .
+ 15. [after ] (score -1.656)  {sentence} This is {mask} .
+ 16. [after ] (score -1.673)  {sentence} Thanks for the {mask} review!
+ 17. [after ] (score -1.676)  {sentence} the quality is {mask} .
+ 18. [after ] (score -1.699)  {sentence} . . {mask} .
+ 19. [after ] (score -1.702)  {sentence} Thanks for your {mask} review.
+ 20. [after ] (score -1.709)  {sentence} Overall a {mask} experience.
+ 21. [after ] (score -1.709)  {sentence} it's {mask} !
+ 22. [after ] (score -1.710)  {sentence} it is {mask} .
+ 23. [after ] (score -1.712)  {sentence} Thanks for the {mask} service.
+ 24. [after ] (score -1.718)  {sentence} Overall a {mask} product.
+ 25. [after ] (score -1.724)  {sentence} The price is {mask} .
+ 26. [after ] (score -1.726)  {sentence} So far so {mask} .
+ 27. [after ] (score -1.738)  {sentence} What a {mask} product.
+ 28. [after ] (score -1.739)  {sentence} It is a {mask} .
+ 29. [after ] (score -1.753)  {sentence} Thanks for your {mask} service.
+ 30. [after ] (score -1.754)  {sentence} This is a {mask} product.
+ 31. [after ] (score -1.765)  {sentence} a {mask} product .
+ 32. [after ] (score -1.770)  {sentence} a {mask} experience .
+ 33. [after ] (score -1.776)  {sentence} It is really {mask} .
+ 34. [after ] (score -1.778)  {sentence} All in all {mask} .
+ 35. [after ] (score -1.778)  {sentence} I think its {mask} .
+ 36. [after ] (score -1.784)  {sentence} Looks {mask} .
+ 37. [after ] (score -1.785)  {sentence} Thanks for this {mask} review.
+ 38. [after ] (score -1.785)  {sentence} thanks for the {mask} review.
+ 39. [after ] (score -1.788)  {sentence} What a {mask} idea.
+ 40. [after ] (score -1.789)  {sentence} It’s {mask} !
+ 41. [after ] (score -1.803)  {sentence} Its a {mask} .
+ 42. [after ] (score -1.804)  {sentence} What a {mask} experience.
+ 43. [after ] (score -1.807)  {sentence} this is {mask} .
+ 44. [after ] (score -1.811)  {sentence} It was {mask} .
+ 45. [after ] (score -1.813)  {sentence} this is a {mask} .
+ 46. [after ] (score -1.816)  {sentence} What a {mask} product!
+ 47. [after ] (score -1.818)  {sentence} Thanks for the {mask} review .
+ 48. [after ] (score -1.825)  {sentence} It looks {mask} .
+ 49. [after ] (score -1.826)  {sentence} . . {mask} !
+ 50. [after ] (score -1.829)  {sentence} Thanks for the {mask} reviews.
+ 51. [after ] (score -1.831)  {sentence} What a {mask} idea!
+ 52. [after ] (score -1.834)  {sentence} its a {mask} .
+ 53. [after ] (score -1.836)  {sentence} Thanks for your {mask} review!
+ 54. [after ] (score -1.838)  {sentence} This is a {mask} !
+ 55. [after ] (score -1.839)  {sentence} what a {mask} product.
+ 56. [after ] (score -1.840)  {sentence} Its {mask} !
+ 57. [after ] (score -1.843)  {sentence} its a {mask} product.
+ 58. [after ] (score -1.844)  {sentence} It is {mask} !
+ 59. [after ] (score -1.847)  {sentence} This is {mask} !
+ 60. [after ] (score -1.847)  {sentence} Thanks for the {mask} product.
+ 61. [after ] (score -1.852)  {sentence} Thanks for the {mask} service!
+ 62. [after ] (score -1.855)  {sentence} What a {mask} deal.
+ 63. [after ] (score -1.861)  {sentence} So far so {mask} !
+ 64. [after ] (score -1.861)  {sentence} what a {mask} idea.
+ 65. [after ] (score -1.862)  {sentence} Overall a {mask} experience .
+ 66. [after ] (score -1.864)  {sentence} . {mask} .
+ 67. [after ] (score -1.869)  {sentence} What a {mask} experience!
+ 68. [after ] (score -1.873)  {sentence} The quality is {mask} !
+ 69. [after ] (score -1.879)  {sentence} What a {mask} deal!
+ 70. [after ] (score -1.882)  {sentence} It is a {mask} product.
+ 71. [after ] (score -1.890)  {sentence} Overall a {mask} product .
+ 72. [after ] (score -1.891)  {sentence} Thanks for the {mask} review !
+ 73. [after ] (score -1.891)  {sentence} It's {mask} ! !
+ 74. [after ] (score -1.894)  {sentence} This is a {mask} idea.
+ 75. [after ] (score -1.896)  {sentence} a {mask} product.
+ 76. [after ] (score -1.897)  {sentence} It is just {mask} .
+ 77. [after ] (score -1.902)  {sentence} this is a {mask} product.
+ 78. [after ] (score -1.903)  {sentence} which is {mask} .
+ 79. [after ] (score -1.905)  {sentence} it was {mask} .
+ 80. [after ] (score -1.908)  {sentence} This is really {mask} .
+ 81. [after ] (score -1.913)  {sentence} Thanks for this {mask} review!
+ 82. [after ] (score -1.913)  {sentence} Thanks for your {mask} service!
+ 83. [after ] (score -1.914)  {sentence} a {mask} experience.
+ 84. [after ] (score -1.914)  {sentence} That is {mask} .
+ 85. [after ] (score -1.918)  {sentence} This is a {mask} deal.
+ 86. [after ] (score -1.920)  {sentence} Thanks for the {mask} service .

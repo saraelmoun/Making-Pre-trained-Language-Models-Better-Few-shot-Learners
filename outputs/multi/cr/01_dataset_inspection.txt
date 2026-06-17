@@ -1,0 +1,31 @@
+ETAPE 1 — INSPECTION DU DATASET CR (Customer Reviews)
+======================================================
+
+Nom HuggingFace : SetFit/SentEval-CR
+Tache           : sentiment binaire (positif / negatif)
+
+Splits :
+  train : 3012 exemples  (colonnes : text, label, label_text)
+  test  :  753 exemples
+  (pas de split validation -> on tirera val depuis le train)
+
+Mapping des labels :
+  0 = negatif
+  1 = positif
+
+Exemples :
+  [1] 4 megapixels is enough for anybody and the photo quality is ...
+  [0] canon 's g3 does it consistently .
+
+Prompt manuel du papier (Table 1, identique a SST-2/MR) :
+  template     : {sentence} It was [MASK] .
+  mots-labels  : 0 -> terrible , 1 -> great
+
+Chiffres cibles du papier (Table 3, CR) :
+  Prompt-based zero-shot   : 79.5
+  Fine-tuning classique    : 75.8
+  Prompt-based FT (manuel) : 90.3
+  Prompt-based FT (auto-T) : 85.5   (NB : pour CR, l'auto est < manuel dans le papier)
+
+Conclusion : CR a la MEME structure que SST-2/MR (sentiment binaire, meme prompt).
+-> on replique le pipeline MR en changeant juste le chargement.

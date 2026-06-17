@@ -1,0 +1,24 @@
+Device : cuda | modele : t5-3b | beam : 100 (MR)
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/509 [00:00<?, ?it/s]Loading weights:  36%|███▌      | 181/509 [00:00<00:00, 1797.61it/s]Loading weights:  71%|███████   | 361/509 [00:00<00:00, 1729.49it/s]Loading weights: 100%|██████████| 509/509 [00:00<00:00, 1987.17it/s]
+Generation a partir de 32 exemples MR (seed 42)
+
+--- variante 'after' ---
+  99 nouveaux templates
+
+--- variante 'before' ---
+  21 nouveaux templates
+
+120 templates (MR) -> outputs_mr/08a_templates.json / .txt
+   [after ] (score -1.163)  {sentence} This is a {mask} film .
+   [after ] (score -1.172)  {sentence} This is a {mask} movie .
+   [before] (score -1.220)  . {mask} . {sentence}
+   [after ] (score -1.223)  {sentence} It's a {mask} movie.
+   [after ] (score -1.223)  {sentence} It's a {mask} film.
+   [before] (score -1.236)  , it's a {mask} film . {sentence}
+   [before] (score -1.246)  , it's a {mask} movie . {sentence}
+   [after ] (score -1.249)  {sentence} This is a {mask} film.
+   [after ] (score -1.250)  {sentence} This is a {mask} movie.
+   [before] (score -1.266)  , this is a {mask} film . {sentence}
+   [before] (score -1.267)  , {mask} film , {sentence}
+   [after ] (score -1.272)  {sentence} All in all a {mask} film.

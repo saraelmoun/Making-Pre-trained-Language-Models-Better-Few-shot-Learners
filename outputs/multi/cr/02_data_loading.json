@@ -1,0 +1,23 @@
+{
+  "step": "02_data_loading",
+  "dataset": "CR (SetFit/SentEval-CR)",
+  "k_per_class": 16,
+  "seed": 42,
+  "sizes": {
+    "train": 32,
+    "val": 32,
+    "test": 753
+  },
+  "train_balance": {
+    "positif": 16,
+    "negatif": 16
+  },
+  "example_train": {
+    "sentence": "just bought one & i 've enjoyed it to date .",
+    "label": 1
+  },
+  "example_test": {
+    "sentence": "4 megapixels is enough for anybody and the photo quality is awesome .",
+    "label": 1
+  }
+}

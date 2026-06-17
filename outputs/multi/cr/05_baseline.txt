@@ -1,0 +1,13 @@
+ETAPE 5 — BASELINE FINE-TUNING CLASSIQUE sur CR
+==================================================
+Protocole : 5 seeds x grille [(1e-05, 2), (1e-05, 4), (2e-05, 4), (2e-05, 8)], 60 epochs
+
+  seed  13 (config [1e-05, 4]) -> TEST 88.8%
+  seed  21 (config [1e-05, 2]) -> TEST 76.9%
+  seed  42 (config [1e-05, 4]) -> TEST 80.1%
+  seed  87 (config [1e-05, 4]) -> TEST 79.7%
+  seed 100 (config [1e-05, 2]) -> TEST 70.5%
+
+Scores test : [88.8, 76.9, 80.1, 79.7, 70.5]
+Fine-tuning CLASSIQUE : 79.2 +/- 5.9
+Cible papier (Table 3, CR) : 75.8

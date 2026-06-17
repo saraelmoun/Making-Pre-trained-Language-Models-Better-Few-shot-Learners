@@ -1,0 +1,191 @@
+Device : cuda
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/394 [00:00<?, ?it/s]Loading weights:  35%|███▌      | 138/394 [00:00<00:00, 1376.60it/s]Loading weights:  70%|███████   | 276/394 [00:00<00:00, 1080.11it/s]Loading weights: 100%|██████████| 394/394 [00:00<00:00, 1390.20it/s]
+159 templates a classer (seed 42, 60 epochs chacun)
+  [  1/159] val  93.8% (loss 0.189)  , {mask} , {sentence}
+  [  2/159] val  96.9% (loss 0.203)  and {mask} and {sentence}
+  [  3/159] val  96.9% (loss 0.071)  , {mask} , and {sentence}
+  [  4/159] val  96.9% (loss 0.202)  and {mask} , {sentence}
+  [  5/159] val  96.9% (loss 0.081)  , a {mask} , {sentence}
+  [  6/159] val  96.9% (loss 0.103)  and {mask} , and {sentence}
+  [  7/159] val  96.9% (loss 0.050)  in a {mask} way {sentence}
+  [  8/159] val  96.9% (loss 0.149)  , {mask} and {sentence}
+  [  9/159] val  96.9% (loss 0.146)  , and {mask} , and {sentence}
+  [ 10/159] val  96.9% (loss 0.049)  if not {mask} , {sentence}
+  [ 11/159] val  93.8% (loss 0.200)  {sentence} a {mask} .
+  [ 12/159] val  93.8% (loss 0.241)  and a {mask} and {sentence}
+  [ 13/159] val  96.9% (loss 0.060)  - {mask} - {sentence}
+  [ 14/159] val  87.5% (loss 0.868)  {sentence} in a {mask} way.
+  [ 15/159] val  96.9% (loss 0.190)  {sentence} is a {mask} .
+  [ 16/159] val  96.9% (loss 0.119)  and {mask} - {sentence}
+  [ 17/159] val  90.6% (loss 0.336)  {sentence} in a {mask} .
+  [ 18/159] val  93.8% (loss 0.233)  as it is {mask} and {sentence}
+  [ 19/159] val  96.9% (loss 0.247)  in a {mask} way, {sentence}
+  [ 20/159] val 100.0% (loss 0.017)  , and {mask} , {sentence}
+  [ 21/159] val  93.8% (loss 0.166)  and {mask} , but {sentence}
+  [ 22/159] val  90.6% (loss 0.344)  {sentence} and a {mask} .
+  [ 23/159] val  87.5% (loss 0.435)  . This is {mask} , {sentence}
+  [ 24/159] val  96.9% (loss 0.117)  , it is {mask} , {sentence}
+  [ 25/159] val  93.8% (loss 0.253)  in a {mask} way and {sentence}
+  [ 26/159] val  96.9% (loss 0.061)  and a {mask} , {sentence}
+  [ 27/159] val  96.9% (loss 0.092)  as it is {mask} , {sentence}
+  [ 28/159] val 100.0% (loss 0.031)  {sentence} is {mask} .
+  [ 29/159] val 100.0% (loss 0.009)  , a {mask} and {sentence}
+  [ 30/159] val  93.8% (loss 0.213)  {sentence} . It was {mask} .
+  [ 31/159] val  96.9% (loss 0.194)  {sentence} - {mask} .
+  [ 32/159] val  96.9% (loss 0.056)  {sentence} that is {mask} .
+  [ 33/159] val 100.0% (loss 0.006)  but not {mask} , {sentence}
+  [ 34/159] val  93.8% (loss 0.200)  . It is {mask} , {sentence}
+  [ 35/159] val  96.9% (loss 0.151)  {sentence} would be {mask} .
+  [ 36/159] val  93.8% (loss 0.151)  . This is {mask} . {sentence}
+  [ 37/159] val 100.0% (loss 0.033)  {sentence} . It is {mask} .
+  [ 38/159] val 100.0% (loss 0.054)  a {mask} movie {sentence}
+  [ 39/159] val  96.9% (loss 0.167)  is a {mask} and {sentence}
+  [ 40/159] val  93.8% (loss 0.130)  {sentence} which is {mask} .
+  [ 41/159] val  96.9% (loss 0.121)  {sentence} will be {mask} .
+  [ 42/159] val 100.0% (loss 0.046)  , {mask} - {sentence}
+  [ 43/159] val  96.9% (loss 0.104)  , and {mask} and {sentence}
+  [ 44/159] val 100.0% (loss 0.011)  , the {mask} , {sentence}
+  [ 45/159] val  93.8% (loss 0.143)  a {mask} and {sentence}
+  [ 46/159] val 100.0% (loss 0.011)  in a {mask} way. {sentence}
+  [ 47/159] val  96.9% (loss 0.134)  a {mask} , {sentence}
+  [ 48/159] val 100.0% (loss 0.040)  , {mask} movie, {sentence}
+  [ 49/159] val  96.9% (loss 0.118)  and {mask} – {sentence}
+  [ 50/159] val  96.9% (loss 0.068)  , just {mask} , {sentence}
+  [ 51/159] val 100.0% (loss 0.021)  , a {mask} movie {sentence}
+  [ 52/159] val  93.8% (loss 0.104)  {sentence} , a {mask} .
+  [ 53/159] val  90.6% (loss 0.246)  , {mask} , but {sentence}
+  [ 54/159] val  87.5% (loss 0.350)  . It is {mask} . {sentence}
+  [ 55/159] val  93.8% (loss 0.181)  , not {mask} , {sentence}
+  [ 56/159] val  93.8% (loss 0.114)  is a {mask} , {sentence}
+  [ 57/159] val 100.0% (loss 0.014)  and a {mask} movie {sentence}
+  [ 58/159] val 100.0% (loss 0.008)  and {mask} but {sentence}
+  [ 59/159] val 100.0% (loss 0.005)  for a {mask} movie {sentence}
+  [ 60/159] val 100.0% (loss 0.007)  , {mask} film, {sentence}
+  [ 61/159] val  96.9% (loss 0.037)  a {mask} film {sentence}
+  [ 62/159] val  96.9% (loss 0.122)  and a {mask} time {sentence}
+  [ 63/159] val 100.0% (loss 0.007)  , a {mask} film {sentence}
+  [ 64/159] val 100.0% (loss 0.001)  {sentence} it is {mask} .
+  [ 65/159] val  96.9% (loss 0.143)  ly {mask} and {sentence}
+  [ 66/159] val 100.0% (loss 0.039)  is a {mask} movie {sentence}
+  [ 67/159] val  93.8% (loss 0.148)  , but {mask} , {sentence}
+  [ 68/159] val  96.9% (loss 0.108)  is {mask} and {sentence}
+  [ 69/159] val 100.0% (loss 0.061)  and {mask} . {sentence}
+  [ 70/159] val  96.9% (loss 0.117)  a {mask} idea {sentence}
+  [ 71/159] val  93.8% (loss 0.211)  {sentence} – {mask} .
+  [ 72/159] val  96.9% (loss 0.173)  and the {mask} , {sentence}
+  [ 73/159] val  96.9% (loss 0.072)  - {mask} , {sentence}
+  [ 74/159] val 100.0% (loss 0.007)  {sentence} with {mask} results.
+  [ 75/159] val  96.9% (loss 0.136)  a {mask} story {sentence}
+  [ 76/159] val  96.9% (loss 0.099)  a {mask} time {sentence}
+  [ 77/159] val  96.9% (loss 0.208)  and a {mask} way {sentence}
+  [ 78/159] val  96.9% (loss 0.029)  {sentence} - {mask} !
+  [ 79/159] val  96.9% (loss 0.076)  . {mask} . {sentence}
+  [ 80/159] val  93.8% (loss 0.204)  and {mask} ... {sentence}
+  [ 81/159] val  93.8% (loss 0.142)  {sentence} it was {mask} .
+  [ 82/159] val  90.6% (loss 0.199)  {sentence} can be {mask} .
+  [ 83/159] val  96.9% (loss 0.128)  {sentence} , {mask} .
+  [ 84/159] val  96.9% (loss 0.300)  {sentence} . {mask} .
+  [ 85/159] val  87.5% (loss 0.395)  {sentence} to be {mask} .
+  [ 86/159] val  93.8% (loss 0.152)  {sentence} ... {mask} .
+  [ 87/159] val 100.0% (loss 0.014)  {sentence} . A {mask} movie.
+  [ 88/159] val  96.9% (loss 0.172)  {sentence} . Just {mask} .
+  [ 89/159] val  96.9% (loss 0.192)  {sentence} is just {mask} .
+  [ 90/159] val  90.6% (loss 0.366)  {sentence} in the {mask} .
+  [ 91/159] val 100.0% (loss 0.006)  {sentence} a {mask} movie.
+  [ 92/159] val 100.0% (loss 0.022)  {sentence} . A {mask} film.
+  [ 93/159] val 100.0% (loss 0.008)  {sentence} a {mask} experience.
+  [ 94/159] val  96.9% (loss 0.140)  {sentence} that was {mask} .
+  [ 95/159] val  96.9% (loss 0.041)  {sentence} has been {mask} .
+  [ 96/159] val  87.5% (loss 0.312)  {sentence} for the {mask} .
+  [ 97/159] val  93.8% (loss 0.303)  {sentence} and {mask} .
+  [ 98/159] val  96.9% (loss 0.229)  {sentence} should be {mask} .
+  [ 99/159] val  87.5% (loss 0.298)  {sentence} of the {mask} .
+  [100/159] val 100.0% (loss 0.001)  {sentence} a {mask} film.
+  [101/159] val 100.0% (loss 0.002)  {sentence} . A {mask} read.
+  [102/159] val  96.9% (loss 0.091)  {sentence} a {mask} one.
+  [103/159] val  96.9% (loss 0.077)  {sentence} this is {mask} .
+  [104/159] val  96.9% (loss 0.212)  {sentence} — {mask} .
+  [105/159] val 100.0% (loss 0.014)  {sentence} . A {mask} experience.
+  [106/159] val 100.0% (loss 0.005)  {sentence} . So {mask} .
+  [107/159] val  96.9% (loss 0.074)  {sentence} . It was {mask} !
+  [108/159] val  93.8% (loss 0.342)  {sentence} a {mask} time.
+  [109/159] val  96.9% (loss 0.148)  {sentence} – {mask} !
+  [110/159] val  96.9% (loss 0.197)  {sentence} and the {mask} .
+  [111/159] val  90.6% (loss 0.473)  {sentence} , and {mask} .
+  [112/159] val  96.9% (loss 0.059)  {sentence} to the {mask} .
+  [113/159] val  93.8% (loss 0.716)  {sentence} . a {mask} .
+  [114/159] val 100.0% (loss 0.011)  {sentence} a {mask} thing.
+  [115/159] val  93.8% (loss 0.216)  {sentence} . A {mask} .
+  [116/159] val 100.0% (loss 0.015)  {sentence} a {mask} read.
+  [117/159] val  90.6% (loss 0.227)  {sentence} a {mask} idea.
+  [118/159] val  90.6% (loss 0.476)  {sentence} in {mask} fashion.
+  [119/159] val  93.8% (loss 0.123)  {sentence} . It is {mask} !
+  [120/159] val  93.8% (loss 0.391)  {sentence} . A {mask} watch.
+  [121/159] val  96.9% (loss 0.125)  {sentence} a {mask} story.
+  [122/159] val  96.9% (loss 0.096)  {sentence} a {mask} show.
+  [123/159] val  90.6% (loss 0.425)  {sentence} on the {mask} .
+  [124/159] val  93.8% (loss 0.193)  {sentence} was {mask} .
+  [125/159] val 100.0% (loss 0.003)  {sentence} ... {mask} !
+  [126/159] val  87.5% (loss 0.624)  {sentence} in a {mask} way!
+  [127/159] val 100.0% (loss 0.031)  {sentence} and a {mask} movie.
+  [128/159] val  90.6% (loss 0.396)  {sentence} of {mask} ness.
+  [129/159] val  84.4% (loss 1.000)  {sentence} in a {mask} manner.
+  [130/159] val  96.9% (loss 0.038)  {sentence} and is {mask} .
+  [131/159] val  96.9% (loss 0.212)  {sentence} and its {mask} .
+  [132/159] val  96.9% (loss 0.030)  {sentence} a {mask} watch.
+  [133/159] val  93.8% (loss 0.192)  {sentence} . A {mask} show.
+  [134/159] val 100.0% (loss 0.005)  {sentence} a {mask} !
+  [135/159] val  96.9% (loss 0.064)  {sentence} a {mask} deal.
+  [136/159] val  90.6% (loss 0.368)  {sentence} . A {mask} one.
+  [137/159] val  93.8% (loss 0.195)  {sentence} in a {mask} movie.
+  [138/159] val  87.5% (loss 0.557)  {sentence} from the {mask} .
+  [139/159] val  87.5% (loss 0.799)  {sentence} a {mask} way.
+  [140/159] val  90.6% (loss 0.387)  {sentence} in a {mask} !
+  [141/159] val 100.0% (loss 0.005)  {sentence} and a {mask} film.
+  [142/159] val 100.0% (loss 0.045)  {sentence} is a {mask} !
+  [143/159] val  90.6% (loss 0.401)  {sentence} in a {mask} film.
+  [144/159] val 100.0% (loss 0.012)  {sentence} . So {mask} !
+  [145/159] val 100.0% (loss 0.013)  {sentence} and a {mask} !
+  [146/159] val  90.6% (loss 0.250)  {sentence} a {mask} day.
+  [147/159] val 100.0% (loss 0.078)  {sentence} and a {mask} story.
+  [148/159] val  84.4% (loss 0.775)  {sentence} in a {mask} way."
+  [149/159] val  84.4% (loss 0.799)  {sentence} at the {mask} .
+  [150/159] val  93.8% (loss 0.300)  {sentence} , {mask} !
+  [151/159] val  93.8% (loss 0.137)  {sentence} that is {mask} !
+  [152/159] val  84.4% (loss 0.844)  {sentence} in a {mask} fashion.
+  [153/159] val  96.9% (loss 0.252)  {sentence} is {mask} !
+  [154/159] val  90.6% (loss 0.237)  {sentence} in a {mask} year.
+  [155/159] val  93.8% (loss 0.241)  {sentence} in this {mask} .
+  [156/159] val  96.9% (loss 0.246)  {sentence} will be {mask} !
+  [157/159] val  96.9% (loss 0.055)  {sentence} and a {mask} show.
+  [158/159] val 100.0% (loss 0.033)  {sentence} . {mask} !
+  [159/159] val 100.0% (loss 0.010)  {sentence} and a {mask} experience.
+
+===== TOP 10 templates (classement val, seed 42) =====
+  val 100.0% (loss 0.001)  {sentence} a {mask} film.
+  val 100.0% (loss 0.002)  {sentence} it is {mask} .
+  val 100.0% (loss 0.002)  {sentence} . A {mask} read.
+  val 100.0% (loss 0.003)  {sentence} ... {mask} !
+  val 100.0% (loss 0.004)  for a {mask} movie {sentence}
+  val 100.0% (loss 0.005)  {sentence} and a {mask} film.
+  val 100.0% (loss 0.005)  {sentence} . So {mask} .
+  val 100.0% (loss 0.005)  {sentence} a {mask} !
+  val 100.0% (loss 0.006)  {sentence} a {mask} movie.
+  val 100.0% (loss 0.006)  but not {mask} , {sentence}
+
+>>> MEILLEUR template : {sentence} a {mask} film.
+
+===== EVALUATION FINALE du meilleur template (5 seeds x grille) =====
+  seed 13 -> TEST 88.9%
+  seed 21 -> TEST 90.9%
+  seed 42 -> TEST 92.2%
+  seed 87 -> TEST 87.7%
+  seed 100 -> TEST 88.9%
+
+==================================================
+Template auto-genere choisi : {sentence} a {mask} film.
+Scores test par seed : [88.9, 90.9, 92.2, 87.7, 88.9]
+Prompt-based FT (AUTO template) : 89.7 +/- 1.6
+(rappel) manuel, nous : 89.2 +/- 1.0   | papier auto : 92.3
+==================================================

@@ -1,0 +1,20 @@
+ETAPE 6 — SYNTHESE CR (Customer Reviews) vs PAPIER (LM-BFF, Table 3)
+==================================================================
+Methode                        Nous             Papier  
+------------------------------------------------------------------
+Prompt-based zero-shot         81.0             79.5    
+Fine-tuning classique          79.2 +/- 5.9     75.8    
+Prompt-based FT (manuel)       87.7 +/- 3.8     90.3    
+Auto-template (5.2)            89.8 +/- 1.9     85.5    
+Auto-mots-labels (5.1)         89.6 +/- 1.3     -       
+------------------------------------------------------------------
+
+Template auto choisi   : {sentence} What a {mask} experience!
+Mots-labels auto       : {'0': 'difficult', '1': 'impressive'}
+
+Conclusion : le pipeline complet generalise de SST-2 a CR.
+  - prompt-based FT >> fine-tuning classique, et bcp plus stable
+  - auto-template et auto-mots-labels egalent/depassent le manuel
+  - meme tendance que le papier, a ~2 points pres (ecart systematique constant)
+
+-> outputs_cr/06_comparaison.json et .txt

@@ -1,0 +1,138 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/394 [00:00<?, ?it/s]Loading weights:  25%|██▌       | 100/394 [00:00<00:00, 910.75it/s]Loading weights:  58%|█████▊    | 228/394 [00:00<00:00, 1094.40it/s]Loading weights: 100%|██████████| 394/394 [00:00<00:00, 1367.50it/s]
+120 templates MR a classer (seed 42, 60 epochs)
+  [  1/120] val  93.8% (loss 0.201)  {sentence} This is a {mask} film .
+  [  2/120] val  93.8% (loss 0.102)  {sentence} This is a {mask} movie .
+  [  3/120] val  96.9% (loss 0.154)  . {mask} . {sentence}
+  [  4/120] val  96.9% (loss 0.318)  {sentence} It's a {mask} movie.
+  [  5/120] val  96.9% (loss 0.335)  {sentence} It's a {mask} film.
+  [  6/120] val  93.8% (loss 0.279)  , it's a {mask} film . {sentence}
+  [  7/120] val  93.8% (loss 0.155)  , it's a {mask} movie . {sentence}
+  [  8/120] val  96.9% (loss 0.253)  {sentence} This is a {mask} film.
+  [  9/120] val  96.9% (loss 0.150)  {sentence} This is a {mask} movie.
+  [ 10/120] val  93.8% (loss 0.280)  , this is a {mask} film . {sentence}
+  [ 11/120] val  93.8% (loss 0.307)  , {mask} film , {sentence}
+  [ 12/120] val  96.9% (loss 0.226)  {sentence} All in all a {mask} film.
+  [ 13/120] val  93.8% (loss 0.226)  , {mask} film . {sentence}
+  [ 14/120] val  96.9% (loss 0.159)  {sentence} It is a {mask} film .
+  [ 15/120] val  93.8% (loss 0.235)  , {mask} movie , {sentence}
+  [ 16/120] val  96.9% (loss 0.097)  {sentence} this is a {mask} movie .
+  [ 17/120] val  96.9% (loss 0.267)  {sentence} this is a {mask} film .
+  [ 18/120] val  93.8% (loss 0.343)  , it's a {mask} film , {sentence}
+  [ 19/120] val  90.6% (loss 0.465)  , this is a {mask} movie . {sentence}
+  [ 20/120] val  93.8% (loss 0.239)  , {mask} movie . {sentence}
+  [ 21/120] val  93.8% (loss 0.288)  , this is a {mask} film , {sentence}
+  [ 22/120] val  93.8% (loss 0.278)  , it's a {mask} movie , {sentence}
+  [ 23/120] val  96.9% (loss 0.120)  {sentence} It's a {mask} movie .
+  [ 24/120] val  96.9% (loss 0.308)  {sentence} It's a {mask} film .
+  [ 25/120] val  93.8% (loss 0.223)  , {mask} , {sentence}
+  [ 26/120] val  96.9% (loss 0.276)  {sentence} It is a {mask} movie .
+  [ 27/120] val  93.8% (loss 0.155)  , {mask} . {sentence}
+  [ 28/120] val  93.8% (loss 0.388)  , this is a {mask} movie , {sentence}
+  [ 29/120] val  93.8% (loss 0.478)  . This is a {mask} film , {sentence}
+  [ 30/120] val  96.9% (loss 0.195)  {sentence} All in all a {mask} movie.
+  [ 31/120] val  96.9% (loss 0.392)  {sentence} What a {mask} movie .
+  [ 32/120] val  93.8% (loss 0.334)  . a {mask} film . {sentence}
+  [ 33/120] val  96.9% (loss 0.125)  {sentence} I thought it was {mask} .
+  [ 34/120] val  93.8% (loss 0.497)  , a {mask} film , {sentence}
+  [ 35/120] val  96.9% (loss 0.280)  {sentence} . . a {mask} film.
+  [ 36/120] val  96.9% (loss 0.309)  {sentence} What a {mask} film .
+  [ 37/120] val  93.8% (loss 0.373)  , a {mask} film . {sentence}
+  [ 38/120] val  96.9% (loss 0.076)  , it's {mask} . {sentence}
+  [ 39/120] val  96.9% (loss 0.184)  {sentence} . . {mask} .
+  [ 40/120] val  96.9% (loss 0.175)  {sentence} What a {mask} movie !
+  [ 41/120] val 100.0% (loss 0.005)  {sentence} it's a {mask} movie.
+  [ 42/120] val  96.9% (loss 0.158)  {sentence} All in all a {mask} film .
+  [ 43/120] val  93.8% (loss 0.306)  , a {mask} movie , {sentence}
+  [ 44/120] val  96.9% (loss 0.127)  {sentence} it's a {mask} film.
+  [ 45/120] val  96.9% (loss 0.255)  {sentence} . . a {mask} movie.
+  [ 46/120] val  96.9% (loss 0.107)  {sentence} it is a {mask} film .
+  [ 47/120] val 100.0% (loss 0.085)  {sentence} it's a {mask} movie .
+  [ 48/120] val  96.9% (loss 0.227)  {sentence} What a {mask} film !
+  [ 49/120] val 100.0% (loss 0.012)  {sentence} it's a {mask} film .
+  [ 50/120] val  96.9% (loss 0.136)  {sentence} a truly {mask} film .
+  [ 51/120] val  96.9% (loss 0.281)  {sentence} This is a {mask} movie !
+  [ 52/120] val  93.8% (loss 0.254)  {sentence} . . . {mask} .
+  [ 53/120] val  96.9% (loss 0.241)  {sentence} This is a {mask} film !
+  [ 54/120] val  93.8% (loss 0.337)  {sentence} It's {mask} .
+  [ 55/120] val  96.9% (loss 0.045)  {sentence} it is a {mask} movie .
+  [ 56/120] val  96.9% (loss 0.214)  {sentence} It was a {mask} movie .
+  [ 57/120] val  96.9% (loss 0.238)  {sentence} It's just {mask} .
+  [ 58/120] val  96.9% (loss 0.159)  {sentence} All in all a {mask} movie .
+  [ 59/120] val  93.8% (loss 0.239)  {sentence} Its a {mask} film .
+  [ 60/120] val  96.9% (loss 0.311)  {sentence} Its a {mask} movie .
+  [ 61/120] val  96.9% (loss 0.244)  {sentence} It was a {mask} film .
+  [ 62/120] val  96.9% (loss 0.254)  {sentence} Truly a {mask} film .
+  [ 63/120] val  93.8% (loss 0.205)  {sentence} . . {mask} movie .
+  [ 64/120] val  93.8% (loss 0.281)  {sentence} It is a {mask} film.
+  [ 65/120] val  96.9% (loss 0.259)  {sentence} This was a {mask} movie .
+  [ 66/120] val  96.9% (loss 0.145)  {sentence} what a {mask} movie .
+  [ 67/120] val  96.9% (loss 0.217)  {sentence} It's a {mask} watch.
+  [ 68/120] val  96.9% (loss 0.166)  {sentence} It’s a {mask} film.
+  [ 69/120] val  93.8% (loss 0.357)  {sentence} . . {mask} film .
+  [ 70/120] val  96.9% (loss 0.184)  {sentence} It’s a {mask} movie.
+  [ 71/120] val  96.9% (loss 0.044)  {sentence} a {mask} piece of work .
+  [ 72/120] val  96.9% (loss 0.157)  {sentence} This was a {mask} film .
+  [ 73/120] val  96.9% (loss 0.178)  {sentence} It's really {mask} .
+  [ 74/120] val  96.9% (loss 0.094)  {sentence} this is a {mask} movie.
+  [ 75/120] val  96.9% (loss 0.237)  {sentence} what a {mask} film .
+  [ 76/120] val  96.9% (loss 0.224)  {sentence} It is a {mask} movie.
+  [ 77/120] val  96.9% (loss 0.158)  {sentence} All in all a {mask} experience.
+  [ 78/120] val  96.9% (loss 0.286)  {sentence} this is a {mask} film.
+  [ 79/120] val  96.9% (loss 0.129)  {sentence} a truly {mask} movie .
+  [ 80/120] val 100.0% (loss 0.003)  {sentence} it was a {mask} movie .
+  [ 81/120] val  90.6% (loss 0.305)  {sentence} It's a {mask} .
+  [ 82/120] val  96.9% (loss 0.286)  {sentence} . . {mask} stuff .
+  [ 83/120] val  96.9% (loss 0.191)  {sentence} All in all a {mask} watch.
+  [ 84/120] val  96.9% (loss 0.195)  {sentence} Just a {mask} movie .
+  [ 85/120] val  93.8% (loss 0.190)  {sentence} . . a {mask} film .
+  [ 86/120] val  96.9% (loss 0.210)  {sentence} Just a {mask} film .
+  [ 87/120] val  93.8% (loss 0.226)  {sentence} A {mask} piece of work .
+  [ 88/120] val  96.9% (loss 0.149)  {sentence} A {mask} waste of time .
+  [ 89/120] val  96.9% (loss 0.124)  {sentence} what a {mask} movie !
+  [ 90/120] val  96.9% (loss 0.150)  {sentence} . . A {mask} film.
+  [ 91/120] val  96.9% (loss 0.141)  {sentence} . . a {mask} movie .
+  [ 92/120] val  93.8% (loss 0.280)  {sentence} This was a {mask} movie.
+  [ 93/120] val  96.9% (loss 0.137)  {sentence} . . A {mask} film .
+  [ 94/120] val  96.9% (loss 0.222)  {sentence} this is a {mask} movie !
+  [ 95/120] val  93.8% (loss 0.237)  {sentence} It was a {mask} movie.
+  [ 96/120] val  93.8% (loss 0.154)  {sentence} It's a {mask} movie!
+  [ 97/120] val  96.9% (loss 0.169)  {sentence} It’s a {mask} film .
+  [ 98/120] val  96.9% (loss 0.249)  {sentence} It's a {mask} watch .
+  [ 99/120] val  96.9% (loss 0.152)  {sentence} . . a {mask} .
+  [100/120] val  96.9% (loss 0.231)  {sentence} what a {mask} film !
+  [101/120] val  96.9% (loss 0.177)  {sentence} This was a {mask} film.
+  [102/120] val  96.9% (loss 0.129)  {sentence} It’s a {mask} movie .
+  [103/120] val  96.9% (loss 0.232)  {sentence} It was a {mask} film.
+  [104/120] val  96.9% (loss 0.210)  {sentence} this is a {mask} film !
+  [105/120] val  96.9% (loss 0.136)  {sentence} . . A {mask} movie.
+  [106/120] val  96.9% (loss 0.196)  {sentence} It's a {mask} story.
+  [107/120] val  93.8% (loss 0.285)  {sentence} This is a {mask} movie!
+  [108/120] val  96.9% (loss 0.102)  {sentence} a really {mask} film .
+  [109/120] val  96.9% (loss 0.100)  {sentence} . . A {mask} movie .
+  [110/120] val  96.9% (loss 0.372)  {sentence} It's a {mask} film."
+  [111/120] val  96.9% (loss 0.309)  {sentence} It's a {mask} movie."
+  [112/120] val  96.9% (loss 0.280)  {sentence} It's a {mask} film!
+  [113/120] val  96.9% (loss 0.329)  {sentence} It's a {mask} movie !
+  [114/120] val  96.9% (loss 0.054)  {sentence} . . a {mask} watch.
+  [115/120] val  96.9% (loss 0.252)  {sentence} . . a {mask} experience.
+  [116/120] val  93.8% (loss 0.372)  {sentence} a {mask} film .
+  [117/120] val  93.8% (loss 0.151)  {sentence} its a {mask} movie .
+  [118/120] val  96.9% (loss 0.206)  {sentence} a really {mask} movie .
+  [119/120] val  96.9% (loss 0.085)  {sentence} its a {mask} film .
+  [120/120] val  96.9% (loss 0.158)  {sentence} A truly {mask} film .
+
+>>> MEILLEUR template MR : {sentence} it was a {mask} movie .
+
+Evaluation finale (5 seeds x grille)...
+  seed 13 -> TEST 79.5%
+  seed 21 -> TEST 89.0%
+  seed 42 -> TEST 90.5%
+  seed 87 -> TEST 87.2%
+  seed 100 -> TEST 85.8%
+
+==================================================
+Template auto MR : {sentence} it was a {mask} movie .
+Prompt-based FT (AUTO template) : 86.4 +/- 3.8
+Cible papier : 88.5 | manuel nous : 85.4 +/- 2.7
+==================================================

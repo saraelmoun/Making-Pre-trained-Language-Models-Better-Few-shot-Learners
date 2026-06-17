@@ -1,0 +1,85 @@
+{
+  "step": "05_baseline",
+  "dataset": "CR (SetFit/SentEval-CR)",
+  "method": "fine-tuning classique (tete de classification standard)",
+  "protocol": {
+    "seeds": [
+      13,
+      21,
+      42,
+      87,
+      100
+    ],
+    "grid": [
+      [
+        1e-05,
+        2
+      ],
+      [
+        1e-05,
+        4
+      ],
+      [
+        2e-05,
+        4
+      ],
+      [
+        2e-05,
+        8
+      ]
+    ],
+    "epochs": 60
+  },
+  "per_seed": [
+    {
+      "seed": 13,
+      "config": [
+        1e-05,
+        4
+      ],
+      "test_acc": 88.8
+    },
+    {
+      "seed": 21,
+      "config": [
+        1e-05,
+        2
+      ],
+      "test_acc": 76.9
+    },
+    {
+      "seed": 42,
+      "config": [
+        1e-05,
+        4
+      ],
+      "test_acc": 80.1
+    },
+    {
+      "seed": 87,
+      "config": [
+        1e-05,
+        4
+      ],
+      "test_acc": 79.7
+    },
+    {
+      "seed": 100,
+      "config": [
+        1e-05,
+        2
+      ],
+      "test_acc": 70.5
+    }
+  ],
+  "test_scores": [
+    88.8,
+    76.9,
+    80.1,
+    79.7,
+    70.5
+  ],
+  "mean": 79.2,
+  "std": 5.9,
+  "paper_target": 75.8
+}

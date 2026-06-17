@@ -1,0 +1,44 @@
+{
+  "step": "06_comparaison",
+  "dataset": "MR (rotten_tomatoes)",
+  "rows": [
+    {
+      "methode": "Prompt-based zero-shot",
+      "nous": 78.6,
+      "nous_std": null,
+      "papier": 80.8
+    },
+    {
+      "methode": "Fine-tuning classique",
+      "nous": 72.5,
+      "nous_std": 9.4,
+      "papier": 76.9
+    },
+    {
+      "methode": "Prompt-based FT (manuel)",
+      "nous": 85.4,
+      "nous_std": 2.7,
+      "papier": 87.0
+    },
+    {
+      "methode": "Auto-template (5.2)",
+      "nous": 86.4,
+      "nous_std": 3.8,
+      "papier": 88.5
+    },
+    {
+      "methode": "Auto-mots-labels (5.1)",
+      "nous": 85.5,
+      "nous_std": 4.0,
+      "papier": null
+    }
+  ],
+  "details": {
+    "auto_template_choisi": "{sentence} it was a {mask} movie .",
+    "auto_label_words": {
+      "0": "bad",
+      "1": "here"
+    }
+  },
+  "conclusion": "Le pipeline complet generalise de SST-2 a MR : prompt-based >> classique, auto-generation (templates et mots-labels) egale/depasse le manuel, meme tendance que le papier a ~2 points pres."
+}

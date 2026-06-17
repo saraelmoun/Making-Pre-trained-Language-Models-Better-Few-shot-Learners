@@ -1,0 +1,58 @@
+Device : cuda | BASELINE fine-tuning classique | 5 seeds
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/389 [00:00<?, ?it/s]Loading weights: 100%|██████████| 389/389 [00:00<00:00, 6307.78it/s]
+  seed 13 | lr=1e-05 bs=2 -> val 87.5% (loss 0.698) | test 78.6%
+Loading weights:   0%|          | 0/389 [00:00<?, ?it/s]Loading weights: 100%|██████████| 389/389 [00:00<00:00, 5891.22it/s]
+  seed 13 | lr=1e-05 bs=4 -> val 90.6% (loss 0.607) | test 74.5%
+Loading weights:   0%|          | 0/389 [00:00<?, ?it/s]Loading weights: 100%|██████████| 389/389 [00:00<00:00, 6080.45it/s]
+  seed 13 | lr=2e-05 bs=4 -> val 87.5% (loss 1.085) | test 74.8%
+Loading weights:   0%|          | 0/389 [00:00<?, ?it/s]Loading weights: 100%|██████████| 389/389 [00:00<00:00, 5826.30it/s]
+  seed 13 | lr=2e-05 bs=8 -> val 84.4% (loss 0.879) | test 49.4%
+==> seed 13 : config retenue (1e-05, 4) -> TEST 74.5%
+
+Loading weights:   0%|          | 0/389 [00:00<?, ?it/s]Loading weights: 100%|██████████| 389/389 [00:00<00:00, 5837.76it/s]
+  seed 21 | lr=1e-05 bs=2 -> val 71.9% (loss 0.922) | test 69.2%
+Loading weights:   0%|          | 0/389 [00:00<?, ?it/s]Loading weights: 100%|██████████| 389/389 [00:00<00:00, 5973.68it/s]
+  seed 21 | lr=1e-05 bs=4 -> val 62.5% (loss 0.700) | test 55.4%
+Loading weights:   0%|          | 0/389 [00:00<?, ?it/s]Loading weights: 100%|██████████| 389/389 [00:00<00:00, 5829.61it/s]
+  seed 21 | lr=2e-05 bs=4 -> val 68.8% (loss 0.918) | test 63.3%
+Loading weights:   0%|          | 0/389 [00:00<?, ?it/s]Loading weights: 100%|██████████| 389/389 [00:00<00:00, 5880.75it/s]
+  seed 21 | lr=2e-05 bs=8 -> val 71.9% (loss 0.911) | test 67.9%
+==> seed 21 : config retenue (2e-05, 8) -> TEST 67.9%
+
+Loading weights:   0%|          | 0/389 [00:00<?, ?it/s]Loading weights: 100%|██████████| 389/389 [00:00<00:00, 5729.78it/s]
+  seed 42 | lr=1e-05 bs=2 -> val 71.9% (loss 1.266) | test 60.2%
+Loading weights:   0%|          | 0/389 [00:00<?, ?it/s]Loading weights: 100%|██████████| 389/389 [00:00<00:00, 5728.96it/s]
+  seed 42 | lr=1e-05 bs=4 -> val 75.0% (loss 1.118) | test 67.2%
+Loading weights:   0%|          | 0/389 [00:00<?, ?it/s]Loading weights: 100%|██████████| 389/389 [00:00<00:00, 5794.31it/s]
+  seed 42 | lr=2e-05 bs=4 -> val 84.4% (loss 0.759) | test 69.6%
+Loading weights:   0%|          | 0/389 [00:00<?, ?it/s]Loading weights: 100%|██████████| 389/389 [00:00<00:00, 5929.82it/s]
+  seed 42 | lr=2e-05 bs=8 -> val 68.8% (loss 1.167) | test 63.8%
+==> seed 42 : config retenue (2e-05, 4) -> TEST 69.6%
+
+Loading weights:   0%|          | 0/389 [00:00<?, ?it/s]Loading weights: 100%|██████████| 389/389 [00:00<00:00, 6067.51it/s]
+  seed 87 | lr=1e-05 bs=2 -> val 84.4% (loss 0.863) | test 83.6%
+Loading weights:   0%|          | 0/389 [00:00<?, ?it/s]Loading weights: 100%|██████████| 389/389 [00:00<00:00, 5919.90it/s]
+  seed 87 | lr=1e-05 bs=4 -> val 87.5% (loss 0.561) | test 81.3%
+Loading weights:   0%|          | 0/389 [00:00<?, ?it/s]Loading weights: 100%|██████████| 389/389 [00:00<00:00, 6172.20it/s]
+  seed 87 | lr=2e-05 bs=4 -> val 81.2% (loss 0.449) | test 78.6%
+Loading weights:   0%|          | 0/389 [00:00<?, ?it/s]Loading weights: 100%|██████████| 389/389 [00:00<00:00, 6663.31it/s]
+  seed 87 | lr=2e-05 bs=8 -> val 84.4% (loss 0.447) | test 76.0%
+==> seed 87 : config retenue (1e-05, 4) -> TEST 81.3%
+
+Loading weights:   0%|          | 0/389 [00:00<?, ?it/s]Loading weights: 100%|██████████| 389/389 [00:00<00:00, 6218.43it/s]
+  seed 100 | lr=1e-05 bs=2 -> val 84.4% (loss 0.671) | test 76.4%
+Loading weights:   0%|          | 0/389 [00:00<?, ?it/s]Loading weights: 100%|██████████| 389/389 [00:00<00:00, 4669.85it/s]
+  seed 100 | lr=1e-05 bs=4 -> val 75.0% (loss 1.334) | test 71.6%
+Loading weights:   0%|          | 0/389 [00:00<?, ?it/s]Loading weights: 100%|██████████| 389/389 [00:00<00:00, 6084.32it/s]
+  seed 100 | lr=2e-05 bs=4 -> val 87.5% (loss 1.313) | test 84.1%
+Loading weights:   0%|          | 0/389 [00:00<?, ?it/s]Loading weights: 100%|██████████| 389/389 [00:00<00:00, 6122.43it/s]
+  seed 100 | lr=2e-05 bs=8 -> val 81.2% (loss 0.520) | test 76.1%
+==> seed 100 : config retenue (2e-05, 4) -> TEST 84.1%
+
+==================================================
+Scores test par seed : [74.5, 67.9, 69.6, 81.3, 84.1]
+Fine-tuning CLASSIQUE : 75.5 +/- 6.3
+Chiffre du papier (Table 3) : 81.4 +/- 3.8
+(rappel) Prompt-based FT, nous : 89.2 +/- 1.0
+==================================================

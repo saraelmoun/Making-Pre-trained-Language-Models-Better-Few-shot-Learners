@@ -1,0 +1,120 @@
+  1. [after ] (score -1.163)  {sentence} This is a {mask} film .
+  2. [after ] (score -1.172)  {sentence} This is a {mask} movie .
+  3. [before] (score -1.220)  . {mask} . {sentence}
+  4. [after ] (score -1.223)  {sentence} It's a {mask} movie.
+  5. [after ] (score -1.223)  {sentence} It's a {mask} film.
+  6. [before] (score -1.236)  , it's a {mask} film . {sentence}
+  7. [before] (score -1.246)  , it's a {mask} movie . {sentence}
+  8. [after ] (score -1.249)  {sentence} This is a {mask} film.
+  9. [after ] (score -1.250)  {sentence} This is a {mask} movie.
+ 10. [before] (score -1.266)  , this is a {mask} film . {sentence}
+ 11. [before] (score -1.267)  , {mask} film , {sentence}
+ 12. [after ] (score -1.272)  {sentence} All in all a {mask} film.
+ 13. [before] (score -1.277)  , {mask} film . {sentence}
+ 14. [after ] (score -1.279)  {sentence} It is a {mask} film .
+ 15. [before] (score -1.279)  , {mask} movie , {sentence}
+ 16. [after ] (score -1.280)  {sentence} this is a {mask} movie .
+ 17. [after ] (score -1.283)  {sentence} this is a {mask} film .
+ 18. [before] (score -1.285)  , it's a {mask} film , {sentence}
+ 19. [before] (score -1.287)  , this is a {mask} movie . {sentence}
+ 20. [before] (score -1.290)  , {mask} movie . {sentence}
+ 21. [before] (score -1.295)  , this is a {mask} film , {sentence}
+ 22. [before] (score -1.296)  , it's a {mask} movie , {sentence}
+ 23. [after ] (score -1.297)  {sentence} It's a {mask} movie .
+ 24. [after ] (score -1.298)  {sentence} It's a {mask} film .
+ 25. [before] (score -1.301)  , {mask} , {sentence}
+ 26. [after ] (score -1.303)  {sentence} It is a {mask} movie .
+ 27. [before] (score -1.310)  , {mask} . {sentence}
+ 28. [before] (score -1.315)  , this is a {mask} movie , {sentence}
+ 29. [before] (score -1.316)  . This is a {mask} film , {sentence}
+ 30. [after ] (score -1.318)  {sentence} All in all a {mask} movie.
+ 31. [after ] (score -1.321)  {sentence} What a {mask} movie .
+ 32. [before] (score -1.329)  . a {mask} film . {sentence}
+ 33. [after ] (score -1.332)  {sentence} I thought it was {mask} .
+ 34. [before] (score -1.333)  , a {mask} film , {sentence}
+ 35. [after ] (score -1.335)  {sentence} . . a {mask} film.
+ 36. [after ] (score -1.337)  {sentence} What a {mask} film .
+ 37. [before] (score -1.345)  , a {mask} film . {sentence}
+ 38. [before] (score -1.345)  , it's {mask} . {sentence}
+ 39. [after ] (score -1.349)  {sentence} . . {mask} .
+ 40. [after ] (score -1.350)  {sentence} What a {mask} movie !
+ 41. [after ] (score -1.352)  {sentence} it's a {mask} movie.
+ 42. [after ] (score -1.352)  {sentence} All in all a {mask} film .
+ 43. [before] (score -1.355)  , a {mask} movie , {sentence}
+ 44. [after ] (score -1.359)  {sentence} it's a {mask} film.
+ 45. [after ] (score -1.362)  {sentence} . . a {mask} movie.
+ 46. [after ] (score -1.364)  {sentence} it is a {mask} film .
+ 47. [after ] (score -1.364)  {sentence} it's a {mask} movie .
+ 48. [after ] (score -1.368)  {sentence} What a {mask} film !
+ 49. [after ] (score -1.369)  {sentence} it's a {mask} film .
+ 50. [after ] (score -1.371)  {sentence} a truly {mask} film .
+ 51. [after ] (score -1.372)  {sentence} This is a {mask} movie !
+ 52. [after ] (score -1.377)  {sentence} . . . {mask} .
+ 53. [after ] (score -1.380)  {sentence} This is a {mask} film !
+ 54. [after ] (score -1.382)  {sentence} It's {mask} .
+ 55. [after ] (score -1.382)  {sentence} it is a {mask} movie .
+ 56. [after ] (score -1.384)  {sentence} It was a {mask} movie .
+ 57. [after ] (score -1.385)  {sentence} It's just {mask} .
+ 58. [after ] (score -1.389)  {sentence} All in all a {mask} movie .
+ 59. [after ] (score -1.392)  {sentence} Its a {mask} film .
+ 60. [after ] (score -1.393)  {sentence} Its a {mask} movie .
+ 61. [after ] (score -1.397)  {sentence} It was a {mask} film .
+ 62. [after ] (score -1.398)  {sentence} Truly a {mask} film .
+ 63. [after ] (score -1.399)  {sentence} . . {mask} movie .
+ 64. [after ] (score -1.402)  {sentence} It is a {mask} film.
+ 65. [after ] (score -1.403)  {sentence} This was a {mask} movie .
+ 66. [after ] (score -1.405)  {sentence} what a {mask} movie .
+ 67. [after ] (score -1.409)  {sentence} It's a {mask} watch.
+ 68. [after ] (score -1.410)  {sentence} It’s a {mask} film.
+ 69. [after ] (score -1.414)  {sentence} . . {mask} film .
+ 70. [after ] (score -1.416)  {sentence} It’s a {mask} movie.
+ 71. [after ] (score -1.417)  {sentence} a {mask} piece of work .
+ 72. [after ] (score -1.417)  {sentence} This was a {mask} film .
+ 73. [after ] (score -1.429)  {sentence} It's really {mask} .
+ 74. [after ] (score -1.429)  {sentence} this is a {mask} movie.
+ 75. [after ] (score -1.431)  {sentence} what a {mask} film .
+ 76. [after ] (score -1.431)  {sentence} It is a {mask} movie.
+ 77. [after ] (score -1.437)  {sentence} All in all a {mask} experience.
+ 78. [after ] (score -1.438)  {sentence} this is a {mask} film.
+ 79. [after ] (score -1.440)  {sentence} a truly {mask} movie .
+ 80. [after ] (score -1.444)  {sentence} it was a {mask} movie .
+ 81. [after ] (score -1.444)  {sentence} It's a {mask} .
+ 82. [after ] (score -1.445)  {sentence} . . {mask} stuff .
+ 83. [after ] (score -1.453)  {sentence} All in all a {mask} watch.
+ 84. [after ] (score -1.453)  {sentence} Just a {mask} movie .
+ 85. [after ] (score -1.454)  {sentence} . . a {mask} film .
+ 86. [after ] (score -1.457)  {sentence} Just a {mask} film .
+ 87. [after ] (score -1.458)  {sentence} A {mask} piece of work .
+ 88. [after ] (score -1.463)  {sentence} A {mask} waste of time .
+ 89. [after ] (score -1.470)  {sentence} what a {mask} movie !
+ 90. [after ] (score -1.470)  {sentence} . . A {mask} film.
+ 91. [after ] (score -1.474)  {sentence} . . a {mask} movie .
+ 92. [after ] (score -1.476)  {sentence} This was a {mask} movie.
+ 93. [after ] (score -1.478)  {sentence} . . A {mask} film .
+ 94. [after ] (score -1.486)  {sentence} this is a {mask} movie !
+ 95. [after ] (score -1.489)  {sentence} It was a {mask} movie.
+ 96. [after ] (score -1.490)  {sentence} It's a {mask} movie!
+ 97. [after ] (score -1.491)  {sentence} It’s a {mask} film .
+ 98. [after ] (score -1.491)  {sentence} It's a {mask} watch .
+ 99. [after ] (score -1.494)  {sentence} . . a {mask} .
+100. [after ] (score -1.495)  {sentence} what a {mask} film !
+101. [after ] (score -1.496)  {sentence} This was a {mask} film.
+102. [after ] (score -1.498)  {sentence} It’s a {mask} movie .
+103. [after ] (score -1.502)  {sentence} It was a {mask} film.
+104. [after ] (score -1.503)  {sentence} this is a {mask} film !
+105. [after ] (score -1.503)  {sentence} . . A {mask} movie.
+106. [after ] (score -1.504)  {sentence} It's a {mask} story.
+107. [after ] (score -1.504)  {sentence} This is a {mask} movie!
+108. [after ] (score -1.505)  {sentence} a really {mask} film .
+109. [after ] (score -1.505)  {sentence} . . A {mask} movie .
+110. [after ] (score -1.508)  {sentence} It's a {mask} film."
+111. [after ] (score -1.517)  {sentence} It's a {mask} movie."
+112. [after ] (score -1.518)  {sentence} It's a {mask} film!
+113. [after ] (score -1.521)  {sentence} It's a {mask} movie !
+114. [after ] (score -1.522)  {sentence} . . a {mask} watch.
+115. [after ] (score -1.522)  {sentence} . . a {mask} experience.
+116. [after ] (score -1.523)  {sentence} a {mask} film .
+117. [after ] (score -1.523)  {sentence} its a {mask} movie .
+118. [after ] (score -1.526)  {sentence} a really {mask} movie .
+119. [after ] (score -1.527)  {sentence} its a {mask} film .
+120. [after ] (score -1.528)  {sentence} A truly {mask} film .

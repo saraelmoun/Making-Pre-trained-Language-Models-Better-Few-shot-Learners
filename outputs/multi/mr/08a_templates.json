@@ -1,0 +1,602 @@
+[
+  {
+    "template": "{sentence} This is a {mask} film .",
+    "score": -1.1631,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} This is a {mask} movie .",
+    "score": -1.1717,
+    "variant": "after"
+  },
+  {
+    "template": ". {mask} . {sentence}",
+    "score": -1.2199,
+    "variant": "before"
+  },
+  {
+    "template": "{sentence} It's a {mask} movie.",
+    "score": -1.2226,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} It's a {mask} film.",
+    "score": -1.2228,
+    "variant": "after"
+  },
+  {
+    "template": ", it's a {mask} film . {sentence}",
+    "score": -1.2358,
+    "variant": "before"
+  },
+  {
+    "template": ", it's a {mask} movie . {sentence}",
+    "score": -1.2459,
+    "variant": "before"
+  },
+  {
+    "template": "{sentence} This is a {mask} film.",
+    "score": -1.2492,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} This is a {mask} movie.",
+    "score": -1.25,
+    "variant": "after"
+  },
+  {
+    "template": ", this is a {mask} film . {sentence}",
+    "score": -1.266,
+    "variant": "before"
+  },
+  {
+    "template": ", {mask} film , {sentence}",
+    "score": -1.2666,
+    "variant": "before"
+  },
+  {
+    "template": "{sentence} All in all a {mask} film.",
+    "score": -1.2724,
+    "variant": "after"
+  },
+  {
+    "template": ", {mask} film . {sentence}",
+    "score": -1.2774,
+    "variant": "before"
+  },
+  {
+    "template": "{sentence} It is a {mask} film .",
+    "score": -1.2788,
+    "variant": "after"
+  },
+  {
+    "template": ", {mask} movie , {sentence}",
+    "score": -1.279,
+    "variant": "before"
+  },
+  {
+    "template": "{sentence} this is a {mask} movie .",
+    "score": -1.2801,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} this is a {mask} film .",
+    "score": -1.2834,
+    "variant": "after"
+  },
+  {
+    "template": ", it's a {mask} film , {sentence}",
+    "score": -1.2851,
+    "variant": "before"
+  },
+  {
+    "template": ", this is a {mask} movie . {sentence}",
+    "score": -1.2869,
+    "variant": "before"
+  },
+  {
+    "template": ", {mask} movie . {sentence}",
+    "score": -1.2895,
+    "variant": "before"
+  },
+  {
+    "template": ", this is a {mask} film , {sentence}",
+    "score": -1.2951,
+    "variant": "before"
+  },
+  {
+    "template": ", it's a {mask} movie , {sentence}",
+    "score": -1.2961,
+    "variant": "before"
+  },
+  {
+    "template": "{sentence} It's a {mask} movie .",
+    "score": -1.297,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} It's a {mask} film .",
+    "score": -1.2978,
+    "variant": "after"
+  },
+  {
+    "template": ", {mask} , {sentence}",
+    "score": -1.3011,
+    "variant": "before"
+  },
+  {
+    "template": "{sentence} It is a {mask} movie .",
+    "score": -1.3034,
+    "variant": "after"
+  },
+  {
+    "template": ", {mask} . {sentence}",
+    "score": -1.3103,
+    "variant": "before"
+  },
+  {
+    "template": ", this is a {mask} movie , {sentence}",
+    "score": -1.3152,
+    "variant": "before"
+  },
+  {
+    "template": ". This is a {mask} film , {sentence}",
+    "score": -1.3163,
+    "variant": "before"
+  },
+  {
+    "template": "{sentence} All in all a {mask} movie.",
+    "score": -1.3183,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} What a {mask} movie .",
+    "score": -1.3212,
+    "variant": "after"
+  },
+  {
+    "template": ". a {mask} film . {sentence}",
+    "score": -1.3291,
+    "variant": "before"
+  },
+  {
+    "template": "{sentence} I thought it was {mask} .",
+    "score": -1.3324,
+    "variant": "after"
+  },
+  {
+    "template": ", a {mask} film , {sentence}",
+    "score": -1.3326,
+    "variant": "before"
+  },
+  {
+    "template": "{sentence} . . a {mask} film.",
+    "score": -1.335,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} What a {mask} film .",
+    "score": -1.3365,
+    "variant": "after"
+  },
+  {
+    "template": ", a {mask} film . {sentence}",
+    "score": -1.3445,
+    "variant": "before"
+  },
+  {
+    "template": ", it's {mask} . {sentence}",
+    "score": -1.3453,
+    "variant": "before"
+  },
+  {
+    "template": "{sentence} . . {mask} .",
+    "score": -1.349,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} What a {mask} movie !",
+    "score": -1.3497,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} it's a {mask} movie.",
+    "score": -1.3523,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} All in all a {mask} film .",
+    "score": -1.3524,
+    "variant": "after"
+  },
+  {
+    "template": ", a {mask} movie , {sentence}",
+    "score": -1.3545,
+    "variant": "before"
+  },
+  {
+    "template": "{sentence} it's a {mask} film.",
+    "score": -1.3587,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} . . a {mask} movie.",
+    "score": -1.362,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} it is a {mask} film .",
+    "score": -1.364,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} it's a {mask} movie .",
+    "score": -1.3644,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} What a {mask} film !",
+    "score": -1.3679,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} it's a {mask} film .",
+    "score": -1.369,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} a truly {mask} film .",
+    "score": -1.3709,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} This is a {mask} movie !",
+    "score": -1.3719,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} . . . {mask} .",
+    "score": -1.3775,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} This is a {mask} film !",
+    "score": -1.3796,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} It's {mask} .",
+    "score": -1.3817,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} it is a {mask} movie .",
+    "score": -1.3819,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} It was a {mask} movie .",
+    "score": -1.3842,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} It's just {mask} .",
+    "score": -1.3854,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} All in all a {mask} movie .",
+    "score": -1.3887,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} Its a {mask} film .",
+    "score": -1.3916,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} Its a {mask} movie .",
+    "score": -1.3928,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} It was a {mask} film .",
+    "score": -1.3972,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} Truly a {mask} film .",
+    "score": -1.3982,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} . . {mask} movie .",
+    "score": -1.3986,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} It is a {mask} film.",
+    "score": -1.4024,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} This was a {mask} movie .",
+    "score": -1.4034,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} what a {mask} movie .",
+    "score": -1.4052,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} It's a {mask} watch.",
+    "score": -1.4087,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} It’s a {mask} film.",
+    "score": -1.4104,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} . . {mask} film .",
+    "score": -1.4144,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} It’s a {mask} movie.",
+    "score": -1.4162,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} a {mask} piece of work .",
+    "score": -1.417,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} This was a {mask} film .",
+    "score": -1.4172,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} It's really {mask} .",
+    "score": -1.4295,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} this is a {mask} movie.",
+    "score": -1.4295,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} what a {mask} film .",
+    "score": -1.4306,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} It is a {mask} movie.",
+    "score": -1.4312,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} All in all a {mask} experience.",
+    "score": -1.4365,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} this is a {mask} film.",
+    "score": -1.4375,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} a truly {mask} movie .",
+    "score": -1.4397,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} it was a {mask} movie .",
+    "score": -1.4437,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} It's a {mask} .",
+    "score": -1.4445,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} . . {mask} stuff .",
+    "score": -1.4446,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} All in all a {mask} watch.",
+    "score": -1.4526,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} Just a {mask} movie .",
+    "score": -1.453,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} . . a {mask} film .",
+    "score": -1.4541,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} Just a {mask} film .",
+    "score": -1.457,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} A {mask} piece of work .",
+    "score": -1.4579,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} A {mask} waste of time .",
+    "score": -1.4627,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} what a {mask} movie !",
+    "score": -1.4699,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} . . A {mask} film.",
+    "score": -1.4704,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} . . a {mask} movie .",
+    "score": -1.4741,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} This was a {mask} movie.",
+    "score": -1.4758,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} . . A {mask} film .",
+    "score": -1.4775,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} this is a {mask} movie !",
+    "score": -1.4863,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} It was a {mask} movie.",
+    "score": -1.4892,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} It's a {mask} movie!",
+    "score": -1.4905,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} It’s a {mask} film .",
+    "score": -1.4912,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} It's a {mask} watch .",
+    "score": -1.4912,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} . . a {mask} .",
+    "score": -1.4942,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} what a {mask} film !",
+    "score": -1.4953,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} This was a {mask} film.",
+    "score": -1.4965,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} It’s a {mask} movie .",
+    "score": -1.4983,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} It was a {mask} film.",
+    "score": -1.5019,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} this is a {mask} film !",
+    "score": -1.5029,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} . . A {mask} movie.",
+    "score": -1.5032,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} It's a {mask} story.",
+    "score": -1.5036,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} This is a {mask} movie!",
+    "score": -1.5042,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} a really {mask} film .",
+    "score": -1.505,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} . . A {mask} movie .",
+    "score": -1.5051,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} It's a {mask} film.\"",
+    "score": -1.5085,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} It's a {mask} movie.\"",
+    "score": -1.5169,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} It's a {mask} film!",
+    "score": -1.5185,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} It's a {mask} movie !",
+    "score": -1.5208,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} . . a {mask} watch.",
+    "score": -1.5217,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} . . a {mask} experience.",
+    "score": -1.5224,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} a {mask} film .",
+    "score": -1.5226,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} its a {mask} movie .",
+    "score": -1.523,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} a really {mask} movie .",
+    "score": -1.5259,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} its a {mask} film .",
+    "score": -1.5272,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} A truly {mask} film .",
+    "score": -1.5279,
+    "variant": "after"
+  }
+]

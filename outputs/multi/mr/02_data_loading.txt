@@ -1,0 +1,10 @@
+ETAPE 2 — CHARGEMENT FEW-SHOT DE MR
+========================================
+Dataset      : MR (rotten_tomatoes)
+K par classe : 16 (seed 42)
+
+Tailles : train 32 | val 32 | test 1066
+Equilibre train : 16 positifs / 16 negatifs
+
+Exemple train : {'sentence': 'arteta paints a picture of lives lived in a state of quiet desperation .', 'label': 1}
+Exemple test  : {'sentence': 'lovingly photographed in the manner of a golden book sprung to life , stuart little 2 manages sweetness largely without stickiness .', 'label': 1}

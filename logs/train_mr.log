@@ -1,0 +1,57 @@
+Device : cuda | MR prompt-based FT manuel | 5 seeds
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/394 [00:00<?, ?it/s]Loading weights:  27%|██▋       | 106/394 [00:00<00:00, 1040.18it/s]Loading weights:  54%|█████▎    | 211/394 [00:00<00:00, 950.24it/s] Loading weights: 100%|██████████| 394/394 [00:00<00:00, 1431.99it/s]
+  seed 13 | lr=1e-05 bs=2 -> val 81.2% | test 74.0%
+Loading weights:   0%|          | 0/394 [00:00<?, ?it/s]Loading weights:  22%|██▏       | 86/394 [00:00<00:00, 791.90it/s]Loading weights:  58%|█████▊    | 227/394 [00:00<00:00, 1088.69it/s]Loading weights: 100%|██████████| 394/394 [00:00<00:00, 1366.35it/s]
+  seed 13 | lr=1e-05 bs=4 -> val 81.2% | test 88.6%
+Loading weights:   0%|          | 0/394 [00:00<?, ?it/s]Loading weights:  29%|██▉       | 114/394 [00:00<00:00, 1131.24it/s]Loading weights:  58%|█████▊    | 228/394 [00:00<00:00, 1015.13it/s]Loading weights: 100%|██████████| 394/394 [00:00<00:00, 1264.23it/s]
+  seed 13 | lr=2e-05 bs=4 -> val 87.5% | test 82.1%
+Loading weights:   0%|          | 0/394 [00:00<?, ?it/s]Loading weights:  25%|██▍       | 98/394 [00:00<00:00, 960.54it/s]Loading weights:  49%|████▉     | 195/394 [00:00<00:00, 962.55it/s]Loading weights: 100%|██████████| 394/394 [00:00<00:00, 1370.41it/s]
+  seed 13 | lr=2e-05 bs=8 -> val 78.1% | test 76.6%
+==> seed 13 : config (2e-05, 4) -> TEST 82.1%
+
+Loading weights:   0%|          | 0/394 [00:00<?, ?it/s]Loading weights:  26%|██▌       | 101/394 [00:00<00:00, 1008.89it/s]Loading weights:  51%|█████▏    | 202/394 [00:00<00:00, 889.55it/s] Loading weights: 100%|██████████| 394/394 [00:00<00:00, 1549.94it/s]
+  seed 21 | lr=1e-05 bs=2 -> val 87.5% | test 81.1%
+Loading weights:   0%|          | 0/394 [00:00<?, ?it/s]Loading weights:  30%|███       | 119/394 [00:00<00:00, 1154.84it/s]Loading weights:  60%|█████▉    | 235/394 [00:00<00:00, 944.35it/s] Loading weights: 100%|██████████| 394/394 [00:00<00:00, 1379.70it/s]
+  seed 21 | lr=1e-05 bs=4 -> val 87.5% | test 88.6%
+Loading weights:   0%|          | 0/394 [00:00<?, ?it/s]Loading weights:  19%|█▊        | 73/394 [00:00<00:00, 728.47it/s]Loading weights:  39%|███▉      | 153/394 [00:00<00:00, 754.93it/s]Loading weights:  65%|██████▍   | 256/394 [00:00<00:00, 875.51it/s]Loading weights: 100%|██████████| 394/394 [00:00<00:00, 1139.25it/s]
+  seed 21 | lr=2e-05 bs=4 -> val 96.9% | test 82.8%
+Loading weights:   0%|          | 0/394 [00:00<?, ?it/s]Loading weights:  24%|██▍       | 96/394 [00:00<00:00, 955.56it/s]Loading weights:  51%|█████     | 201/394 [00:00<00:00, 1006.32it/s]Loading weights: 100%|██████████| 394/394 [00:00<00:00, 1379.74it/s]
+  seed 21 | lr=2e-05 bs=8 -> val 93.8% | test 84.8%
+==> seed 21 : config (2e-05, 4) -> TEST 82.8%
+
+Loading weights:   0%|          | 0/394 [00:00<?, ?it/s]Loading weights:  28%|██▊       | 109/394 [00:00<00:00, 1089.54it/s]Loading weights:  55%|█████▌    | 218/394 [00:00<00:00, 919.00it/s] Loading weights: 100%|██████████| 394/394 [00:00<00:00, 1292.10it/s]
+  seed 42 | lr=1e-05 bs=2 -> val 96.9% | test 88.9%
+Loading weights:   0%|          | 0/394 [00:00<?, ?it/s]Loading weights:  27%|██▋       | 106/394 [00:00<00:00, 1053.24it/s]Loading weights:  54%|█████▍    | 212/394 [00:00<00:00, 984.19it/s] Loading weights: 100%|██████████| 394/394 [00:00<00:00, 1511.01it/s]
+  seed 42 | lr=1e-05 bs=4 -> val 96.9% | test 89.2%
+Loading weights:   0%|          | 0/394 [00:00<?, ?it/s]Loading weights:  22%|██▏       | 85/394 [00:00<00:00, 812.22it/s]Loading weights:  42%|████▏     | 167/394 [00:00<00:00, 806.54it/s]Loading weights: 100%|██████████| 394/394 [00:00<00:00, 1315.41it/s]
+  seed 42 | lr=2e-05 bs=4 -> val 96.9% | test 89.6%
+Loading weights:   0%|          | 0/394 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 68/394 [00:00<00:00, 676.31it/s]Loading weights:  41%|████      | 161/394 [00:00<00:00, 825.13it/s]Loading weights: 100%|██████████| 394/394 [00:00<00:00, 1574.20it/s]
+  seed 42 | lr=2e-05 bs=8 -> val 96.9% | test 89.2%
+==> seed 42 : config (2e-05, 8) -> TEST 89.2%
+
+Loading weights:   0%|          | 0/394 [00:00<?, ?it/s]Loading weights:  33%|███▎      | 131/394 [00:00<00:00, 1298.70it/s]Loading weights:  68%|██████▊   | 266/394 [00:00<00:00, 1304.94it/s]Loading weights: 100%|██████████| 394/394 [00:00<00:00, 1405.23it/s]
+  seed 87 | lr=1e-05 bs=2 -> val 90.6% | test 82.0%
+Loading weights:   0%|          | 0/394 [00:00<?, ?it/s]Loading weights:  18%|█▊        | 71/394 [00:00<00:00, 709.36it/s]Loading weights:  48%|████▊     | 188/394 [00:00<00:00, 980.00it/s]Loading weights: 100%|██████████| 394/394 [00:00<00:00, 1451.47it/s]
+  seed 87 | lr=1e-05 bs=4 -> val 96.9% | test 87.1%
+Loading weights:   0%|          | 0/394 [00:00<?, ?it/s]Loading weights:  26%|██▌       | 103/394 [00:00<00:00, 932.28it/s]Loading weights:  50%|█████     | 197/394 [00:00<00:00, 855.48it/s]Loading weights:  76%|███████▌  | 298/394 [00:00<00:00, 920.55it/s]Loading weights: 100%|██████████| 394/394 [00:00<00:00, 1062.31it/s]
+  seed 87 | lr=2e-05 bs=4 -> val 93.8% | test 87.1%
+Loading weights:   0%|          | 0/394 [00:00<?, ?it/s]Loading weights:  28%|██▊       | 111/394 [00:00<00:00, 1104.02it/s]Loading weights:  56%|█████▋    | 222/394 [00:00<00:00, 832.72it/s] Loading weights:  85%|████████▌ | 335/394 [00:00<00:00, 943.90it/s]Loading weights: 100%|██████████| 394/394 [00:00<00:00, 1083.57it/s]
+  seed 87 | lr=2e-05 bs=8 -> val 93.8% | test 87.4%
+==> seed 87 : config (1e-05, 4) -> TEST 87.1%
+
+Loading weights:   0%|          | 0/394 [00:00<?, ?it/s]Loading weights:  24%|██▍       | 95/394 [00:00<00:00, 947.73it/s]Loading weights:  59%|█████▉    | 233/394 [00:00<00:00, 1127.37it/s]Loading weights: 100%|██████████| 394/394 [00:00<00:00, 1283.88it/s]
+  seed 100 | lr=1e-05 bs=2 -> val 75.0% | test 87.0%
+Loading weights:   0%|          | 0/394 [00:00<?, ?it/s]Loading weights:  27%|██▋       | 105/394 [00:00<00:00, 975.62it/s]Loading weights:  52%|█████▏    | 203/394 [00:00<00:00, 926.00it/s]Loading weights: 100%|██████████| 394/394 [00:00<00:00, 1405.60it/s]
+  seed 100 | lr=1e-05 bs=4 -> val 78.1% | test 85.7%
+Loading weights:   0%|          | 0/394 [00:00<?, ?it/s]Loading weights:  25%|██▌       | 100/394 [00:00<00:00, 998.59it/s]Loading weights:  55%|█████▍    | 215/394 [00:00<00:00, 1052.13it/s]Loading weights: 100%|██████████| 394/394 [00:00<00:00, 1377.05it/s]
+  seed 100 | lr=2e-05 bs=4 -> val 75.0% | test 86.4%
+Loading weights:   0%|          | 0/394 [00:00<?, ?it/s]Loading weights:  27%|██▋       | 107/394 [00:00<00:00, 1008.83it/s]Loading weights:  61%|██████    | 241/394 [00:00<00:00, 1183.13it/s]Loading weights: 100%|██████████| 394/394 [00:00<00:00, 1290.58it/s]
+  seed 100 | lr=2e-05 bs=8 -> val 81.2% | test 86.0%
+==> seed 100 : config (2e-05, 8) -> TEST 86.0%
+
+==================================================
+Scores test par seed : [82.1, 82.8, 89.2, 87.1, 86.0]
+Prompt-based FT (manuel) MR : 85.4 +/- 2.7
+Cible papier : 87.0
+Rapport -> outputs_mr/04_prompt_ft_manual.json et .txt

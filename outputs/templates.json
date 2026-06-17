@@ -1,0 +1,797 @@
+[
+  {
+    "template": ", {mask} , {sentence}",
+    "score": -1.6383,
+    "variant": "before"
+  },
+  {
+    "template": "and {mask} and {sentence}",
+    "score": -1.6527,
+    "variant": "before"
+  },
+  {
+    "template": ", {mask} , and {sentence}",
+    "score": -1.6803,
+    "variant": "before"
+  },
+  {
+    "template": "and {mask} , {sentence}",
+    "score": -1.7101,
+    "variant": "before"
+  },
+  {
+    "template": ", a {mask} , {sentence}",
+    "score": -1.7297,
+    "variant": "before"
+  },
+  {
+    "template": "and {mask} , and {sentence}",
+    "score": -1.738,
+    "variant": "before"
+  },
+  {
+    "template": "in a {mask} way {sentence}",
+    "score": -1.7454,
+    "variant": "before"
+  },
+  {
+    "template": ", {mask} and {sentence}",
+    "score": -1.7556,
+    "variant": "before"
+  },
+  {
+    "template": ", and {mask} , and {sentence}",
+    "score": -1.7904,
+    "variant": "before"
+  },
+  {
+    "template": "if not {mask} , {sentence}",
+    "score": -1.8084,
+    "variant": "before"
+  },
+  {
+    "template": "{sentence} a {mask} .",
+    "score": -1.8113,
+    "variant": "after"
+  },
+  {
+    "template": "and a {mask} and {sentence}",
+    "score": -1.8176,
+    "variant": "before"
+  },
+  {
+    "template": "- {mask} - {sentence}",
+    "score": -1.8398,
+    "variant": "before"
+  },
+  {
+    "template": "{sentence} in a {mask} way.",
+    "score": -1.8432,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} is a {mask} .",
+    "score": -1.8465,
+    "variant": "after"
+  },
+  {
+    "template": "and {mask} - {sentence}",
+    "score": -1.8486,
+    "variant": "before"
+  },
+  {
+    "template": "{sentence} in a {mask} .",
+    "score": -1.8505,
+    "variant": "after"
+  },
+  {
+    "template": "as it is {mask} and {sentence}",
+    "score": -1.8512,
+    "variant": "before"
+  },
+  {
+    "template": "in a {mask} way, {sentence}",
+    "score": -1.8516,
+    "variant": "before"
+  },
+  {
+    "template": ", and {mask} , {sentence}",
+    "score": -1.8549,
+    "variant": "before"
+  },
+  {
+    "template": "and {mask} , but {sentence}",
+    "score": -1.8608,
+    "variant": "before"
+  },
+  {
+    "template": "{sentence} and a {mask} .",
+    "score": -1.8648,
+    "variant": "after"
+  },
+  {
+    "template": ". This is {mask} , {sentence}",
+    "score": -1.8728,
+    "variant": "before"
+  },
+  {
+    "template": ", it is {mask} , {sentence}",
+    "score": -1.875,
+    "variant": "before"
+  },
+  {
+    "template": "in a {mask} way and {sentence}",
+    "score": -1.8758,
+    "variant": "before"
+  },
+  {
+    "template": "and a {mask} , {sentence}",
+    "score": -1.8795,
+    "variant": "before"
+  },
+  {
+    "template": "as it is {mask} , {sentence}",
+    "score": -1.8829,
+    "variant": "before"
+  },
+  {
+    "template": "{sentence} is {mask} .",
+    "score": -1.8859,
+    "variant": "after"
+  },
+  {
+    "template": ", a {mask} and {sentence}",
+    "score": -1.8877,
+    "variant": "before"
+  },
+  {
+    "template": "{sentence} . It was {mask} .",
+    "score": -1.893,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} - {mask} .",
+    "score": -1.8993,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} that is {mask} .",
+    "score": -1.9235,
+    "variant": "after"
+  },
+  {
+    "template": "but not {mask} , {sentence}",
+    "score": -1.931,
+    "variant": "before"
+  },
+  {
+    "template": ". It is {mask} , {sentence}",
+    "score": -1.9351,
+    "variant": "before"
+  },
+  {
+    "template": "{sentence} would be {mask} .",
+    "score": -1.9359,
+    "variant": "after"
+  },
+  {
+    "template": ". This is {mask} . {sentence}",
+    "score": -1.9422,
+    "variant": "before"
+  },
+  {
+    "template": "{sentence} . It is {mask} .",
+    "score": -1.9428,
+    "variant": "after"
+  },
+  {
+    "template": "a {mask} movie {sentence}",
+    "score": -1.9442,
+    "variant": "before"
+  },
+  {
+    "template": "is a {mask} and {sentence}",
+    "score": -1.9465,
+    "variant": "before"
+  },
+  {
+    "template": "{sentence} which is {mask} .",
+    "score": -1.9491,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} will be {mask} .",
+    "score": -1.9534,
+    "variant": "after"
+  },
+  {
+    "template": ", {mask} - {sentence}",
+    "score": -1.9561,
+    "variant": "before"
+  },
+  {
+    "template": ", and {mask} and {sentence}",
+    "score": -1.9566,
+    "variant": "before"
+  },
+  {
+    "template": ", the {mask} , {sentence}",
+    "score": -1.957,
+    "variant": "before"
+  },
+  {
+    "template": "a {mask} and {sentence}",
+    "score": -1.9605,
+    "variant": "before"
+  },
+  {
+    "template": "in a {mask} way. {sentence}",
+    "score": -1.9672,
+    "variant": "before"
+  },
+  {
+    "template": "a {mask} , {sentence}",
+    "score": -1.9688,
+    "variant": "before"
+  },
+  {
+    "template": ", {mask} movie, {sentence}",
+    "score": -1.9697,
+    "variant": "before"
+  },
+  {
+    "template": "and {mask} – {sentence}",
+    "score": -1.9726,
+    "variant": "before"
+  },
+  {
+    "template": ", just {mask} , {sentence}",
+    "score": -1.9758,
+    "variant": "before"
+  },
+  {
+    "template": ", a {mask} movie {sentence}",
+    "score": -1.9786,
+    "variant": "before"
+  },
+  {
+    "template": "{sentence} , a {mask} .",
+    "score": -1.9799,
+    "variant": "after"
+  },
+  {
+    "template": ", {mask} , but {sentence}",
+    "score": -1.9867,
+    "variant": "before"
+  },
+  {
+    "template": ". It is {mask} . {sentence}",
+    "score": -1.9905,
+    "variant": "before"
+  },
+  {
+    "template": ", not {mask} , {sentence}",
+    "score": -1.991,
+    "variant": "before"
+  },
+  {
+    "template": "is a {mask} , {sentence}",
+    "score": -1.9928,
+    "variant": "before"
+  },
+  {
+    "template": "and a {mask} movie {sentence}",
+    "score": -1.9943,
+    "variant": "before"
+  },
+  {
+    "template": "and {mask} but {sentence}",
+    "score": -1.9969,
+    "variant": "before"
+  },
+  {
+    "template": "for a {mask} movie {sentence}",
+    "score": -1.9985,
+    "variant": "before"
+  },
+  {
+    "template": ", {mask} film, {sentence}",
+    "score": -1.9998,
+    "variant": "before"
+  },
+  {
+    "template": "a {mask} film {sentence}",
+    "score": -2.0002,
+    "variant": "before"
+  },
+  {
+    "template": "and a {mask} time {sentence}",
+    "score": -2.0094,
+    "variant": "before"
+  },
+  {
+    "template": ", a {mask} film {sentence}",
+    "score": -2.0095,
+    "variant": "before"
+  },
+  {
+    "template": "{sentence} it is {mask} .",
+    "score": -2.0097,
+    "variant": "after"
+  },
+  {
+    "template": "ly {mask} and {sentence}",
+    "score": -2.0134,
+    "variant": "before"
+  },
+  {
+    "template": "is a {mask} movie {sentence}",
+    "score": -2.0154,
+    "variant": "before"
+  },
+  {
+    "template": ", but {mask} , {sentence}",
+    "score": -2.0179,
+    "variant": "before"
+  },
+  {
+    "template": "is {mask} and {sentence}",
+    "score": -2.0205,
+    "variant": "before"
+  },
+  {
+    "template": "and {mask} . {sentence}",
+    "score": -2.0215,
+    "variant": "before"
+  },
+  {
+    "template": "a {mask} idea {sentence}",
+    "score": -2.0219,
+    "variant": "before"
+  },
+  {
+    "template": "{sentence} – {mask} .",
+    "score": -2.0246,
+    "variant": "after"
+  },
+  {
+    "template": "and the {mask} , {sentence}",
+    "score": -2.0257,
+    "variant": "before"
+  },
+  {
+    "template": "- {mask} , {sentence}",
+    "score": -2.0276,
+    "variant": "before"
+  },
+  {
+    "template": "{sentence} with {mask} results.",
+    "score": -2.0335,
+    "variant": "after"
+  },
+  {
+    "template": "a {mask} story {sentence}",
+    "score": -2.0371,
+    "variant": "before"
+  },
+  {
+    "template": "a {mask} time {sentence}",
+    "score": -2.0374,
+    "variant": "before"
+  },
+  {
+    "template": "and a {mask} way {sentence}",
+    "score": -2.0399,
+    "variant": "before"
+  },
+  {
+    "template": "{sentence} - {mask} !",
+    "score": -2.0417,
+    "variant": "after"
+  },
+  {
+    "template": ". {mask} . {sentence}",
+    "score": -2.0441,
+    "variant": "before"
+  },
+  {
+    "template": "and {mask} ... {sentence}",
+    "score": -2.0455,
+    "variant": "before"
+  },
+  {
+    "template": "{sentence} it was {mask} .",
+    "score": -2.0506,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} can be {mask} .",
+    "score": -2.0506,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} , {mask} .",
+    "score": -2.0667,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} . {mask} .",
+    "score": -2.0743,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} to be {mask} .",
+    "score": -2.0748,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} ... {mask} .",
+    "score": -2.0764,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} . A {mask} movie.",
+    "score": -2.0802,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} . Just {mask} .",
+    "score": -2.086,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} is just {mask} .",
+    "score": -2.0862,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} in the {mask} .",
+    "score": -2.0866,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} a {mask} movie.",
+    "score": -2.0894,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} . A {mask} film.",
+    "score": -2.0971,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} a {mask} experience.",
+    "score": -2.0999,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} that was {mask} .",
+    "score": -2.1141,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} has been {mask} .",
+    "score": -2.123,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} for the {mask} .",
+    "score": -2.1248,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} and {mask} .",
+    "score": -2.1305,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} should be {mask} .",
+    "score": -2.1353,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} of the {mask} .",
+    "score": -2.1466,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} a {mask} film.",
+    "score": -2.1475,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} . A {mask} read.",
+    "score": -2.1479,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} a {mask} one.",
+    "score": -2.1483,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} this is {mask} .",
+    "score": -2.1556,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} — {mask} .",
+    "score": -2.1556,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} . A {mask} experience.",
+    "score": -2.1568,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} . So {mask} .",
+    "score": -2.1578,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} . It was {mask} !",
+    "score": -2.1578,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} a {mask} time.",
+    "score": -2.1636,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} – {mask} !",
+    "score": -2.1673,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} and the {mask} .",
+    "score": -2.1787,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} , and {mask} .",
+    "score": -2.1869,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} to the {mask} .",
+    "score": -2.1889,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} . a {mask} .",
+    "score": -2.1919,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} a {mask} thing.",
+    "score": -2.1943,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} . A {mask} .",
+    "score": -2.1961,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} a {mask} read.",
+    "score": -2.1997,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} a {mask} idea.",
+    "score": -2.2031,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} in {mask} fashion.",
+    "score": -2.2046,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} . It is {mask} !",
+    "score": -2.2048,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} . A {mask} watch.",
+    "score": -2.205,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} a {mask} story.",
+    "score": -2.206,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} a {mask} show.",
+    "score": -2.2076,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} on the {mask} .",
+    "score": -2.2085,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} was {mask} .",
+    "score": -2.2157,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} ... {mask} !",
+    "score": -2.2221,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} in a {mask} way!",
+    "score": -2.2228,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} and a {mask} movie.",
+    "score": -2.2241,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} of {mask} ness.",
+    "score": -2.2298,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} in a {mask} manner.",
+    "score": -2.2298,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} and is {mask} .",
+    "score": -2.2324,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} and its {mask} .",
+    "score": -2.2334,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} a {mask} watch.",
+    "score": -2.2337,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} . A {mask} show.",
+    "score": -2.2342,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} a {mask} !",
+    "score": -2.2344,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} a {mask} deal.",
+    "score": -2.2367,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} . A {mask} one.",
+    "score": -2.2392,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} in a {mask} movie.",
+    "score": -2.24,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} from the {mask} .",
+    "score": -2.2452,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} a {mask} way.",
+    "score": -2.2454,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} in a {mask} !",
+    "score": -2.2461,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} and a {mask} film.",
+    "score": -2.2462,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} is a {mask} !",
+    "score": -2.2464,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} in a {mask} film.",
+    "score": -2.2485,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} . So {mask} !",
+    "score": -2.269,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} and a {mask} !",
+    "score": -2.2725,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} a {mask} day.",
+    "score": -2.2782,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} and a {mask} story.",
+    "score": -2.2799,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} in a {mask} way.\"",
+    "score": -2.284,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} at the {mask} .",
+    "score": -2.2902,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} , {mask} !",
+    "score": -2.2941,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} that is {mask} !",
+    "score": -2.2978,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} in a {mask} fashion.",
+    "score": -2.3066,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} is {mask} !",
+    "score": -2.307,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} in a {mask} year.",
+    "score": -2.3086,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} in this {mask} .",
+    "score": -2.3118,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} will be {mask} !",
+    "score": -2.3151,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} and a {mask} show.",
+    "score": -2.3153,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} . {mask} !",
+    "score": -2.3193,
+    "variant": "after"
+  },
+  {
+    "template": "{sentence} and a {mask} experience.",
+    "score": -2.3222,
+    "variant": "after"
+  }
+]

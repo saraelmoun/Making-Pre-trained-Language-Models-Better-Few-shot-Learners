@@ -1,0 +1,9 @@
+ETAPE 3 — ZERO-SHOT prompt-based sur MR
+========================================
+Template     : {sentence} It was {mask} .
+Mots-labels  : {1: 'great', 0: 'terrible'}
+Test set     : 1066 phrases
+
+Accuracy ZERO-SHOT : 78.6%  (838/1066)
+
+Aucun entrainement : le prompt reutilise les connaissances du pre-entrainement.

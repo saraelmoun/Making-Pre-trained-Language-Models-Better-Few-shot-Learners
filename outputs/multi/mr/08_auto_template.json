@@ -1,0 +1,16 @@
+{
+  "step": "08_auto_template",
+  "dataset": "MR (rotten_tomatoes)",
+  "best_template": "{sentence} it was a {mask} movie .",
+  "test_scores": [
+    79.5,
+    89.0,
+    90.5,
+    87.2,
+    85.8
+  ],
+  "mean": 86.4,
+  "std": 3.8,
+  "paper_target": 88.5,
+  "note_manuel_nous": "It was [MASK] -> 85.4 +/- 2.7"
+}

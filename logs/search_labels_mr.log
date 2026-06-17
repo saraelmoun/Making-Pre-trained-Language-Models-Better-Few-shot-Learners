@@ -1,0 +1,42 @@
+Device : cuda | MR §5.1 auto mots-labels | template fixe : {sentence} It was {mask} .
+Loading weights:   0%|          | 0/394 [00:00<?, ?it/s]Loading weights:  73%|███████▎  | 286/394 [00:00<00:00, 2836.92it/s]Loading weights: 100%|██████████| 394/394 [00:00<00:00, 3637.22it/s]
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+
+[1] Top-100 mots par classe (seed 42)...
+  classe 0: terrible, awful, disappointing, fun, not, bad, funny, great, good, predictable, horrible, hilarious ...
+  classe 1: brilliant, great, amazing, beautiful, wonderful, fun, fantastic, incredible, fascinating, perfect, good, excellent ...
+
+[2] Filtre zero-shot sur 100x100 combinaisons...
+  Top 5 (zero-shot) :
+    {0:bad, 1:brutal} -> 96.9%
+    {0:depressing, 1:haunting} -> 96.9%
+    {0:strange, 1:unforgettable} -> 96.9%
+    {0:terrible, 1:delightful} -> 93.8%
+    {0:awful, 1:fascinating} -> 93.8%
+
+[3] Fine-tuning des 10 finalistes...
+    {0:bad, 1:brutal} -> val 93.8%
+    {0:depressing, 1:haunting} -> val 96.9%
+    {0:strange, 1:unforgettable} -> val 96.9%
+    {0:terrible, 1:delightful} -> val 96.9%
+    {0:awful, 1:fascinating} -> val 96.9%
+    {0:awful, 1:unforgettable} -> val 96.9%
+    {0:awful, 1:sublime} -> val 96.9%
+    {0:bad, 1:breathtaking} -> val 96.9%
+    {0:bad, 1:unforgettable} -> val 96.9%
+    {0:bad, 1:here} -> val 100.0%
+
+>>> MEILLEURS mots-labels : {0:bad, 1:here}
+
+[4] Evaluation finale (5 seeds x grille)...
+    seed 13 -> TEST 85.0%
+    seed 21 -> TEST 89.6%
+    seed 42 -> TEST 86.0%
+    seed 87 -> TEST 88.6%
+    seed 100 -> TEST 78.2%
+
+==================================================
+Mots-labels auto MR : {0:bad, 1:here}
+Prompt-based FT (AUTO label words) : 85.5 +/- 4.0
+(rappel) manuel, nous : 85.4 +/- 2.7
+==================================================

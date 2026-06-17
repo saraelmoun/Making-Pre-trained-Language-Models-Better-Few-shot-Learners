@@ -1,0 +1,16 @@
+{
+  "step": "08_auto_template",
+  "dataset": "CR (SetFit/SentEval-CR)",
+  "best_template": "{sentence} What a {mask} experience!",
+  "test_scores": [
+    90.3,
+    89.4,
+    92.0,
+    90.7,
+    86.5
+  ],
+  "mean": 89.8,
+  "std": 1.9,
+  "paper_target": 85.5,
+  "note_manuel_nous": "It was [MASK] -> voir etape 04"
+}

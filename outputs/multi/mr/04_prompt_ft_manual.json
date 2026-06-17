@@ -1,0 +1,90 @@
+{
+  "step": "04_prompt_ft_manual",
+  "dataset": "MR (rotten_tomatoes)",
+  "method": "prompt-based fine-tuning (manuel)",
+  "template": "{sentence} It was {mask} .",
+  "label_words": {
+    "1": "great",
+    "0": "terrible"
+  },
+  "protocol": {
+    "seeds": [
+      13,
+      21,
+      42,
+      87,
+      100
+    ],
+    "grid": [
+      [
+        1e-05,
+        2
+      ],
+      [
+        1e-05,
+        4
+      ],
+      [
+        2e-05,
+        4
+      ],
+      [
+        2e-05,
+        8
+      ]
+    ],
+    "epochs": 60
+  },
+  "per_seed": [
+    {
+      "seed": 13,
+      "config": [
+        2e-05,
+        4
+      ],
+      "test_acc": 82.1
+    },
+    {
+      "seed": 21,
+      "config": [
+        2e-05,
+        4
+      ],
+      "test_acc": 82.8
+    },
+    {
+      "seed": 42,
+      "config": [
+        2e-05,
+        8
+      ],
+      "test_acc": 89.2
+    },
+    {
+      "seed": 87,
+      "config": [
+        1e-05,
+        4
+      ],
+      "test_acc": 87.1
+    },
+    {
+      "seed": 100,
+      "config": [
+        2e-05,
+        8
+      ],
+      "test_acc": 86.0
+    }
+  ],
+  "test_scores": [
+    82.1,
+    82.8,
+    89.2,
+    87.1,
+    86.0
+  ],
+  "mean": 85.4,
+  "std": 2.7,
+  "paper_target": 87.0
+}

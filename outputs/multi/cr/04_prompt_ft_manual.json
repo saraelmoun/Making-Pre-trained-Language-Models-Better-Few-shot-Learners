@@ -1,0 +1,90 @@
+{
+  "step": "04_prompt_ft_manual",
+  "dataset": "CR (SetFit/SentEval-CR)",
+  "method": "prompt-based fine-tuning (manuel)",
+  "template": "{sentence} It was {mask} .",
+  "label_words": {
+    "1": "great",
+    "0": "terrible"
+  },
+  "protocol": {
+    "seeds": [
+      13,
+      21,
+      42,
+      87,
+      100
+    ],
+    "grid": [
+      [
+        1e-05,
+        2
+      ],
+      [
+        1e-05,
+        4
+      ],
+      [
+        2e-05,
+        4
+      ],
+      [
+        2e-05,
+        8
+      ]
+    ],
+    "epochs": 60
+  },
+  "per_seed": [
+    {
+      "seed": 13,
+      "config": [
+        2e-05,
+        4
+      ],
+      "test_acc": 89.6
+    },
+    {
+      "seed": 21,
+      "config": [
+        2e-05,
+        4
+      ],
+      "test_acc": 81.4
+    },
+    {
+      "seed": 42,
+      "config": [
+        1e-05,
+        2
+      ],
+      "test_acc": 85.5
+    },
+    {
+      "seed": 87,
+      "config": [
+        1e-05,
+        2
+      ],
+      "test_acc": 90.8
+    },
+    {
+      "seed": 100,
+      "config": [
+        2e-05,
+        8
+      ],
+      "test_acc": 91.2
+    }
+  ],
+  "test_scores": [
+    89.6,
+    81.4,
+    85.5,
+    90.8,
+    91.2
+  ],
+  "mean": 87.7,
+  "std": 3.8,
+  "paper_target": 90.3
+}

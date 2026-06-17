@@ -1,0 +1,518 @@
+[
+  {
+    "template": "{sentence} What a {mask} experience!",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.1976
+  },
+  {
+    "template": "{sentence} Overall a {mask} product.",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.2188
+  },
+  {
+    "template": "{sentence} It is really {mask} .",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.2349
+  },
+  {
+    "template": "{sentence} It is a {mask} .",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.2608
+  },
+  {
+    "template": "{sentence} Overall a {mask} experience .",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.2644
+  },
+  {
+    "template": "{sentence} It is {mask} !",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.356
+  },
+  {
+    "template": "{sentence} It looks {mask} .",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.1568
+  },
+  {
+    "template": "{sentence} Overall a {mask} product .",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.1655
+  },
+  {
+    "template": "{sentence} Thanks for your {mask} review!",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.1778
+  },
+  {
+    "template": "{sentence} a {mask} experience .",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.1847
+  },
+  {
+    "template": "{sentence} Thanks for your {mask} review.",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.1979
+  },
+  {
+    "template": "{sentence} What a {mask} deal.",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.1991
+  },
+  {
+    "template": "{sentence} The quality is {mask} .",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.2018
+  },
+  {
+    "template": "{sentence} Thanks for the {mask} reviews.",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.2069
+  },
+  {
+    "template": "{sentence} What a {mask} experience.",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.2219
+  },
+  {
+    "template": ", it is {mask} , {sentence}",
+    "variant": "before",
+    "val_acc": 93.75,
+    "val_loss": 0.2235
+  },
+  {
+    "template": ", it's {mask} , {sentence}",
+    "variant": "before",
+    "val_acc": 93.75,
+    "val_loss": 0.2285
+  },
+  {
+    "template": "{sentence} Thanks for this {mask} review!",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.2301
+  },
+  {
+    "template": "{sentence} Thanks for your {mask} service!",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.2348
+  },
+  {
+    "template": "{sentence} Overall a {mask} experience.",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.2357
+  },
+  {
+    "template": ", looks {mask} , {sentence}",
+    "variant": "before",
+    "val_acc": 93.75,
+    "val_loss": 0.2405
+  },
+  {
+    "template": "{sentence} It’s {mask} !",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.2406
+  },
+  {
+    "template": "{sentence} what a {mask} product.",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.2429
+  },
+  {
+    "template": "{sentence} Thanks for this {mask} review.",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.2477
+  },
+  {
+    "template": "{sentence} It is just {mask} .",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.2481
+  },
+  {
+    "template": "{sentence} Thanks for the {mask} product.",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.258
+  },
+  {
+    "template": "{sentence} It is a {mask} product.",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.2622
+  },
+  {
+    "template": "{sentence} It's {mask} !",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.2669
+  },
+  {
+    "template": "{sentence} This is a {mask} .",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.2675
+  },
+  {
+    "template": "{sentence} this is a {mask} product.",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.2715
+  },
+  {
+    "template": "{sentence} So far so {mask} .",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.2778
+  },
+  {
+    "template": "{sentence} So far so {mask} !",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.2784
+  },
+  {
+    "template": "{sentence} the quality is {mask} .",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.2809
+  },
+  {
+    "template": "{sentence} The quality is {mask} !",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.2828
+  },
+  {
+    "template": "{sentence} Thanks for the {mask} review!",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.2899
+  },
+  {
+    "template": ", the quality is {mask} , {sentence}",
+    "variant": "before",
+    "val_acc": 93.75,
+    "val_loss": 0.2946
+  },
+  {
+    "template": "{sentence} its a {mask} product.",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.3068
+  },
+  {
+    "template": "{sentence} What a {mask} deal!",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.3092
+  },
+  {
+    "template": "{sentence} What a {mask} idea!",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.3122
+  },
+  {
+    "template": "{sentence} I think its {mask} .",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.3137
+  },
+  {
+    "template": "{sentence} Thanks for your {mask} service.",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.3168
+  },
+  {
+    "template": "{sentence} What a {mask} idea.",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.3244
+  },
+  {
+    "template": "{sentence} It is {mask} .",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.3284
+  },
+  {
+    "template": "{sentence} This is {mask} .",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.3331
+  },
+  {
+    "template": "{sentence} Thanks for the {mask} review !",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.3393
+  },
+  {
+    "template": "{sentence} Thanks for the {mask} service!",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.3608
+  },
+  {
+    "template": "{sentence} Thanks for the {mask} review .",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.3653
+  },
+  {
+    "template": "{sentence} Thanks for the {mask} review.",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.367
+  },
+  {
+    "template": "{sentence} Thanks for the {mask} service.",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.368
+  },
+  {
+    "template": "{sentence} thanks for the {mask} review.",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.369
+  },
+  {
+    "template": ", {mask} , {sentence}",
+    "variant": "before",
+    "val_acc": 93.75,
+    "val_loss": 0.3722
+  },
+  {
+    "template": "{sentence} That is {mask} .",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.3773
+  },
+  {
+    "template": "{sentence} . . {mask} !",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.3784
+  },
+  {
+    "template": "{sentence} Thanks for the {mask} service .",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.3939
+  },
+  {
+    "template": "{sentence} It’s {mask} .",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.4131
+  },
+  {
+    "template": "{sentence} Its {mask} !",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.4158
+  },
+  {
+    "template": "{sentence} This is {mask} !",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.4247
+  },
+  {
+    "template": "{sentence} This is a {mask} product.",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.4347
+  },
+  {
+    "template": "{sentence} its a {mask} .",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.5048
+  },
+  {
+    "template": "{sentence} this is {mask} .",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.5706
+  },
+  {
+    "template": "{sentence} This is a {mask} deal.",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.6057
+  },
+  {
+    "template": "{sentence} it's {mask} .",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.6544
+  },
+  {
+    "template": "{sentence} a {mask} experience.",
+    "variant": "after",
+    "val_acc": 90.625,
+    "val_loss": 0.2021
+  },
+  {
+    "template": "{sentence} What a {mask} product.",
+    "variant": "after",
+    "val_acc": 90.625,
+    "val_loss": 0.2172
+  },
+  {
+    "template": "{sentence} This is a {mask} !",
+    "variant": "after",
+    "val_acc": 90.625,
+    "val_loss": 0.2592
+  },
+  {
+    "template": "{sentence} This is a {mask} idea.",
+    "variant": "after",
+    "val_acc": 90.625,
+    "val_loss": 0.2906
+  },
+  {
+    "template": "{sentence} it's {mask} !",
+    "variant": "after",
+    "val_acc": 90.625,
+    "val_loss": 0.3089
+  },
+  {
+    "template": "{sentence} All in all {mask} .",
+    "variant": "after",
+    "val_acc": 90.625,
+    "val_loss": 0.3306
+  },
+  {
+    "template": "{sentence} what a {mask} idea.",
+    "variant": "after",
+    "val_acc": 90.625,
+    "val_loss": 0.3444
+  },
+  {
+    "template": "{sentence} this is a {mask} .",
+    "variant": "after",
+    "val_acc": 90.625,
+    "val_loss": 0.3452
+  },
+  {
+    "template": "{sentence} Its a {mask} .",
+    "variant": "after",
+    "val_acc": 90.625,
+    "val_loss": 0.3461
+  },
+  {
+    "template": "{sentence} . . {mask} .",
+    "variant": "after",
+    "val_acc": 90.625,
+    "val_loss": 0.3685
+  },
+  {
+    "template": "{sentence} This is really {mask} .",
+    "variant": "after",
+    "val_acc": 90.625,
+    "val_loss": 0.3715
+  },
+  {
+    "template": "{sentence} a {mask} product.",
+    "variant": "after",
+    "val_acc": 90.625,
+    "val_loss": 0.3977
+  },
+  {
+    "template": "{sentence} It's {mask} ! !",
+    "variant": "after",
+    "val_acc": 90.625,
+    "val_loss": 0.3981
+  },
+  {
+    "template": "{sentence} The price is {mask} .",
+    "variant": "after",
+    "val_acc": 90.625,
+    "val_loss": 0.4068
+  },
+  {
+    "template": "{sentence} it was {mask} .",
+    "variant": "after",
+    "val_acc": 90.625,
+    "val_loss": 0.4853
+  },
+  {
+    "template": "{sentence} What a {mask} product!",
+    "variant": "after",
+    "val_acc": 90.625,
+    "val_loss": 0.5034
+  },
+  {
+    "template": "{sentence} It was {mask} .",
+    "variant": "after",
+    "val_acc": 90.625,
+    "val_loss": 0.51
+  },
+  {
+    "template": "{sentence} a {mask} product .",
+    "variant": "after",
+    "val_acc": 90.625,
+    "val_loss": 0.5503
+  },
+  {
+    "template": "{sentence} it is {mask} .",
+    "variant": "after",
+    "val_acc": 90.625,
+    "val_loss": 0.5619
+  },
+  {
+    "template": "{sentence} It's {mask} .",
+    "variant": "after",
+    "val_acc": 90.625,
+    "val_loss": 0.5787
+  },
+  {
+    "template": "{sentence} . {mask} .",
+    "variant": "after",
+    "val_acc": 90.625,
+    "val_loss": 0.5854
+  },
+  {
+    "template": "{sentence} Looks {mask} .",
+    "variant": "after",
+    "val_acc": 87.5,
+    "val_loss": 0.4346
+  },
+  {
+    "template": "{sentence} Its {mask} .",
+    "variant": "after",
+    "val_acc": 87.5,
+    "val_loss": 0.5044
+  },
+  {
+    "template": "{sentence} which is {mask} .",
+    "variant": "after",
+    "val_acc": 87.5,
+    "val_loss": 0.9019
+  }
+]

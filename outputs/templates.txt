@@ -1,0 +1,159 @@
+  1. [before] (score -1.638)  , {mask} , {sentence}
+  2. [before] (score -1.653)  and {mask} and {sentence}
+  3. [before] (score -1.680)  , {mask} , and {sentence}
+  4. [before] (score -1.710)  and {mask} , {sentence}
+  5. [before] (score -1.730)  , a {mask} , {sentence}
+  6. [before] (score -1.738)  and {mask} , and {sentence}
+  7. [before] (score -1.745)  in a {mask} way {sentence}
+  8. [before] (score -1.756)  , {mask} and {sentence}
+  9. [before] (score -1.790)  , and {mask} , and {sentence}
+ 10. [before] (score -1.808)  if not {mask} , {sentence}
+ 11. [after ] (score -1.811)  {sentence} a {mask} .
+ 12. [before] (score -1.818)  and a {mask} and {sentence}
+ 13. [before] (score -1.840)  - {mask} - {sentence}
+ 14. [after ] (score -1.843)  {sentence} in a {mask} way.
+ 15. [after ] (score -1.847)  {sentence} is a {mask} .
+ 16. [before] (score -1.849)  and {mask} - {sentence}
+ 17. [after ] (score -1.851)  {sentence} in a {mask} .
+ 18. [before] (score -1.851)  as it is {mask} and {sentence}
+ 19. [before] (score -1.852)  in a {mask} way, {sentence}
+ 20. [before] (score -1.855)  , and {mask} , {sentence}
+ 21. [before] (score -1.861)  and {mask} , but {sentence}
+ 22. [after ] (score -1.865)  {sentence} and a {mask} .
+ 23. [before] (score -1.873)  . This is {mask} , {sentence}
+ 24. [before] (score -1.875)  , it is {mask} , {sentence}
+ 25. [before] (score -1.876)  in a {mask} way and {sentence}
+ 26. [before] (score -1.879)  and a {mask} , {sentence}
+ 27. [before] (score -1.883)  as it is {mask} , {sentence}
+ 28. [after ] (score -1.886)  {sentence} is {mask} .
+ 29. [before] (score -1.888)  , a {mask} and {sentence}
+ 30. [after ] (score -1.893)  {sentence} . It was {mask} .
+ 31. [after ] (score -1.899)  {sentence} - {mask} .
+ 32. [after ] (score -1.923)  {sentence} that is {mask} .
+ 33. [before] (score -1.931)  but not {mask} , {sentence}
+ 34. [before] (score -1.935)  . It is {mask} , {sentence}
+ 35. [after ] (score -1.936)  {sentence} would be {mask} .
+ 36. [before] (score -1.942)  . This is {mask} . {sentence}
+ 37. [after ] (score -1.943)  {sentence} . It is {mask} .
+ 38. [before] (score -1.944)  a {mask} movie {sentence}
+ 39. [before] (score -1.946)  is a {mask} and {sentence}
+ 40. [after ] (score -1.949)  {sentence} which is {mask} .
+ 41. [after ] (score -1.953)  {sentence} will be {mask} .
+ 42. [before] (score -1.956)  , {mask} - {sentence}
+ 43. [before] (score -1.957)  , and {mask} and {sentence}
+ 44. [before] (score -1.957)  , the {mask} , {sentence}
+ 45. [before] (score -1.960)  a {mask} and {sentence}
+ 46. [before] (score -1.967)  in a {mask} way. {sentence}
+ 47. [before] (score -1.969)  a {mask} , {sentence}
+ 48. [before] (score -1.970)  , {mask} movie, {sentence}
+ 49. [before] (score -1.973)  and {mask} – {sentence}
+ 50. [before] (score -1.976)  , just {mask} , {sentence}
+ 51. [before] (score -1.979)  , a {mask} movie {sentence}
+ 52. [after ] (score -1.980)  {sentence} , a {mask} .
+ 53. [before] (score -1.987)  , {mask} , but {sentence}
+ 54. [before] (score -1.990)  . It is {mask} . {sentence}
+ 55. [before] (score -1.991)  , not {mask} , {sentence}
+ 56. [before] (score -1.993)  is a {mask} , {sentence}
+ 57. [before] (score -1.994)  and a {mask} movie {sentence}
+ 58. [before] (score -1.997)  and {mask} but {sentence}
+ 59. [before] (score -1.998)  for a {mask} movie {sentence}
+ 60. [before] (score -2.000)  , {mask} film, {sentence}
+ 61. [before] (score -2.000)  a {mask} film {sentence}
+ 62. [before] (score -2.009)  and a {mask} time {sentence}
+ 63. [before] (score -2.010)  , a {mask} film {sentence}
+ 64. [after ] (score -2.010)  {sentence} it is {mask} .
+ 65. [before] (score -2.013)  ly {mask} and {sentence}
+ 66. [before] (score -2.015)  is a {mask} movie {sentence}
+ 67. [before] (score -2.018)  , but {mask} , {sentence}
+ 68. [before] (score -2.021)  is {mask} and {sentence}
+ 69. [before] (score -2.022)  and {mask} . {sentence}
+ 70. [before] (score -2.022)  a {mask} idea {sentence}
+ 71. [after ] (score -2.025)  {sentence} – {mask} .
+ 72. [before] (score -2.026)  and the {mask} , {sentence}
+ 73. [before] (score -2.028)  - {mask} , {sentence}
+ 74. [after ] (score -2.034)  {sentence} with {mask} results.
+ 75. [before] (score -2.037)  a {mask} story {sentence}
+ 76. [before] (score -2.037)  a {mask} time {sentence}
+ 77. [before] (score -2.040)  and a {mask} way {sentence}
+ 78. [after ] (score -2.042)  {sentence} - {mask} !
+ 79. [before] (score -2.044)  . {mask} . {sentence}
+ 80. [before] (score -2.046)  and {mask} ... {sentence}
+ 81. [after ] (score -2.051)  {sentence} it was {mask} .
+ 82. [after ] (score -2.051)  {sentence} can be {mask} .
+ 83. [after ] (score -2.067)  {sentence} , {mask} .
+ 84. [after ] (score -2.074)  {sentence} . {mask} .
+ 85. [after ] (score -2.075)  {sentence} to be {mask} .
+ 86. [after ] (score -2.076)  {sentence} ... {mask} .
+ 87. [after ] (score -2.080)  {sentence} . A {mask} movie.
+ 88. [after ] (score -2.086)  {sentence} . Just {mask} .
+ 89. [after ] (score -2.086)  {sentence} is just {mask} .
+ 90. [after ] (score -2.087)  {sentence} in the {mask} .
+ 91. [after ] (score -2.089)  {sentence} a {mask} movie.
+ 92. [after ] (score -2.097)  {sentence} . A {mask} film.
+ 93. [after ] (score -2.100)  {sentence} a {mask} experience.
+ 94. [after ] (score -2.114)  {sentence} that was {mask} .
+ 95. [after ] (score -2.123)  {sentence} has been {mask} .
+ 96. [after ] (score -2.125)  {sentence} for the {mask} .
+ 97. [after ] (score -2.131)  {sentence} and {mask} .
+ 98. [after ] (score -2.135)  {sentence} should be {mask} .
+ 99. [after ] (score -2.147)  {sentence} of the {mask} .
+100. [after ] (score -2.147)  {sentence} a {mask} film.
+101. [after ] (score -2.148)  {sentence} . A {mask} read.
+102. [after ] (score -2.148)  {sentence} a {mask} one.
+103. [after ] (score -2.156)  {sentence} this is {mask} .
+104. [after ] (score -2.156)  {sentence} — {mask} .
+105. [after ] (score -2.157)  {sentence} . A {mask} experience.
+106. [after ] (score -2.158)  {sentence} . So {mask} .
+107. [after ] (score -2.158)  {sentence} . It was {mask} !
+108. [after ] (score -2.164)  {sentence} a {mask} time.
+109. [after ] (score -2.167)  {sentence} – {mask} !
+110. [after ] (score -2.179)  {sentence} and the {mask} .
+111. [after ] (score -2.187)  {sentence} , and {mask} .
+112. [after ] (score -2.189)  {sentence} to the {mask} .
+113. [after ] (score -2.192)  {sentence} . a {mask} .
+114. [after ] (score -2.194)  {sentence} a {mask} thing.
+115. [after ] (score -2.196)  {sentence} . A {mask} .
+116. [after ] (score -2.200)  {sentence} a {mask} read.
+117. [after ] (score -2.203)  {sentence} a {mask} idea.
+118. [after ] (score -2.205)  {sentence} in {mask} fashion.
+119. [after ] (score -2.205)  {sentence} . It is {mask} !
+120. [after ] (score -2.205)  {sentence} . A {mask} watch.
+121. [after ] (score -2.206)  {sentence} a {mask} story.
+122. [after ] (score -2.208)  {sentence} a {mask} show.
+123. [after ] (score -2.208)  {sentence} on the {mask} .
+124. [after ] (score -2.216)  {sentence} was {mask} .
+125. [after ] (score -2.222)  {sentence} ... {mask} !
+126. [after ] (score -2.223)  {sentence} in a {mask} way!
+127. [after ] (score -2.224)  {sentence} and a {mask} movie.
+128. [after ] (score -2.230)  {sentence} of {mask} ness.
+129. [after ] (score -2.230)  {sentence} in a {mask} manner.
+130. [after ] (score -2.232)  {sentence} and is {mask} .
+131. [after ] (score -2.233)  {sentence} and its {mask} .
+132. [after ] (score -2.234)  {sentence} a {mask} watch.
+133. [after ] (score -2.234)  {sentence} . A {mask} show.
+134. [after ] (score -2.234)  {sentence} a {mask} !
+135. [after ] (score -2.237)  {sentence} a {mask} deal.
+136. [after ] (score -2.239)  {sentence} . A {mask} one.
+137. [after ] (score -2.240)  {sentence} in a {mask} movie.
+138. [after ] (score -2.245)  {sentence} from the {mask} .
+139. [after ] (score -2.245)  {sentence} a {mask} way.
+140. [after ] (score -2.246)  {sentence} in a {mask} !
+141. [after ] (score -2.246)  {sentence} and a {mask} film.
+142. [after ] (score -2.246)  {sentence} is a {mask} !
+143. [after ] (score -2.248)  {sentence} in a {mask} film.
+144. [after ] (score -2.269)  {sentence} . So {mask} !
+145. [after ] (score -2.272)  {sentence} and a {mask} !
+146. [after ] (score -2.278)  {sentence} a {mask} day.
+147. [after ] (score -2.280)  {sentence} and a {mask} story.
+148. [after ] (score -2.284)  {sentence} in a {mask} way."
+149. [after ] (score -2.290)  {sentence} at the {mask} .
+150. [after ] (score -2.294)  {sentence} , {mask} !
+151. [after ] (score -2.298)  {sentence} that is {mask} !
+152. [after ] (score -2.307)  {sentence} in a {mask} fashion.
+153. [after ] (score -2.307)  {sentence} is {mask} !
+154. [after ] (score -2.309)  {sentence} in a {mask} year.
+155. [after ] (score -2.312)  {sentence} in this {mask} .
+156. [after ] (score -2.315)  {sentence} will be {mask} !
+157. [after ] (score -2.315)  {sentence} and a {mask} show.
+158. [after ] (score -2.319)  {sentence} . {mask} !
+159. [after ] (score -2.322)  {sentence} and a {mask} experience.

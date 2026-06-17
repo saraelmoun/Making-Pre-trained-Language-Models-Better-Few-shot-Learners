@@ -1,0 +1,10 @@
+ETAPE 2 — CHARGEMENT FEW-SHOT DE CR
+========================================
+Dataset : CR (SetFit/SentEval-CR)
+K par classe : 16 (seed 42)
+
+Tailles : train 32 | val 32 | test 753
+Equilibre train : 16 positifs / 16 negatifs
+
+Exemple train : {'sentence': "just bought one & i 've enjoyed it to date .", 'label': 1}
+Exemple test  : {'sentence': '4 megapixels is enough for anybody and the photo quality is awesome .', 'label': 1}

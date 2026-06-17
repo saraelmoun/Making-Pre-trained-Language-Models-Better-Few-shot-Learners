@@ -1,0 +1,14 @@
+ETAPE 4 — PROMPT-BASED FINE-TUNING (manuel) sur MR
+==================================================
+Template : {sentence} It was {mask} . | mots-labels : {1: 'great', 0: 'terrible'}
+Protocole : 5 seeds x grille [(1e-05, 2), (1e-05, 4), (2e-05, 4), (2e-05, 8)], 60 epochs
+
+  seed  13 (config [2e-05, 4]) -> TEST 82.1%
+  seed  21 (config [2e-05, 4]) -> TEST 82.8%
+  seed  42 (config [2e-05, 8]) -> TEST 89.2%
+  seed  87 (config [1e-05, 4]) -> TEST 87.1%
+  seed 100 (config [2e-05, 8]) -> TEST 86.0%
+
+Scores test : [82.1, 82.8, 89.2, 87.1, 86.0]
+Prompt-based FT (manuel) : 85.4 +/- 2.7
+Cible papier (Table 3, MR) : 87.0

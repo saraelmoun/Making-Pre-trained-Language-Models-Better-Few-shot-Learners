@@ -1,0 +1,1006 @@
+{
+  "0": [
+    {
+      "token_id": 6587,
+      "word": "terrible",
+      "score": -4.3901
+    },
+    {
+      "token_id": 11522,
+      "word": "awful",
+      "score": -4.4491
+    },
+    {
+      "token_id": 6770,
+      "word": "disappointing",
+      "score": -4.7238
+    },
+    {
+      "token_id": 1531,
+      "word": "fun",
+      "score": -4.807
+    },
+    {
+      "token_id": 45,
+      "word": "not",
+      "score": -4.8648
+    },
+    {
+      "token_id": 1099,
+      "word": "bad",
+      "score": -4.9456
+    },
+    {
+      "token_id": 6269,
+      "word": "funny",
+      "score": -5.0537
+    },
+    {
+      "token_id": 372,
+      "word": "great",
+      "score": -5.1953
+    },
+    {
+      "token_id": 205,
+      "word": "good",
+      "score": -5.2525
+    },
+    {
+      "token_id": 16887,
+      "word": "predictable",
+      "score": -5.311
+    },
+    {
+      "token_id": 11385,
+      "word": "horrible",
+      "score": -5.6091
+    },
+    {
+      "token_id": 14598,
+      "word": "hilarious",
+      "score": -5.6567
+    },
+    {
+      "token_id": 2770,
+      "word": "amazing",
+      "score": -5.7096
+    },
+    {
+      "token_id": 6967,
+      "word": "brilliant",
+      "score": -5.7221
+    },
+    {
+      "token_id": 15305,
+      "word": "boring",
+      "score": -5.7384
+    },
+    {
+      "token_id": 5074,
+      "word": "sad",
+      "score": -5.7824
+    },
+    {
+      "token_id": 7735,
+      "word": "weird",
+      "score": -5.8476
+    },
+    {
+      "token_id": 3007,
+      "word": "worse",
+      "score": -5.8581
+    },
+    {
+      "token_id": 98,
+      "word": "so",
+      "score": -5.8833
+    },
+    {
+      "token_id": 11066,
+      "word": "inevitable",
+      "score": -5.942
+    },
+    {
+      "token_id": 626,
+      "word": "done",
+      "score": -5.9468
+    },
+    {
+      "token_id": 13394,
+      "word": "embarrassing",
+      "score": -5.9832
+    },
+    {
+      "token_id": 162,
+      "word": "me",
+      "score": -6.1242
+    },
+    {
+      "token_id": 10861,
+      "word": "ridiculous",
+      "score": -6.1301
+    },
+    {
+      "token_id": 1969,
+      "word": "perfect",
+      "score": -6.1332
+    },
+    {
+      "token_id": 29583,
+      "word": "exhausting",
+      "score": -6.1391
+    },
+    {
+      "token_id": 10314,
+      "word": "frustrating",
+      "score": -6.2354
+    },
+    {
+      "token_id": 11676,
+      "word": "bizarre",
+      "score": -6.2446
+    },
+    {
+      "token_id": 29338,
+      "word": "depressing",
+      "score": -6.2478
+    },
+    {
+      "token_id": 2933,
+      "word": "dark",
+      "score": -6.2533
+    },
+    {
+      "token_id": 21096,
+      "word": "disgusting",
+      "score": -6.2609
+    },
+    {
+      "token_id": 31790,
+      "word": "pathetic",
+      "score": -6.2617
+    },
+    {
+      "token_id": 2679,
+      "word": "interesting",
+      "score": -6.294
+    },
+    {
+      "token_id": 14,
+      "word": "that",
+      "score": -6.2962
+    },
+    {
+      "token_id": 95,
+      "word": "just",
+      "score": -6.3231
+    },
+    {
+      "token_id": 350,
+      "word": "too",
+      "score": -6.4252
+    },
+    {
+      "token_id": 70,
+      "word": "all",
+      "score": -6.4266
+    },
+    {
+      "token_id": 1085,
+      "word": "nothing",
+      "score": -6.4288
+    },
+    {
+      "token_id": 8661,
+      "word": "painful",
+      "score": -6.4684
+    },
+    {
+      "token_id": 1256,
+      "word": "pretty",
+      "score": -6.4816
+    },
+    {
+      "token_id": 101,
+      "word": "like",
+      "score": -6.484
+    },
+    {
+      "token_id": 5,
+      "word": "the",
+      "score": -6.493
+    },
+    {
+      "token_id": 4678,
+      "word": "obvious",
+      "score": -6.4945
+    },
+    {
+      "token_id": 1365,
+      "word": "easy",
+      "score": -6.5001
+    },
+    {
+      "token_id": 11110,
+      "word": "entertaining",
+      "score": -6.5232
+    },
+    {
+      "token_id": 1593,
+      "word": "wrong",
+      "score": -6.5391
+    },
+    {
+      "token_id": 11783,
+      "word": "disturbing",
+      "score": -6.5542
+    },
+    {
+      "token_id": 4613,
+      "word": "wonderful",
+      "score": -6.5583
+    },
+    {
+      "token_id": 89,
+      "word": "there",
+      "score": -6.5703
+    },
+    {
+      "token_id": 8513,
+      "word": "brutal",
+      "score": -6.5792
+    },
+    {
+      "token_id": 15567,
+      "word": "terrifying",
+      "score": -6.5838
+    },
+    {
+      "token_id": 5500,
+      "word": "fantastic",
+      "score": -6.5939
+    },
+    {
+      "token_id": 6128,
+      "word": "everywhere",
+      "score": -6.5983
+    },
+    {
+      "token_id": 31715,
+      "word": "dreadful",
+      "score": -6.6076
+    },
+    {
+      "token_id": 421,
+      "word": "expected",
+      "score": -6.6118
+    },
+    {
+      "token_id": 15868,
+      "word": "confusing",
+      "score": -6.6143
+    },
+    {
+      "token_id": 2721,
+      "word": "beautiful",
+      "score": -6.6519
+    },
+    {
+      "token_id": 6344,
+      "word": "awesome",
+      "score": -6.6674
+    },
+    {
+      "token_id": 11355,
+      "word": "ugly",
+      "score": -6.6711
+    },
+    {
+      "token_id": 3997,
+      "word": "incredible",
+      "score": -6.6979
+    },
+    {
+      "token_id": 2007,
+      "word": "simple",
+      "score": -6.6982
+    },
+    {
+      "token_id": 7782,
+      "word": "strange",
+      "score": -6.7024
+    },
+    {
+      "token_id": 12103,
+      "word": "stupid",
+      "score": -6.7041
+    },
+    {
+      "token_id": 14260,
+      "word": "wasted",
+      "score": -6.7211
+    },
+    {
+      "token_id": 8777,
+      "word": "shocking",
+      "score": -6.723
+    },
+    {
+      "token_id": 26027,
+      "word": "appalling",
+      "score": -6.7363
+    },
+    {
+      "token_id": 14011,
+      "word": "unbelievable",
+      "score": -6.7611
+    },
+    {
+      "token_id": 38677,
+      "word": "laughable",
+      "score": -6.7664
+    },
+    {
+      "token_id": 615,
+      "word": "enough",
+      "score": -6.7719
+    },
+    {
+      "token_id": 10495,
+      "word": "unnecessary",
+      "score": -6.811
+    },
+    {
+      "token_id": 81,
+      "word": "over",
+      "score": -6.8164
+    },
+    {
+      "token_id": 357,
+      "word": "better",
+      "score": -6.8165
+    },
+    {
+      "token_id": 2051,
+      "word": "fine",
+      "score": -6.8206
+    },
+    {
+      "token_id": 1528,
+      "word": "true",
+      "score": -6.8213
+    },
+    {
+      "token_id": 42,
+      "word": "this",
+      "score": -6.8657
+    },
+    {
+      "token_id": 28242,
+      "word": "horrifying",
+      "score": -6.8667
+    },
+    {
+      "token_id": 235,
+      "word": "right",
+      "score": -6.8736
+    },
+    {
+      "token_id": 9327,
+      "word": "unfortunate",
+      "score": -6.8758
+    },
+    {
+      "token_id": 17846,
+      "word": "refreshing",
+      "score": -6.9022
+    },
+    {
+      "token_id": 10222,
+      "word": "scary",
+      "score": -6.9049
+    },
+    {
+      "token_id": 628,
+      "word": "late",
+      "score": -6.9317
+    },
+    {
+      "token_id": 4206,
+      "word": "excellent",
+      "score": -6.9338
+    },
+    {
+      "token_id": 17052,
+      "word": "heartbreaking",
+      "score": -6.9383
+    },
+    {
+      "token_id": 86,
+      "word": "time",
+      "score": -6.9457
+    },
+    {
+      "token_id": 19887,
+      "word": "annoying",
+      "score": -6.9522
+    },
+    {
+      "token_id": 15,
+      "word": "on",
+      "score": -6.957
+    },
+    {
+      "token_id": 182,
+      "word": "very",
+      "score": -6.9657
+    },
+    {
+      "token_id": 11789,
+      "word": "awkward",
+      "score": -6.9974
+    },
+    {
+      "token_id": 16091,
+      "word": "absurd",
+      "score": -7.0026
+    },
+    {
+      "token_id": 258,
+      "word": "both",
+      "score": -7.0069
+    },
+    {
+      "token_id": 31321,
+      "word": "pointless",
+      "score": -7.0181
+    },
+    {
+      "token_id": 6162,
+      "word": "cheap",
+      "score": -7.0205
+    },
+    {
+      "token_id": 8642,
+      "word": "overwhelming",
+      "score": -7.0262
+    },
+    {
+      "token_id": 393,
+      "word": "never",
+      "score": -7.0298
+    },
+    {
+      "token_id": 8578,
+      "word": "okay",
+      "score": -7.0511
+    },
+    {
+      "token_id": 67,
+      "word": "also",
+      "score": -7.0583
+    },
+    {
+      "token_id": 24,
+      "word": "it",
+      "score": -7.075
+    },
+    {
+      "token_id": 2139,
+      "word": "necessary",
+      "score": -7.1096
+    },
+    {
+      "token_id": 2569,
+      "word": "cold",
+      "score": -7.127
+    },
+    {
+      "token_id": 15518,
+      "word": "disastrous",
+      "score": -7.1461
+    }
+  ],
+  "1": [
+    {
+      "token_id": 6967,
+      "word": "brilliant",
+      "score": -4.001
+    },
+    {
+      "token_id": 372,
+      "word": "great",
+      "score": -4.2118
+    },
+    {
+      "token_id": 2770,
+      "word": "amazing",
+      "score": -4.2782
+    },
+    {
+      "token_id": 2721,
+      "word": "beautiful",
+      "score": -4.4221
+    },
+    {
+      "token_id": 4613,
+      "word": "wonderful",
+      "score": -4.657
+    },
+    {
+      "token_id": 1531,
+      "word": "fun",
+      "score": -4.7128
+    },
+    {
+      "token_id": 5500,
+      "word": "fantastic",
+      "score": -4.8943
+    },
+    {
+      "token_id": 3997,
+      "word": "incredible",
+      "score": -4.9829
+    },
+    {
+      "token_id": 12509,
+      "word": "fascinating",
+      "score": -4.9842
+    },
+    {
+      "token_id": 1969,
+      "word": "perfect",
+      "score": -5.0037
+    },
+    {
+      "token_id": 205,
+      "word": "good",
+      "score": -5.0277
+    },
+    {
+      "token_id": 4206,
+      "word": "excellent",
+      "score": -5.0533
+    },
+    {
+      "token_id": 5835,
+      "word": "stunning",
+      "score": -5.108
+    },
+    {
+      "token_id": 19243,
+      "word": "magnificent",
+      "score": -5.2743
+    },
+    {
+      "token_id": 11415,
+      "word": "superb",
+      "score": -5.4101
+    },
+    {
+      "token_id": 24206,
+      "word": "breathtaking",
+      "score": -5.441
+    },
+    {
+      "token_id": 17846,
+      "word": "refreshing",
+      "score": -5.5067
+    },
+    {
+      "token_id": 7063,
+      "word": "remarkable",
+      "score": -5.524
+    },
+    {
+      "token_id": 6344,
+      "word": "awesome",
+      "score": -5.5556
+    },
+    {
+      "token_id": 7116,
+      "word": "extraordinary",
+      "score": -5.6287
+    },
+    {
+      "token_id": 26865,
+      "word": "unforgettable",
+      "score": -5.6442
+    },
+    {
+      "token_id": 45,
+      "word": "not",
+      "score": -5.686
+    },
+    {
+      "token_id": 14353,
+      "word": "terrific",
+      "score": -5.8006
+    },
+    {
+      "token_id": 19720,
+      "word": "astonishing",
+      "score": -5.8541
+    },
+    {
+      "token_id": 8694,
+      "word": "spectacular",
+      "score": -5.8552
+    },
+    {
+      "token_id": 32477,
+      "word": "sublime",
+      "score": -5.8583
+    },
+    {
+      "token_id": 24897,
+      "word": "delightful",
+      "score": -5.9
+    },
+    {
+      "token_id": 15567,
+      "word": "terrifying",
+      "score": -5.9715
+    },
+    {
+      "token_id": 67,
+      "word": "also",
+      "score": -6.0853
+    },
+    {
+      "token_id": 16208,
+      "word": "thrilling",
+      "score": -6.1699
+    },
+    {
+      "token_id": 2679,
+      "word": "interesting",
+      "score": -6.1785
+    },
+    {
+      "token_id": 30041,
+      "word": "exquisite",
+      "score": -6.1819
+    },
+    {
+      "token_id": 16599,
+      "word": "phenomenal",
+      "score": -6.2477
+    },
+    {
+      "token_id": 7360,
+      "word": "devastating",
+      "score": -6.2501
+    },
+    {
+      "token_id": 98,
+      "word": "so",
+      "score": -6.251
+    },
+    {
+      "token_id": 19465,
+      "word": "glorious",
+      "score": -6.2573
+    },
+    {
+      "token_id": 5,
+      "word": "the",
+      "score": -6.32
+    },
+    {
+      "token_id": 3444,
+      "word": "impressive",
+      "score": -6.322
+    },
+    {
+      "token_id": 2247,
+      "word": "powerful",
+      "score": -6.3222
+    },
+    {
+      "token_id": 13867,
+      "word": "magical",
+      "score": -6.3267
+    },
+    {
+      "token_id": 29583,
+      "word": "exhausting",
+      "score": -6.3581
+    },
+    {
+      "token_id": 29932,
+      "word": "astounding",
+      "score": -6.3668
+    },
+    {
+      "token_id": 9669,
+      "word": "compelling",
+      "score": -6.3946
+    },
+    {
+      "token_id": 40609,
+      "word": "marvelous",
+      "score": -6.405
+    },
+    {
+      "token_id": 14598,
+      "word": "hilarious",
+      "score": -6.4191
+    },
+    {
+      "token_id": 626,
+      "word": "done",
+      "score": -6.4265
+    },
+    {
+      "token_id": 8642,
+      "word": "overwhelming",
+      "score": -6.4358
+    },
+    {
+      "token_id": 10964,
+      "word": "delicious",
+      "score": -6.4444
+    },
+    {
+      "token_id": 5676,
+      "word": "intense",
+      "score": -6.457
+    },
+    {
+      "token_id": 350,
+      "word": "too",
+      "score": -6.4608
+    },
+    {
+      "token_id": 6269,
+      "word": "funny",
+      "score": -6.468
+    },
+    {
+      "token_id": 11110,
+      "word": "entertaining",
+      "score": -6.4696
+    },
+    {
+      "token_id": 2139,
+      "word": "necessary",
+      "score": -6.4827
+    },
+    {
+      "token_id": 258,
+      "word": "both",
+      "score": -6.4921
+    },
+    {
+      "token_id": 9066,
+      "word": "epic",
+      "score": -6.5064
+    },
+    {
+      "token_id": 182,
+      "word": "very",
+      "score": -6.5147
+    },
+    {
+      "token_id": 11653,
+      "word": "inspiring",
+      "score": -6.5209
+    },
+    {
+      "token_id": 235,
+      "word": "right",
+      "score": -6.5322
+    },
+    {
+      "token_id": 9297,
+      "word": "exceptional",
+      "score": -6.55
+    },
+    {
+      "token_id": 9869,
+      "word": "lovely",
+      "score": -6.5746
+    },
+    {
+      "token_id": 2375,
+      "word": "effective",
+      "score": -6.5901
+    },
+    {
+      "token_id": 12058,
+      "word": "gorgeous",
+      "score": -6.5904
+    },
+    {
+      "token_id": 1528,
+      "word": "true",
+      "score": -6.5994
+    },
+    {
+      "token_id": 17052,
+      "word": "heartbreaking",
+      "score": -6.6051
+    },
+    {
+      "token_id": 25257,
+      "word": "flawless",
+      "score": -6.6178
+    },
+    {
+      "token_id": 19907,
+      "word": "surreal",
+      "score": -6.6288
+    },
+    {
+      "token_id": 8375,
+      "word": "magic",
+      "score": -6.6609
+    },
+    {
+      "token_id": 13960,
+      "word": "profound",
+      "score": -6.668
+    },
+    {
+      "token_id": 6128,
+      "word": "everywhere",
+      "score": -6.6919
+    },
+    {
+      "token_id": 8777,
+      "word": "shocking",
+      "score": -6.7064
+    },
+    {
+      "token_id": 10132,
+      "word": "memorable",
+      "score": -6.743
+    },
+    {
+      "token_id": 3571,
+      "word": "exciting",
+      "score": -6.7733
+    },
+    {
+      "token_id": 162,
+      "word": "me",
+      "score": -6.7754
+    },
+    {
+      "token_id": 14,
+      "word": "that",
+      "score": -6.7843
+    },
+    {
+      "token_id": 70,
+      "word": "all",
+      "score": -6.823
+    },
+    {
+      "token_id": 7152,
+      "word": "unexpected",
+      "score": -6.8375
+    },
+    {
+      "token_id": 18452,
+      "word": "charming",
+      "score": -6.8441
+    },
+    {
+      "token_id": 960,
+      "word": "everything",
+      "score": -6.867
+    },
+    {
+      "token_id": 6167,
+      "word": "surprising",
+      "score": -6.8984
+    },
+    {
+      "token_id": 16333,
+      "word": "genius",
+      "score": -6.8993
+    },
+    {
+      "token_id": 95,
+      "word": "just",
+      "score": -6.9112
+    },
+    {
+      "token_id": 19858,
+      "word": "perfection",
+      "score": -6.9284
+    },
+    {
+      "token_id": 8513,
+      "word": "brutal",
+      "score": -6.9466
+    },
+    {
+      "token_id": 3973,
+      "word": "outstanding",
+      "score": -6.9537
+    },
+    {
+      "token_id": 4499,
+      "word": "essential",
+      "score": -6.9707
+    },
+    {
+      "token_id": 11783,
+      "word": "disturbing",
+      "score": -6.9754
+    },
+    {
+      "token_id": 18910,
+      "word": "groundbreaking",
+      "score": -6.978
+    },
+    {
+      "token_id": 6587,
+      "word": "terrible",
+      "score": -7.0246
+    },
+    {
+      "token_id": 156,
+      "word": "made",
+      "score": -7.0291
+    },
+    {
+      "token_id": 259,
+      "word": "here",
+      "score": -7.0315
+    },
+    {
+      "token_id": 588,
+      "word": "real",
+      "score": -7.0338
+    },
+    {
+      "token_id": 29475,
+      "word": "haunting",
+      "score": -7.0461
+    },
+    {
+      "token_id": 780,
+      "word": "special",
+      "score": -7.0614
+    },
+    {
+      "token_id": 357,
+      "word": "better",
+      "score": -7.0637
+    },
+    {
+      "token_id": 18260,
+      "word": "enjoyable",
+      "score": -7.1021
+    },
+    {
+      "token_id": 17545,
+      "word": "fabulous",
+      "score": -7.1079
+    },
+    {
+      "token_id": 1256,
+      "word": "pretty",
+      "score": -7.1123
+    },
+    {
+      "token_id": 89,
+      "word": "there",
+      "score": -7.1167
+    },
+    {
+      "token_id": 101,
+      "word": "like",
+      "score": -7.1435
+    },
+    {
+      "token_id": 615,
+      "word": "enough",
+      "score": -7.1444
+    }
+  ]
+}

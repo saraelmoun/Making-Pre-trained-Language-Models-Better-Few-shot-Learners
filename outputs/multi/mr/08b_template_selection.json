@@ -1,0 +1,722 @@
+[
+  {
+    "template": "{sentence} it was a {mask} movie .",
+    "variant": "after",
+    "val_acc": 100.0,
+    "val_loss": 0.0026
+  },
+  {
+    "template": "{sentence} it's a {mask} movie.",
+    "variant": "after",
+    "val_acc": 100.0,
+    "val_loss": 0.0046
+  },
+  {
+    "template": "{sentence} it's a {mask} film .",
+    "variant": "after",
+    "val_acc": 100.0,
+    "val_loss": 0.0118
+  },
+  {
+    "template": "{sentence} it's a {mask} movie .",
+    "variant": "after",
+    "val_acc": 100.0,
+    "val_loss": 0.0846
+  },
+  {
+    "template": "{sentence} a {mask} piece of work .",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.0442
+  },
+  {
+    "template": "{sentence} it is a {mask} movie .",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.0453
+  },
+  {
+    "template": "{sentence} . . a {mask} watch.",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.0544
+  },
+  {
+    "template": ", it's {mask} . {sentence}",
+    "variant": "before",
+    "val_acc": 96.875,
+    "val_loss": 0.0762
+  },
+  {
+    "template": "{sentence} its a {mask} film .",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.0848
+  },
+  {
+    "template": "{sentence} this is a {mask} movie.",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.0936
+  },
+  {
+    "template": "{sentence} this is a {mask} movie .",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.0974
+  },
+  {
+    "template": "{sentence} . . A {mask} movie .",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.1001
+  },
+  {
+    "template": "{sentence} a really {mask} film .",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.1024
+  },
+  {
+    "template": "{sentence} it is a {mask} film .",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.107
+  },
+  {
+    "template": "{sentence} It's a {mask} movie .",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.1199
+  },
+  {
+    "template": "{sentence} what a {mask} movie !",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.1239
+  },
+  {
+    "template": "{sentence} I thought it was {mask} .",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.1251
+  },
+  {
+    "template": "{sentence} it's a {mask} film.",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.1266
+  },
+  {
+    "template": "{sentence} a truly {mask} movie .",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.1287
+  },
+  {
+    "template": "{sentence} It’s a {mask} movie .",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.1292
+  },
+  {
+    "template": "{sentence} a truly {mask} film .",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.1361
+  },
+  {
+    "template": "{sentence} . . A {mask} movie.",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.1364
+  },
+  {
+    "template": "{sentence} . . A {mask} film .",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.1374
+  },
+  {
+    "template": "{sentence} . . a {mask} movie .",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.1414
+  },
+  {
+    "template": "{sentence} what a {mask} movie .",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.1455
+  },
+  {
+    "template": "{sentence} A {mask} waste of time .",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.1487
+  },
+  {
+    "template": "{sentence} This is a {mask} movie.",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.1496
+  },
+  {
+    "template": "{sentence} . . A {mask} film.",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.15
+  },
+  {
+    "template": "{sentence} . . a {mask} .",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.1523
+  },
+  {
+    "template": ". {mask} . {sentence}",
+    "variant": "before",
+    "val_acc": 96.875,
+    "val_loss": 0.154
+  },
+  {
+    "template": "{sentence} This was a {mask} film .",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.1567
+  },
+  {
+    "template": "{sentence} A truly {mask} film .",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.1575
+  },
+  {
+    "template": "{sentence} All in all a {mask} experience.",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.1577
+  },
+  {
+    "template": "{sentence} All in all a {mask} film .",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.1581
+  },
+  {
+    "template": "{sentence} It is a {mask} film .",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.1592
+  },
+  {
+    "template": "{sentence} All in all a {mask} movie .",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.1592
+  },
+  {
+    "template": "{sentence} It’s a {mask} film.",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.1661
+  },
+  {
+    "template": "{sentence} It’s a {mask} film .",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.1688
+  },
+  {
+    "template": "{sentence} What a {mask} movie !",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.1751
+  },
+  {
+    "template": "{sentence} This was a {mask} film.",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.177
+  },
+  {
+    "template": "{sentence} It's really {mask} .",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.1785
+  },
+  {
+    "template": "{sentence} . . {mask} .",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.1838
+  },
+  {
+    "template": "{sentence} It’s a {mask} movie.",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.184
+  },
+  {
+    "template": "{sentence} All in all a {mask} watch.",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.1915
+  },
+  {
+    "template": "{sentence} Just a {mask} movie .",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.195
+  },
+  {
+    "template": "{sentence} All in all a {mask} movie.",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.1955
+  },
+  {
+    "template": "{sentence} It's a {mask} story.",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.196
+  },
+  {
+    "template": "{sentence} a really {mask} movie .",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.2056
+  },
+  {
+    "template": "{sentence} Just a {mask} film .",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.2101
+  },
+  {
+    "template": "{sentence} this is a {mask} film !",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.2101
+  },
+  {
+    "template": "{sentence} It was a {mask} movie .",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.2137
+  },
+  {
+    "template": "{sentence} It's a {mask} watch.",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.2171
+  },
+  {
+    "template": "{sentence} this is a {mask} movie !",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.222
+  },
+  {
+    "template": "{sentence} It is a {mask} movie.",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.2239
+  },
+  {
+    "template": "{sentence} All in all a {mask} film.",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.2261
+  },
+  {
+    "template": "{sentence} What a {mask} film !",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.227
+  },
+  {
+    "template": "{sentence} what a {mask} film !",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.2309
+  },
+  {
+    "template": "{sentence} It was a {mask} film.",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.2323
+  },
+  {
+    "template": "{sentence} what a {mask} film .",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.2371
+  },
+  {
+    "template": "{sentence} It's just {mask} .",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.238
+  },
+  {
+    "template": "{sentence} This is a {mask} film !",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.2414
+  },
+  {
+    "template": "{sentence} It was a {mask} film .",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.244
+  },
+  {
+    "template": "{sentence} It's a {mask} watch .",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.2489
+  },
+  {
+    "template": "{sentence} . . a {mask} experience.",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.2515
+  },
+  {
+    "template": "{sentence} This is a {mask} film.",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.2533
+  },
+  {
+    "template": "{sentence} Truly a {mask} film .",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.2538
+  },
+  {
+    "template": "{sentence} . . a {mask} movie.",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.2551
+  },
+  {
+    "template": "{sentence} This was a {mask} movie .",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.2586
+  },
+  {
+    "template": "{sentence} this is a {mask} film .",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.2666
+  },
+  {
+    "template": "{sentence} It is a {mask} movie .",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.2756
+  },
+  {
+    "template": "{sentence} It's a {mask} film!",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.2801
+  },
+  {
+    "template": "{sentence} . . a {mask} film.",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.2802
+  },
+  {
+    "template": "{sentence} This is a {mask} movie !",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.2811
+  },
+  {
+    "template": "{sentence} this is a {mask} film.",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.2857
+  },
+  {
+    "template": "{sentence} . . {mask} stuff .",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.2858
+  },
+  {
+    "template": "{sentence} It's a {mask} film .",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.3075
+  },
+  {
+    "template": "{sentence} It's a {mask} movie.\"",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.3088
+  },
+  {
+    "template": "{sentence} What a {mask} film .",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.3094
+  },
+  {
+    "template": "{sentence} Its a {mask} movie .",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.3108
+  },
+  {
+    "template": "{sentence} It's a {mask} movie.",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.3181
+  },
+  {
+    "template": "{sentence} It's a {mask} movie !",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.3291
+  },
+  {
+    "template": "{sentence} It's a {mask} film.",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.3353
+  },
+  {
+    "template": "{sentence} It's a {mask} film.\"",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.3722
+  },
+  {
+    "template": "{sentence} What a {mask} movie .",
+    "variant": "after",
+    "val_acc": 96.875,
+    "val_loss": 0.3922
+  },
+  {
+    "template": "{sentence} This is a {mask} movie .",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.102
+  },
+  {
+    "template": "{sentence} its a {mask} movie .",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.151
+  },
+  {
+    "template": "{sentence} It's a {mask} movie!",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.1543
+  },
+  {
+    "template": ", it's a {mask} movie . {sentence}",
+    "variant": "before",
+    "val_acc": 93.75,
+    "val_loss": 0.1548
+  },
+  {
+    "template": ", {mask} . {sentence}",
+    "variant": "before",
+    "val_acc": 93.75,
+    "val_loss": 0.1553
+  },
+  {
+    "template": "{sentence} . . a {mask} film .",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.1896
+  },
+  {
+    "template": "{sentence} This is a {mask} film .",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.2009
+  },
+  {
+    "template": "{sentence} . . {mask} movie .",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.2049
+  },
+  {
+    "template": ", {mask} , {sentence}",
+    "variant": "before",
+    "val_acc": 93.75,
+    "val_loss": 0.2225
+  },
+  {
+    "template": ", {mask} film . {sentence}",
+    "variant": "before",
+    "val_acc": 93.75,
+    "val_loss": 0.2258
+  },
+  {
+    "template": "{sentence} A {mask} piece of work .",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.2258
+  },
+  {
+    "template": ", {mask} movie , {sentence}",
+    "variant": "before",
+    "val_acc": 93.75,
+    "val_loss": 0.2351
+  },
+  {
+    "template": "{sentence} It was a {mask} movie.",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.2371
+  },
+  {
+    "template": ", {mask} movie . {sentence}",
+    "variant": "before",
+    "val_acc": 93.75,
+    "val_loss": 0.2389
+  },
+  {
+    "template": "{sentence} Its a {mask} film .",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.2393
+  },
+  {
+    "template": "{sentence} . . . {mask} .",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.2541
+  },
+  {
+    "template": ", it's a {mask} movie , {sentence}",
+    "variant": "before",
+    "val_acc": 93.75,
+    "val_loss": 0.2778
+  },
+  {
+    "template": ", it's a {mask} film . {sentence}",
+    "variant": "before",
+    "val_acc": 93.75,
+    "val_loss": 0.2785
+  },
+  {
+    "template": ", this is a {mask} film . {sentence}",
+    "variant": "before",
+    "val_acc": 93.75,
+    "val_loss": 0.2801
+  },
+  {
+    "template": "{sentence} This was a {mask} movie.",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.2802
+  },
+  {
+    "template": "{sentence} It is a {mask} film.",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.2813
+  },
+  {
+    "template": "{sentence} This is a {mask} movie!",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.2848
+  },
+  {
+    "template": ", this is a {mask} film , {sentence}",
+    "variant": "before",
+    "val_acc": 93.75,
+    "val_loss": 0.2881
+  },
+  {
+    "template": ", a {mask} movie , {sentence}",
+    "variant": "before",
+    "val_acc": 93.75,
+    "val_loss": 0.3059
+  },
+  {
+    "template": ", {mask} film , {sentence}",
+    "variant": "before",
+    "val_acc": 93.75,
+    "val_loss": 0.3067
+  },
+  {
+    "template": ". a {mask} film . {sentence}",
+    "variant": "before",
+    "val_acc": 93.75,
+    "val_loss": 0.3344
+  },
+  {
+    "template": "{sentence} It's {mask} .",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.3374
+  },
+  {
+    "template": ", it's a {mask} film , {sentence}",
+    "variant": "before",
+    "val_acc": 93.75,
+    "val_loss": 0.3427
+  },
+  {
+    "template": "{sentence} . . {mask} film .",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.3571
+  },
+  {
+    "template": "{sentence} a {mask} film .",
+    "variant": "after",
+    "val_acc": 93.75,
+    "val_loss": 0.3716
+  },
+  {
+    "template": ", a {mask} film . {sentence}",
+    "variant": "before",
+    "val_acc": 93.75,
+    "val_loss": 0.3729
+  },
+  {
+    "template": ", this is a {mask} movie , {sentence}",
+    "variant": "before",
+    "val_acc": 93.75,
+    "val_loss": 0.3881
+  },
+  {
+    "template": ". This is a {mask} film , {sentence}",
+    "variant": "before",
+    "val_acc": 93.75,
+    "val_loss": 0.4776
+  },
+  {
+    "template": ", a {mask} film , {sentence}",
+    "variant": "before",
+    "val_acc": 93.75,
+    "val_loss": 0.4972
+  },
+  {
+    "template": "{sentence} It's a {mask} .",
+    "variant": "after",
+    "val_acc": 90.625,
+    "val_loss": 0.3046
+  },
+  {
+    "template": ", this is a {mask} movie . {sentence}",
+    "variant": "before",
+    "val_acc": 90.625,
+    "val_loss": 0.4645
+  }
+]

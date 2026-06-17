@@ -1,0 +1,92 @@
+[
+  {
+    "class0_word": "bad",
+    "class1_word": "here",
+    "class0_id": 1099,
+    "class1_id": 259,
+    "zeroshot_acc": 93.75,
+    "val_acc": 100.0,
+    "val_loss": 0.0515
+  },
+  {
+    "class0_word": "terrible",
+    "class1_word": "delightful",
+    "class0_id": 6587,
+    "class1_id": 24897,
+    "zeroshot_acc": 93.75,
+    "val_acc": 96.875,
+    "val_loss": 0.1019
+  },
+  {
+    "class0_word": "awful",
+    "class1_word": "sublime",
+    "class0_id": 11522,
+    "class1_id": 32477,
+    "zeroshot_acc": 93.75,
+    "val_acc": 96.875,
+    "val_loss": 0.1203
+  },
+  {
+    "class0_word": "awful",
+    "class1_word": "fascinating",
+    "class0_id": 11522,
+    "class1_id": 12509,
+    "zeroshot_acc": 93.75,
+    "val_acc": 96.875,
+    "val_loss": 0.1347
+  },
+  {
+    "class0_word": "awful",
+    "class1_word": "unforgettable",
+    "class0_id": 11522,
+    "class1_id": 26865,
+    "zeroshot_acc": 93.75,
+    "val_acc": 96.875,
+    "val_loss": 0.1698
+  },
+  {
+    "class0_word": "bad",
+    "class1_word": "breathtaking",
+    "class0_id": 1099,
+    "class1_id": 24206,
+    "zeroshot_acc": 93.75,
+    "val_acc": 96.875,
+    "val_loss": 0.223
+  },
+  {
+    "class0_word": "bad",
+    "class1_word": "unforgettable",
+    "class0_id": 1099,
+    "class1_id": 26865,
+    "zeroshot_acc": 93.75,
+    "val_acc": 96.875,
+    "val_loss": 0.2246
+  },
+  {
+    "class0_word": "strange",
+    "class1_word": "unforgettable",
+    "class0_id": 7782,
+    "class1_id": 26865,
+    "zeroshot_acc": 96.88,
+    "val_acc": 96.875,
+    "val_loss": 0.2468
+  },
+  {
+    "class0_word": "depressing",
+    "class1_word": "haunting",
+    "class0_id": 29338,
+    "class1_id": 29475,
+    "zeroshot_acc": 96.88,
+    "val_acc": 96.875,
+    "val_loss": 0.2772
+  },
+  {
+    "class0_word": "bad",
+    "class1_word": "brutal",
+    "class0_id": 1099,
+    "class1_id": 8513,
+    "zeroshot_acc": 96.88,
+    "val_acc": 93.75,
+    "val_loss": 0.2533
+  }
+]

@@ -1,0 +1,60 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/436 [00:00<?, ?it/s]Loading weights:  25%|██▌       | 111/436 [00:00<00:00, 1040.31it/s]Loading weights:  51%|█████     | 222/436 [00:00<00:00, 1065.85it/s]Loading weights:  75%|███████▌  | 329/436 [00:00<00:00, 957.03it/s] Loading weights: 100%|██████████| 436/436 [00:00<00:00, 1212.60it/s]
+Modele gpt2-large | device cuda
+sst2  direct    t1 (A MASK one.    ) ->  50.9%
+sst2  direct    t2 (It was MASK.   ) ->  54.7%
+sst2  direct    t3 (All in all MASK.) ->  50.9%
+sst2  direct    t4 (A MASK piece.  ) ->  50.9%
+   => sst2/direct: moy 51.9 pire 50.9 std 1.6
+
+sst2  direct++  t1 (A MASK one.    ) ->  76.8%
+sst2  direct++  t2 (It was MASK.   ) ->  78.3%
+sst2  direct++  t3 (All in all MASK.) ->  81.3%
+sst2  direct++  t4 (A MASK piece.  ) ->  76.8%
+   => sst2/direct++: moy 78.3 pire 76.8 std 1.8
+
+sst2  channel   t1 (A MASK one.    ) ->  73.5%
+sst2  channel   t2 (It was MASK.   ) ->  74.4%
+sst2  channel   t3 (All in all MASK.) ->  77.1%
+sst2  channel   t4 (A MASK piece.  ) ->  71.0%
+   => sst2/channel: moy 74.0 pire 71.0 std 2.2
+
+Repo card metadata block was not found. Setting CardData to empty.
+subj  direct    t1 (This is MASK.  ) ->  49.2%
+Repo card metadata block was not found. Setting CardData to empty.
+subj  direct    t2 (It's all MASK. ) ->  48.3%
+Repo card metadata block was not found. Setting CardData to empty.
+subj  direct    t3 (It's MASK.     ) ->  55.6%
+Repo card metadata block was not found. Setting CardData to empty.
+subj  direct    t4 (Is it MASK?    ) ->  69.7%
+   => subj/direct: moy 55.7 pire 48.3 std 8.5
+
+Repo card metadata block was not found. Setting CardData to empty.
+subj  direct++  t1 (This is MASK.  ) ->  67.2%
+Repo card metadata block was not found. Setting CardData to empty.
+subj  direct++  t2 (It's all MASK. ) ->  52.5%
+Repo card metadata block was not found. Setting CardData to empty.
+subj  direct++  t3 (It's MASK.     ) ->  56.5%
+Repo card metadata block was not found. Setting CardData to empty.
+subj  direct++  t4 (Is it MASK?    ) ->  60.1%
+   => subj/direct++: moy 59.1 pire 52.5 std 5.4
+
+Repo card metadata block was not found. Setting CardData to empty.
+subj  channel   t1 (This is MASK.  ) ->  57.0%
+Repo card metadata block was not found. Setting CardData to empty.
+subj  channel   t2 (It's all MASK. ) ->  53.6%
+Repo card metadata block was not found. Setting CardData to empty.
+subj  channel   t3 (It's MASK.     ) ->  54.6%
+Repo card metadata block was not found. Setting CardData to empty.
+subj  channel   t4 (Is it MASK?    ) ->  50.7%
+   => subj/channel: moy 54.0 pire 50.7 std 2.3
+
+
+===== SYNTHESE (moyenne / pire-cas ; std) vs PAPIER =====
+dataset methode   | nous moy/pire (std)    | papier moy/pire 
+sst2   direct    |  51.9/ 50.9 ( 1.6)        |  63.0/ 51.1
+sst2   direct++  |  78.3/ 76.8 ( 1.8)        |  80.3/ 76.9
+sst2   channel   |  74.0/ 71.0 ( 2.2)        |  77.1/ 74.8
+subj   direct    |  55.7/ 48.3 ( 8.5)        |  51.0/ 49.9
+subj   direct++  |  59.1/ 52.5 ( 5.4)        |  52.0/ 48.8
+subj   channel   |  54.0/ 50.7 ( 2.3)        |  57.8/ 51.5
